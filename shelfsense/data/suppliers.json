@@ -1,0 +1,3069 @@
+{
+  "suppliers": [
+    {
+      "supplier_id": "SUP01",
+      "name": "Gupta Traders",
+      "phone": "+91-98xxxxxx01",
+      "upi": "guptatraders@paytm",
+      "margin_off_mrp": 0.22,
+      "moq_cartons": 1,
+      "credit_days": 0,
+      "lead_time_hours": 24,
+      "reliability": 0.93
+    },
+    {
+      "supplier_id": "SUP02",
+      "name": "Metro Wholesalers",
+      "phone": "+91-98xxxxxx02",
+      "upi": "metrowholesale@paytm",
+      "margin_off_mrp": 0.25,
+      "moq_cartons": 5,
+      "credit_days": 0,
+      "lead_time_hours": 12,
+      "reliability": 0.88
+    },
+    {
+      "supplier_id": "SUP03",
+      "name": "Sharma Distributors",
+      "phone": "+91-98xxxxxx03",
+      "upi": "sharmadist@paytm",
+      "margin_off_mrp": 0.18,
+      "moq_cartons": 1,
+      "credit_days": 7,
+      "lead_time_hours": 2,
+      "reliability": 0.96
+    }
+  ],
+  "price_cards": [
+    {
+      "supplier_id": "SUP01",
+      "sku_id": "SKU001",
+      "units_per_carton": 24,
+      "unit_cost": 7.8,
+      "carton_price": 187.2,
+      "moq_cartons": 1,
+      "credit_days": 0,
+      "lead_time_hours": 24
+    },
+    {
+      "supplier_id": "SUP01",
+      "sku_id": "SKU002",
+      "units_per_carton": 24,
+      "unit_cost": 7.8,
+      "carton_price": 187.2,
+      "moq_cartons": 1,
+      "credit_days": 0,
+      "lead_time_hours": 24
+    },
+    {
+      "supplier_id": "SUP01",
+      "sku_id": "SKU003",
+      "units_per_carton": 24,
+      "unit_cost": 7.8,
+      "carton_price": 187.2,
+      "moq_cartons": 1,
+      "credit_days": 0,
+      "lead_time_hours": 24
+    },
+    {
+      "supplier_id": "SUP01",
+      "sku_id": "SKU004",
+      "units_per_carton": 24,
+      "unit_cost": 7.8,
+      "carton_price": 187.2,
+      "moq_cartons": 1,
+      "credit_days": 0,
+      "lead_time_hours": 24
+    },
+    {
+      "supplier_id": "SUP01",
+      "sku_id": "SKU005",
+      "units_per_carton": 24,
+      "unit_cost": 7.8,
+      "carton_price": 187.2,
+      "moq_cartons": 1,
+      "credit_days": 0,
+      "lead_time_hours": 24
+    },
+    {
+      "supplier_id": "SUP01",
+      "sku_id": "SKU006",
+      "units_per_carton": 24,
+      "unit_cost": 15.6,
+      "carton_price": 374.4,
+      "moq_cartons": 1,
+      "credit_days": 0,
+      "lead_time_hours": 24
+    },
+    {
+      "supplier_id": "SUP01",
+      "sku_id": "SKU007",
+      "units_per_carton": 24,
+      "unit_cost": 15.6,
+      "carton_price": 374.4,
+      "moq_cartons": 1,
+      "credit_days": 0,
+      "lead_time_hours": 24
+    },
+    {
+      "supplier_id": "SUP01",
+      "sku_id": "SKU008",
+      "units_per_carton": 24,
+      "unit_cost": 15.6,
+      "carton_price": 374.4,
+      "moq_cartons": 1,
+      "credit_days": 0,
+      "lead_time_hours": 24
+    },
+    {
+      "supplier_id": "SUP01",
+      "sku_id": "SKU009",
+      "units_per_carton": 24,
+      "unit_cost": 15.6,
+      "carton_price": 374.4,
+      "moq_cartons": 1,
+      "credit_days": 0,
+      "lead_time_hours": 24
+    },
+    {
+      "supplier_id": "SUP01",
+      "sku_id": "SKU010",
+      "units_per_carton": 24,
+      "unit_cost": 10.92,
+      "carton_price": 262.08,
+      "moq_cartons": 1,
+      "credit_days": 0,
+      "lead_time_hours": 24
+    },
+    {
+      "supplier_id": "SUP01",
+      "sku_id": "SKU011",
+      "units_per_carton": 24,
+      "unit_cost": 43.68,
+      "carton_price": 1048.32,
+      "moq_cartons": 1,
+      "credit_days": 0,
+      "lead_time_hours": 24
+    },
+    {
+      "supplier_id": "SUP01",
+      "sku_id": "SKU012",
+      "units_per_carton": 24,
+      "unit_cost": 10.92,
+      "carton_price": 262.08,
+      "moq_cartons": 1,
+      "credit_days": 0,
+      "lead_time_hours": 24
+    },
+    {
+      "supplier_id": "SUP01",
+      "sku_id": "SKU013",
+      "units_per_carton": 24,
+      "unit_cost": 10.92,
+      "carton_price": 262.08,
+      "moq_cartons": 1,
+      "credit_days": 0,
+      "lead_time_hours": 24
+    },
+    {
+      "supplier_id": "SUP01",
+      "sku_id": "SKU014",
+      "units_per_carton": 24,
+      "unit_cost": 21.06,
+      "carton_price": 505.44,
+      "moq_cartons": 1,
+      "credit_days": 0,
+      "lead_time_hours": 24
+    },
+    {
+      "supplier_id": "SUP01",
+      "sku_id": "SKU015",
+      "units_per_carton": 24,
+      "unit_cost": 25.74,
+      "carton_price": 617.76,
+      "moq_cartons": 1,
+      "credit_days": 0,
+      "lead_time_hours": 24
+    },
+    {
+      "supplier_id": "SUP01",
+      "sku_id": "SKU016",
+      "units_per_carton": 24,
+      "unit_cost": 21.06,
+      "carton_price": 505.44,
+      "moq_cartons": 1,
+      "credit_days": 0,
+      "lead_time_hours": 24
+    },
+    {
+      "supplier_id": "SUP01",
+      "sku_id": "SKU017",
+      "units_per_carton": 24,
+      "unit_cost": 48.36,
+      "carton_price": 1160.64,
+      "moq_cartons": 1,
+      "credit_days": 0,
+      "lead_time_hours": 24
+    },
+    {
+      "supplier_id": "SUP01",
+      "sku_id": "SKU018",
+      "units_per_carton": 12,
+      "unit_cost": 230.1,
+      "carton_price": 2761.2,
+      "moq_cartons": 1,
+      "credit_days": 0,
+      "lead_time_hours": 24
+    },
+    {
+      "supplier_id": "SUP01",
+      "sku_id": "SKU019",
+      "units_per_carton": 12,
+      "unit_cost": 113.1,
+      "carton_price": 1357.2,
+      "moq_cartons": 1,
+      "credit_days": 0,
+      "lead_time_hours": 24
+    },
+    {
+      "supplier_id": "SUP01",
+      "sku_id": "SKU020",
+      "units_per_carton": 24,
+      "unit_cost": 35.1,
+      "carton_price": 842.4,
+      "moq_cartons": 1,
+      "credit_days": 0,
+      "lead_time_hours": 24
+    },
+    {
+      "supplier_id": "SUP01",
+      "sku_id": "SKU021",
+      "units_per_carton": 12,
+      "unit_cost": 113.1,
+      "carton_price": 1357.2,
+      "moq_cartons": 1,
+      "credit_days": 0,
+      "lead_time_hours": 24
+    },
+    {
+      "supplier_id": "SUP01",
+      "sku_id": "SKU022",
+      "units_per_carton": 12,
+      "unit_cost": 105.3,
+      "carton_price": 1263.6,
+      "moq_cartons": 1,
+      "credit_days": 0,
+      "lead_time_hours": 24
+    },
+    {
+      "supplier_id": "SUP01",
+      "sku_id": "SKU023",
+      "units_per_carton": 12,
+      "unit_cost": 97.5,
+      "carton_price": 1170.0,
+      "moq_cartons": 1,
+      "credit_days": 0,
+      "lead_time_hours": 24
+    },
+    {
+      "supplier_id": "SUP01",
+      "sku_id": "SKU024",
+      "units_per_carton": 12,
+      "unit_cost": 136.5,
+      "carton_price": 1638.0,
+      "moq_cartons": 1,
+      "credit_days": 0,
+      "lead_time_hours": 24
+    },
+    {
+      "supplier_id": "SUP01",
+      "sku_id": "SKU025",
+      "units_per_carton": 12,
+      "unit_cost": 120.9,
+      "carton_price": 1450.8,
+      "moq_cartons": 1,
+      "credit_days": 0,
+      "lead_time_hours": 24
+    },
+    {
+      "supplier_id": "SUP01",
+      "sku_id": "SKU026",
+      "units_per_carton": 12,
+      "unit_cost": 499.2,
+      "carton_price": 5990.4,
+      "moq_cartons": 1,
+      "credit_days": 0,
+      "lead_time_hours": 24
+    },
+    {
+      "supplier_id": "SUP01",
+      "sku_id": "SKU027",
+      "units_per_carton": 24,
+      "unit_cost": 21.84,
+      "carton_price": 524.16,
+      "moq_cartons": 1,
+      "credit_days": 0,
+      "lead_time_hours": 24
+    },
+    {
+      "supplier_id": "SUP01",
+      "sku_id": "SKU028",
+      "units_per_carton": 12,
+      "unit_cost": 128.7,
+      "carton_price": 1544.4,
+      "moq_cartons": 1,
+      "credit_days": 0,
+      "lead_time_hours": 24
+    },
+    {
+      "supplier_id": "SUP01",
+      "sku_id": "SKU029",
+      "units_per_carton": 12,
+      "unit_cost": 222.3,
+      "carton_price": 2667.6,
+      "moq_cartons": 1,
+      "credit_days": 0,
+      "lead_time_hours": 24
+    },
+    {
+      "supplier_id": "SUP01",
+      "sku_id": "SKU030",
+      "units_per_carton": 24,
+      "unit_cost": 48.36,
+      "carton_price": 1160.64,
+      "moq_cartons": 1,
+      "credit_days": 0,
+      "lead_time_hours": 24
+    },
+    {
+      "supplier_id": "SUP01",
+      "sku_id": "SKU031",
+      "units_per_carton": 12,
+      "unit_cost": 105.3,
+      "carton_price": 1263.6,
+      "moq_cartons": 1,
+      "credit_days": 0,
+      "lead_time_hours": 24
+    },
+    {
+      "supplier_id": "SUP01",
+      "sku_id": "SKU032",
+      "units_per_carton": 12,
+      "unit_cost": 265.2,
+      "carton_price": 3182.4,
+      "moq_cartons": 1,
+      "credit_days": 0,
+      "lead_time_hours": 24
+    },
+    {
+      "supplier_id": "SUP01",
+      "sku_id": "SKU033",
+      "units_per_carton": 24,
+      "unit_cost": 37.44,
+      "carton_price": 898.56,
+      "moq_cartons": 1,
+      "credit_days": 0,
+      "lead_time_hours": 24
+    },
+    {
+      "supplier_id": "SUP01",
+      "sku_id": "SKU034",
+      "units_per_carton": 12,
+      "unit_cost": 113.1,
+      "carton_price": 1357.2,
+      "moq_cartons": 1,
+      "credit_days": 0,
+      "lead_time_hours": 24
+    },
+    {
+      "supplier_id": "SUP01",
+      "sku_id": "SKU035",
+      "units_per_carton": 12,
+      "unit_cost": 105.3,
+      "carton_price": 1263.6,
+      "moq_cartons": 1,
+      "credit_days": 0,
+      "lead_time_hours": 24
+    },
+    {
+      "supplier_id": "SUP01",
+      "sku_id": "SKU036",
+      "units_per_carton": 12,
+      "unit_cost": 136.5,
+      "carton_price": 1638.0,
+      "moq_cartons": 1,
+      "credit_days": 0,
+      "lead_time_hours": 24
+    },
+    {
+      "supplier_id": "SUP01",
+      "sku_id": "SKU037",
+      "units_per_carton": 12,
+      "unit_cost": 136.5,
+      "carton_price": 1638.0,
+      "moq_cartons": 1,
+      "credit_days": 0,
+      "lead_time_hours": 24
+    },
+    {
+      "supplier_id": "SUP01",
+      "sku_id": "SKU038",
+      "units_per_carton": 12,
+      "unit_cost": 120.9,
+      "carton_price": 1450.8,
+      "moq_cartons": 1,
+      "credit_days": 0,
+      "lead_time_hours": 24
+    },
+    {
+      "supplier_id": "SUP01",
+      "sku_id": "SKU039",
+      "units_per_carton": 12,
+      "unit_cost": 191.1,
+      "carton_price": 2293.2,
+      "moq_cartons": 1,
+      "credit_days": 0,
+      "lead_time_hours": 24
+    },
+    {
+      "supplier_id": "SUP01",
+      "sku_id": "SKU040",
+      "units_per_carton": 12,
+      "unit_cost": 198.9,
+      "carton_price": 2386.8,
+      "moq_cartons": 1,
+      "credit_days": 0,
+      "lead_time_hours": 24
+    },
+    {
+      "supplier_id": "SUP01",
+      "sku_id": "SKU041",
+      "units_per_carton": 24,
+      "unit_cost": 31.2,
+      "carton_price": 748.8,
+      "moq_cartons": 1,
+      "credit_days": 0,
+      "lead_time_hours": 24
+    },
+    {
+      "supplier_id": "SUP01",
+      "sku_id": "SKU042",
+      "units_per_carton": 24,
+      "unit_cost": 31.2,
+      "carton_price": 748.8,
+      "moq_cartons": 1,
+      "credit_days": 0,
+      "lead_time_hours": 24
+    },
+    {
+      "supplier_id": "SUP01",
+      "sku_id": "SKU043",
+      "units_per_carton": 24,
+      "unit_cost": 31.2,
+      "carton_price": 748.8,
+      "moq_cartons": 1,
+      "credit_days": 0,
+      "lead_time_hours": 24
+    },
+    {
+      "supplier_id": "SUP01",
+      "sku_id": "SKU044",
+      "units_per_carton": 24,
+      "unit_cost": 31.2,
+      "carton_price": 748.8,
+      "moq_cartons": 1,
+      "credit_days": 0,
+      "lead_time_hours": 24
+    },
+    {
+      "supplier_id": "SUP01",
+      "sku_id": "SKU045",
+      "units_per_carton": 24,
+      "unit_cost": 31.2,
+      "carton_price": 748.8,
+      "moq_cartons": 1,
+      "credit_days": 0,
+      "lead_time_hours": 24
+    },
+    {
+      "supplier_id": "SUP01",
+      "sku_id": "SKU046",
+      "units_per_carton": 24,
+      "unit_cost": 31.2,
+      "carton_price": 748.8,
+      "moq_cartons": 1,
+      "credit_days": 0,
+      "lead_time_hours": 24
+    },
+    {
+      "supplier_id": "SUP01",
+      "sku_id": "SKU047",
+      "units_per_carton": 24,
+      "unit_cost": 15.6,
+      "carton_price": 374.4,
+      "moq_cartons": 1,
+      "credit_days": 0,
+      "lead_time_hours": 24
+    },
+    {
+      "supplier_id": "SUP01",
+      "sku_id": "SKU048",
+      "units_per_carton": 24,
+      "unit_cost": 15.6,
+      "carton_price": 374.4,
+      "moq_cartons": 1,
+      "credit_days": 0,
+      "lead_time_hours": 24
+    },
+    {
+      "supplier_id": "SUP01",
+      "sku_id": "SKU049",
+      "units_per_carton": 12,
+      "unit_cost": 97.5,
+      "carton_price": 1170.0,
+      "moq_cartons": 1,
+      "credit_days": 0,
+      "lead_time_hours": 24
+    },
+    {
+      "supplier_id": "SUP01",
+      "sku_id": "SKU050",
+      "units_per_carton": 12,
+      "unit_cost": 97.5,
+      "carton_price": 1170.0,
+      "moq_cartons": 1,
+      "credit_days": 0,
+      "lead_time_hours": 24
+    },
+    {
+      "supplier_id": "SUP01",
+      "sku_id": "SKU051",
+      "units_per_carton": 24,
+      "unit_cost": 42.9,
+      "carton_price": 1029.6,
+      "moq_cartons": 1,
+      "credit_days": 0,
+      "lead_time_hours": 24
+    },
+    {
+      "supplier_id": "SUP01",
+      "sku_id": "SKU052",
+      "units_per_carton": 24,
+      "unit_cost": 77.22,
+      "carton_price": 1853.28,
+      "moq_cartons": 1,
+      "credit_days": 0,
+      "lead_time_hours": 24
+    },
+    {
+      "supplier_id": "SUP01",
+      "sku_id": "SKU053",
+      "units_per_carton": 24,
+      "unit_cost": 74.1,
+      "carton_price": 1778.4,
+      "moq_cartons": 1,
+      "credit_days": 0,
+      "lead_time_hours": 24
+    },
+    {
+      "supplier_id": "SUP01",
+      "sku_id": "SKU054",
+      "units_per_carton": 24,
+      "unit_cost": 42.9,
+      "carton_price": 1029.6,
+      "moq_cartons": 1,
+      "credit_days": 0,
+      "lead_time_hours": 24
+    },
+    {
+      "supplier_id": "SUP01",
+      "sku_id": "SKU055",
+      "units_per_carton": 24,
+      "unit_cost": 42.9,
+      "carton_price": 1029.6,
+      "moq_cartons": 1,
+      "credit_days": 0,
+      "lead_time_hours": 24
+    },
+    {
+      "supplier_id": "SUP01",
+      "sku_id": "SKU056",
+      "units_per_carton": 24,
+      "unit_cost": 27.3,
+      "carton_price": 655.2,
+      "moq_cartons": 1,
+      "credit_days": 0,
+      "lead_time_hours": 24
+    },
+    {
+      "supplier_id": "SUP01",
+      "sku_id": "SKU057",
+      "units_per_carton": 24,
+      "unit_cost": 27.3,
+      "carton_price": 655.2,
+      "moq_cartons": 1,
+      "credit_days": 0,
+      "lead_time_hours": 24
+    },
+    {
+      "supplier_id": "SUP01",
+      "sku_id": "SKU058",
+      "units_per_carton": 24,
+      "unit_cost": 35.1,
+      "carton_price": 842.4,
+      "moq_cartons": 1,
+      "credit_days": 0,
+      "lead_time_hours": 24
+    },
+    {
+      "supplier_id": "SUP01",
+      "sku_id": "SKU059",
+      "units_per_carton": 24,
+      "unit_cost": 27.3,
+      "carton_price": 655.2,
+      "moq_cartons": 1,
+      "credit_days": 0,
+      "lead_time_hours": 24
+    },
+    {
+      "supplier_id": "SUP01",
+      "sku_id": "SKU060",
+      "units_per_carton": 24,
+      "unit_cost": 31.2,
+      "carton_price": 748.8,
+      "moq_cartons": 1,
+      "credit_days": 0,
+      "lead_time_hours": 24
+    },
+    {
+      "supplier_id": "SUP01",
+      "sku_id": "SKU061",
+      "units_per_carton": 24,
+      "unit_cost": 77.22,
+      "carton_price": 1853.28,
+      "moq_cartons": 1,
+      "credit_days": 0,
+      "lead_time_hours": 24
+    },
+    {
+      "supplier_id": "SUP01",
+      "sku_id": "SKU062",
+      "units_per_carton": 12,
+      "unit_cost": 144.3,
+      "carton_price": 1731.6,
+      "moq_cartons": 1,
+      "credit_days": 0,
+      "lead_time_hours": 24
+    },
+    {
+      "supplier_id": "SUP01",
+      "sku_id": "SKU063",
+      "units_per_carton": 12,
+      "unit_cost": 128.7,
+      "carton_price": 1544.4,
+      "moq_cartons": 1,
+      "credit_days": 0,
+      "lead_time_hours": 24
+    },
+    {
+      "supplier_id": "SUP01",
+      "sku_id": "SKU064",
+      "units_per_carton": 24,
+      "unit_cost": 2.34,
+      "carton_price": 56.16,
+      "moq_cartons": 1,
+      "credit_days": 0,
+      "lead_time_hours": 24
+    },
+    {
+      "supplier_id": "SUP01",
+      "sku_id": "SKU065",
+      "units_per_carton": 24,
+      "unit_cost": 2.34,
+      "carton_price": 56.16,
+      "moq_cartons": 1,
+      "credit_days": 0,
+      "lead_time_hours": 24
+    },
+    {
+      "supplier_id": "SUP01",
+      "sku_id": "SKU066",
+      "units_per_carton": 12,
+      "unit_cost": 155.22,
+      "carton_price": 1862.64,
+      "moq_cartons": 1,
+      "credit_days": 0,
+      "lead_time_hours": 24
+    },
+    {
+      "supplier_id": "SUP01",
+      "sku_id": "SKU067",
+      "units_per_carton": 12,
+      "unit_cost": 144.3,
+      "carton_price": 1731.6,
+      "moq_cartons": 1,
+      "credit_days": 0,
+      "lead_time_hours": 24
+    },
+    {
+      "supplier_id": "SUP01",
+      "sku_id": "SKU068",
+      "units_per_carton": 12,
+      "unit_cost": 97.5,
+      "carton_price": 1170.0,
+      "moq_cartons": 1,
+      "credit_days": 0,
+      "lead_time_hours": 24
+    },
+    {
+      "supplier_id": "SUP01",
+      "sku_id": "SKU069",
+      "units_per_carton": 24,
+      "unit_cost": 77.22,
+      "carton_price": 1853.28,
+      "moq_cartons": 1,
+      "credit_days": 0,
+      "lead_time_hours": 24
+    },
+    {
+      "supplier_id": "SUP01",
+      "sku_id": "SKU070",
+      "units_per_carton": 12,
+      "unit_cost": 97.5,
+      "carton_price": 1170.0,
+      "moq_cartons": 1,
+      "credit_days": 0,
+      "lead_time_hours": 24
+    },
+    {
+      "supplier_id": "SUP01",
+      "sku_id": "SKU071",
+      "units_per_carton": 24,
+      "unit_cost": 53.04,
+      "carton_price": 1272.96,
+      "moq_cartons": 1,
+      "credit_days": 0,
+      "lead_time_hours": 24
+    },
+    {
+      "supplier_id": "SUP01",
+      "sku_id": "SKU072",
+      "units_per_carton": 24,
+      "unit_cost": 15.6,
+      "carton_price": 374.4,
+      "moq_cartons": 1,
+      "credit_days": 0,
+      "lead_time_hours": 24
+    },
+    {
+      "supplier_id": "SUP01",
+      "sku_id": "SKU073",
+      "units_per_carton": 24,
+      "unit_cost": 48.36,
+      "carton_price": 1160.64,
+      "moq_cartons": 1,
+      "credit_days": 0,
+      "lead_time_hours": 24
+    },
+    {
+      "supplier_id": "SUP01",
+      "sku_id": "SKU074",
+      "units_per_carton": 12,
+      "unit_cost": 89.7,
+      "carton_price": 1076.4,
+      "moq_cartons": 1,
+      "credit_days": 0,
+      "lead_time_hours": 24
+    },
+    {
+      "supplier_id": "SUP01",
+      "sku_id": "SKU075",
+      "units_per_carton": 12,
+      "unit_cost": 128.7,
+      "carton_price": 1544.4,
+      "moq_cartons": 1,
+      "credit_days": 0,
+      "lead_time_hours": 24
+    },
+    {
+      "supplier_id": "SUP01",
+      "sku_id": "SKU076",
+      "units_per_carton": 24,
+      "unit_cost": 23.4,
+      "carton_price": 561.6,
+      "moq_cartons": 1,
+      "credit_days": 0,
+      "lead_time_hours": 24
+    },
+    {
+      "supplier_id": "SUP01",
+      "sku_id": "SKU077",
+      "units_per_carton": 12,
+      "unit_cost": 89.7,
+      "carton_price": 1076.4,
+      "moq_cartons": 1,
+      "credit_days": 0,
+      "lead_time_hours": 24
+    },
+    {
+      "supplier_id": "SUP01",
+      "sku_id": "SKU078",
+      "units_per_carton": 24,
+      "unit_cost": 77.22,
+      "carton_price": 1853.28,
+      "moq_cartons": 1,
+      "credit_days": 0,
+      "lead_time_hours": 24
+    },
+    {
+      "supplier_id": "SUP01",
+      "sku_id": "SKU079",
+      "units_per_carton": 24,
+      "unit_cost": 77.22,
+      "carton_price": 1853.28,
+      "moq_cartons": 1,
+      "credit_days": 0,
+      "lead_time_hours": 24
+    },
+    {
+      "supplier_id": "SUP01",
+      "sku_id": "SKU080",
+      "units_per_carton": 24,
+      "unit_cost": 74.1,
+      "carton_price": 1778.4,
+      "moq_cartons": 1,
+      "credit_days": 0,
+      "lead_time_hours": 24
+    },
+    {
+      "supplier_id": "SUP01",
+      "sku_id": "SKU081",
+      "units_per_carton": 24,
+      "unit_cost": 66.3,
+      "carton_price": 1591.2,
+      "moq_cartons": 1,
+      "credit_days": 0,
+      "lead_time_hours": 24
+    },
+    {
+      "supplier_id": "SUP01",
+      "sku_id": "SKU082",
+      "units_per_carton": 24,
+      "unit_cost": 66.3,
+      "carton_price": 1591.2,
+      "moq_cartons": 1,
+      "credit_days": 0,
+      "lead_time_hours": 24
+    },
+    {
+      "supplier_id": "SUP01",
+      "sku_id": "SKU083",
+      "units_per_carton": 24,
+      "unit_cost": 58.5,
+      "carton_price": 1404.0,
+      "moq_cartons": 1,
+      "credit_days": 0,
+      "lead_time_hours": 24
+    },
+    {
+      "supplier_id": "SUP01",
+      "sku_id": "SKU084",
+      "units_per_carton": 24,
+      "unit_cost": 35.1,
+      "carton_price": 842.4,
+      "moq_cartons": 1,
+      "credit_days": 0,
+      "lead_time_hours": 24
+    },
+    {
+      "supplier_id": "SUP01",
+      "sku_id": "SKU085",
+      "units_per_carton": 24,
+      "unit_cost": 15.6,
+      "carton_price": 374.4,
+      "moq_cartons": 1,
+      "credit_days": 0,
+      "lead_time_hours": 24
+    },
+    {
+      "supplier_id": "SUP01",
+      "sku_id": "SKU086",
+      "units_per_carton": 24,
+      "unit_cost": 15.6,
+      "carton_price": 374.4,
+      "moq_cartons": 1,
+      "credit_days": 0,
+      "lead_time_hours": 24
+    },
+    {
+      "supplier_id": "SUP01",
+      "sku_id": "SKU087",
+      "units_per_carton": 24,
+      "unit_cost": 15.6,
+      "carton_price": 374.4,
+      "moq_cartons": 1,
+      "credit_days": 0,
+      "lead_time_hours": 24
+    },
+    {
+      "supplier_id": "SUP01",
+      "sku_id": "SKU088",
+      "units_per_carton": 24,
+      "unit_cost": 7.8,
+      "carton_price": 187.2,
+      "moq_cartons": 1,
+      "credit_days": 0,
+      "lead_time_hours": 24
+    },
+    {
+      "supplier_id": "SUP01",
+      "sku_id": "SKU089",
+      "units_per_carton": 24,
+      "unit_cost": 7.8,
+      "carton_price": 187.2,
+      "moq_cartons": 1,
+      "credit_days": 0,
+      "lead_time_hours": 24
+    },
+    {
+      "supplier_id": "SUP01",
+      "sku_id": "SKU090",
+      "units_per_carton": 24,
+      "unit_cost": 7.8,
+      "carton_price": 187.2,
+      "moq_cartons": 1,
+      "credit_days": 0,
+      "lead_time_hours": 24
+    },
+    {
+      "supplier_id": "SUP01",
+      "sku_id": "SKU091",
+      "units_per_carton": 24,
+      "unit_cost": 7.8,
+      "carton_price": 187.2,
+      "moq_cartons": 1,
+      "credit_days": 0,
+      "lead_time_hours": 24
+    },
+    {
+      "supplier_id": "SUP01",
+      "sku_id": "SKU092",
+      "units_per_carton": 24,
+      "unit_cost": 15.6,
+      "carton_price": 374.4,
+      "moq_cartons": 1,
+      "credit_days": 0,
+      "lead_time_hours": 24
+    },
+    {
+      "supplier_id": "SUP01",
+      "sku_id": "SKU093",
+      "units_per_carton": 24,
+      "unit_cost": 7.8,
+      "carton_price": 187.2,
+      "moq_cartons": 1,
+      "credit_days": 0,
+      "lead_time_hours": 24
+    },
+    {
+      "supplier_id": "SUP01",
+      "sku_id": "SKU094",
+      "units_per_carton": 24,
+      "unit_cost": 58.5,
+      "carton_price": 1404.0,
+      "moq_cartons": 1,
+      "credit_days": 0,
+      "lead_time_hours": 24
+    },
+    {
+      "supplier_id": "SUP01",
+      "sku_id": "SKU095",
+      "units_per_carton": 24,
+      "unit_cost": 58.5,
+      "carton_price": 1404.0,
+      "moq_cartons": 1,
+      "credit_days": 0,
+      "lead_time_hours": 24
+    },
+    {
+      "supplier_id": "SUP01",
+      "sku_id": "SKU096",
+      "units_per_carton": 24,
+      "unit_cost": 53.04,
+      "carton_price": 1272.96,
+      "moq_cartons": 1,
+      "credit_days": 0,
+      "lead_time_hours": 24
+    },
+    {
+      "supplier_id": "SUP01",
+      "sku_id": "SKU097",
+      "units_per_carton": 24,
+      "unit_cost": 48.36,
+      "carton_price": 1160.64,
+      "moq_cartons": 1,
+      "credit_days": 0,
+      "lead_time_hours": 24
+    },
+    {
+      "supplier_id": "SUP01",
+      "sku_id": "SKU098",
+      "units_per_carton": 12,
+      "unit_cost": 113.1,
+      "carton_price": 1357.2,
+      "moq_cartons": 1,
+      "credit_days": 0,
+      "lead_time_hours": 24
+    },
+    {
+      "supplier_id": "SUP01",
+      "sku_id": "SKU099",
+      "units_per_carton": 12,
+      "unit_cost": 105.3,
+      "carton_price": 1263.6,
+      "moq_cartons": 1,
+      "credit_days": 0,
+      "lead_time_hours": 24
+    },
+    {
+      "supplier_id": "SUP01",
+      "sku_id": "SKU100",
+      "units_per_carton": 12,
+      "unit_cost": 89.7,
+      "carton_price": 1076.4,
+      "moq_cartons": 1,
+      "credit_days": 0,
+      "lead_time_hours": 24
+    },
+    {
+      "supplier_id": "SUP01",
+      "sku_id": "SKU101",
+      "units_per_carton": 12,
+      "unit_cost": 105.3,
+      "carton_price": 1263.6,
+      "moq_cartons": 1,
+      "credit_days": 0,
+      "lead_time_hours": 24
+    },
+    {
+      "supplier_id": "SUP02",
+      "sku_id": "SKU001",
+      "units_per_carton": 24,
+      "unit_cost": 7.5,
+      "carton_price": 180.0,
+      "moq_cartons": 5,
+      "credit_days": 0,
+      "lead_time_hours": 12
+    },
+    {
+      "supplier_id": "SUP02",
+      "sku_id": "SKU002",
+      "units_per_carton": 24,
+      "unit_cost": 7.5,
+      "carton_price": 180.0,
+      "moq_cartons": 5,
+      "credit_days": 0,
+      "lead_time_hours": 12
+    },
+    {
+      "supplier_id": "SUP02",
+      "sku_id": "SKU003",
+      "units_per_carton": 24,
+      "unit_cost": 7.5,
+      "carton_price": 180.0,
+      "moq_cartons": 5,
+      "credit_days": 0,
+      "lead_time_hours": 12
+    },
+    {
+      "supplier_id": "SUP02",
+      "sku_id": "SKU004",
+      "units_per_carton": 24,
+      "unit_cost": 7.5,
+      "carton_price": 180.0,
+      "moq_cartons": 5,
+      "credit_days": 0,
+      "lead_time_hours": 12
+    },
+    {
+      "supplier_id": "SUP02",
+      "sku_id": "SKU005",
+      "units_per_carton": 24,
+      "unit_cost": 7.5,
+      "carton_price": 180.0,
+      "moq_cartons": 5,
+      "credit_days": 0,
+      "lead_time_hours": 12
+    },
+    {
+      "supplier_id": "SUP02",
+      "sku_id": "SKU006",
+      "units_per_carton": 24,
+      "unit_cost": 15.0,
+      "carton_price": 360.0,
+      "moq_cartons": 5,
+      "credit_days": 0,
+      "lead_time_hours": 12
+    },
+    {
+      "supplier_id": "SUP02",
+      "sku_id": "SKU007",
+      "units_per_carton": 24,
+      "unit_cost": 15.0,
+      "carton_price": 360.0,
+      "moq_cartons": 5,
+      "credit_days": 0,
+      "lead_time_hours": 12
+    },
+    {
+      "supplier_id": "SUP02",
+      "sku_id": "SKU008",
+      "units_per_carton": 24,
+      "unit_cost": 15.0,
+      "carton_price": 360.0,
+      "moq_cartons": 5,
+      "credit_days": 0,
+      "lead_time_hours": 12
+    },
+    {
+      "supplier_id": "SUP02",
+      "sku_id": "SKU009",
+      "units_per_carton": 24,
+      "unit_cost": 15.0,
+      "carton_price": 360.0,
+      "moq_cartons": 5,
+      "credit_days": 0,
+      "lead_time_hours": 12
+    },
+    {
+      "supplier_id": "SUP02",
+      "sku_id": "SKU010",
+      "units_per_carton": 24,
+      "unit_cost": 10.5,
+      "carton_price": 252.0,
+      "moq_cartons": 5,
+      "credit_days": 0,
+      "lead_time_hours": 12
+    },
+    {
+      "supplier_id": "SUP02",
+      "sku_id": "SKU011",
+      "units_per_carton": 24,
+      "unit_cost": 42.0,
+      "carton_price": 1008.0,
+      "moq_cartons": 5,
+      "credit_days": 0,
+      "lead_time_hours": 12
+    },
+    {
+      "supplier_id": "SUP02",
+      "sku_id": "SKU012",
+      "units_per_carton": 24,
+      "unit_cost": 10.5,
+      "carton_price": 252.0,
+      "moq_cartons": 5,
+      "credit_days": 0,
+      "lead_time_hours": 12
+    },
+    {
+      "supplier_id": "SUP02",
+      "sku_id": "SKU013",
+      "units_per_carton": 24,
+      "unit_cost": 10.5,
+      "carton_price": 252.0,
+      "moq_cartons": 5,
+      "credit_days": 0,
+      "lead_time_hours": 12
+    },
+    {
+      "supplier_id": "SUP02",
+      "sku_id": "SKU014",
+      "units_per_carton": 24,
+      "unit_cost": 20.25,
+      "carton_price": 486.0,
+      "moq_cartons": 5,
+      "credit_days": 0,
+      "lead_time_hours": 12
+    },
+    {
+      "supplier_id": "SUP02",
+      "sku_id": "SKU015",
+      "units_per_carton": 24,
+      "unit_cost": 24.75,
+      "carton_price": 594.0,
+      "moq_cartons": 5,
+      "credit_days": 0,
+      "lead_time_hours": 12
+    },
+    {
+      "supplier_id": "SUP02",
+      "sku_id": "SKU016",
+      "units_per_carton": 24,
+      "unit_cost": 20.25,
+      "carton_price": 486.0,
+      "moq_cartons": 5,
+      "credit_days": 0,
+      "lead_time_hours": 12
+    },
+    {
+      "supplier_id": "SUP02",
+      "sku_id": "SKU017",
+      "units_per_carton": 24,
+      "unit_cost": 46.5,
+      "carton_price": 1116.0,
+      "moq_cartons": 5,
+      "credit_days": 0,
+      "lead_time_hours": 12
+    },
+    {
+      "supplier_id": "SUP02",
+      "sku_id": "SKU018",
+      "units_per_carton": 12,
+      "unit_cost": 221.25,
+      "carton_price": 2655.0,
+      "moq_cartons": 5,
+      "credit_days": 0,
+      "lead_time_hours": 12
+    },
+    {
+      "supplier_id": "SUP02",
+      "sku_id": "SKU019",
+      "units_per_carton": 12,
+      "unit_cost": 108.75,
+      "carton_price": 1305.0,
+      "moq_cartons": 5,
+      "credit_days": 0,
+      "lead_time_hours": 12
+    },
+    {
+      "supplier_id": "SUP02",
+      "sku_id": "SKU020",
+      "units_per_carton": 24,
+      "unit_cost": 33.75,
+      "carton_price": 810.0,
+      "moq_cartons": 5,
+      "credit_days": 0,
+      "lead_time_hours": 12
+    },
+    {
+      "supplier_id": "SUP02",
+      "sku_id": "SKU021",
+      "units_per_carton": 12,
+      "unit_cost": 108.75,
+      "carton_price": 1305.0,
+      "moq_cartons": 5,
+      "credit_days": 0,
+      "lead_time_hours": 12
+    },
+    {
+      "supplier_id": "SUP02",
+      "sku_id": "SKU022",
+      "units_per_carton": 12,
+      "unit_cost": 101.25,
+      "carton_price": 1215.0,
+      "moq_cartons": 5,
+      "credit_days": 0,
+      "lead_time_hours": 12
+    },
+    {
+      "supplier_id": "SUP02",
+      "sku_id": "SKU023",
+      "units_per_carton": 12,
+      "unit_cost": 93.75,
+      "carton_price": 1125.0,
+      "moq_cartons": 5,
+      "credit_days": 0,
+      "lead_time_hours": 12
+    },
+    {
+      "supplier_id": "SUP02",
+      "sku_id": "SKU024",
+      "units_per_carton": 12,
+      "unit_cost": 131.25,
+      "carton_price": 1575.0,
+      "moq_cartons": 5,
+      "credit_days": 0,
+      "lead_time_hours": 12
+    },
+    {
+      "supplier_id": "SUP02",
+      "sku_id": "SKU025",
+      "units_per_carton": 12,
+      "unit_cost": 116.25,
+      "carton_price": 1395.0,
+      "moq_cartons": 5,
+      "credit_days": 0,
+      "lead_time_hours": 12
+    },
+    {
+      "supplier_id": "SUP02",
+      "sku_id": "SKU026",
+      "units_per_carton": 12,
+      "unit_cost": 480.0,
+      "carton_price": 5760.0,
+      "moq_cartons": 5,
+      "credit_days": 0,
+      "lead_time_hours": 12
+    },
+    {
+      "supplier_id": "SUP02",
+      "sku_id": "SKU027",
+      "units_per_carton": 24,
+      "unit_cost": 21.0,
+      "carton_price": 504.0,
+      "moq_cartons": 5,
+      "credit_days": 0,
+      "lead_time_hours": 12
+    },
+    {
+      "supplier_id": "SUP02",
+      "sku_id": "SKU028",
+      "units_per_carton": 12,
+      "unit_cost": 123.75,
+      "carton_price": 1485.0,
+      "moq_cartons": 5,
+      "credit_days": 0,
+      "lead_time_hours": 12
+    },
+    {
+      "supplier_id": "SUP02",
+      "sku_id": "SKU029",
+      "units_per_carton": 12,
+      "unit_cost": 213.75,
+      "carton_price": 2565.0,
+      "moq_cartons": 5,
+      "credit_days": 0,
+      "lead_time_hours": 12
+    },
+    {
+      "supplier_id": "SUP02",
+      "sku_id": "SKU030",
+      "units_per_carton": 24,
+      "unit_cost": 46.5,
+      "carton_price": 1116.0,
+      "moq_cartons": 5,
+      "credit_days": 0,
+      "lead_time_hours": 12
+    },
+    {
+      "supplier_id": "SUP02",
+      "sku_id": "SKU031",
+      "units_per_carton": 12,
+      "unit_cost": 101.25,
+      "carton_price": 1215.0,
+      "moq_cartons": 5,
+      "credit_days": 0,
+      "lead_time_hours": 12
+    },
+    {
+      "supplier_id": "SUP02",
+      "sku_id": "SKU032",
+      "units_per_carton": 12,
+      "unit_cost": 255.0,
+      "carton_price": 3060.0,
+      "moq_cartons": 5,
+      "credit_days": 0,
+      "lead_time_hours": 12
+    },
+    {
+      "supplier_id": "SUP02",
+      "sku_id": "SKU033",
+      "units_per_carton": 24,
+      "unit_cost": 36.0,
+      "carton_price": 864.0,
+      "moq_cartons": 5,
+      "credit_days": 0,
+      "lead_time_hours": 12
+    },
+    {
+      "supplier_id": "SUP02",
+      "sku_id": "SKU034",
+      "units_per_carton": 12,
+      "unit_cost": 108.75,
+      "carton_price": 1305.0,
+      "moq_cartons": 5,
+      "credit_days": 0,
+      "lead_time_hours": 12
+    },
+    {
+      "supplier_id": "SUP02",
+      "sku_id": "SKU035",
+      "units_per_carton": 12,
+      "unit_cost": 101.25,
+      "carton_price": 1215.0,
+      "moq_cartons": 5,
+      "credit_days": 0,
+      "lead_time_hours": 12
+    },
+    {
+      "supplier_id": "SUP02",
+      "sku_id": "SKU036",
+      "units_per_carton": 12,
+      "unit_cost": 131.25,
+      "carton_price": 1575.0,
+      "moq_cartons": 5,
+      "credit_days": 0,
+      "lead_time_hours": 12
+    },
+    {
+      "supplier_id": "SUP02",
+      "sku_id": "SKU037",
+      "units_per_carton": 12,
+      "unit_cost": 131.25,
+      "carton_price": 1575.0,
+      "moq_cartons": 5,
+      "credit_days": 0,
+      "lead_time_hours": 12
+    },
+    {
+      "supplier_id": "SUP02",
+      "sku_id": "SKU038",
+      "units_per_carton": 12,
+      "unit_cost": 116.25,
+      "carton_price": 1395.0,
+      "moq_cartons": 5,
+      "credit_days": 0,
+      "lead_time_hours": 12
+    },
+    {
+      "supplier_id": "SUP02",
+      "sku_id": "SKU039",
+      "units_per_carton": 12,
+      "unit_cost": 183.75,
+      "carton_price": 2205.0,
+      "moq_cartons": 5,
+      "credit_days": 0,
+      "lead_time_hours": 12
+    },
+    {
+      "supplier_id": "SUP02",
+      "sku_id": "SKU040",
+      "units_per_carton": 12,
+      "unit_cost": 191.25,
+      "carton_price": 2295.0,
+      "moq_cartons": 5,
+      "credit_days": 0,
+      "lead_time_hours": 12
+    },
+    {
+      "supplier_id": "SUP02",
+      "sku_id": "SKU041",
+      "units_per_carton": 24,
+      "unit_cost": 30.0,
+      "carton_price": 720.0,
+      "moq_cartons": 5,
+      "credit_days": 0,
+      "lead_time_hours": 12
+    },
+    {
+      "supplier_id": "SUP02",
+      "sku_id": "SKU042",
+      "units_per_carton": 24,
+      "unit_cost": 30.0,
+      "carton_price": 720.0,
+      "moq_cartons": 5,
+      "credit_days": 0,
+      "lead_time_hours": 12
+    },
+    {
+      "supplier_id": "SUP02",
+      "sku_id": "SKU043",
+      "units_per_carton": 24,
+      "unit_cost": 30.0,
+      "carton_price": 720.0,
+      "moq_cartons": 5,
+      "credit_days": 0,
+      "lead_time_hours": 12
+    },
+    {
+      "supplier_id": "SUP02",
+      "sku_id": "SKU044",
+      "units_per_carton": 24,
+      "unit_cost": 30.0,
+      "carton_price": 720.0,
+      "moq_cartons": 5,
+      "credit_days": 0,
+      "lead_time_hours": 12
+    },
+    {
+      "supplier_id": "SUP02",
+      "sku_id": "SKU045",
+      "units_per_carton": 24,
+      "unit_cost": 30.0,
+      "carton_price": 720.0,
+      "moq_cartons": 5,
+      "credit_days": 0,
+      "lead_time_hours": 12
+    },
+    {
+      "supplier_id": "SUP02",
+      "sku_id": "SKU046",
+      "units_per_carton": 24,
+      "unit_cost": 30.0,
+      "carton_price": 720.0,
+      "moq_cartons": 5,
+      "credit_days": 0,
+      "lead_time_hours": 12
+    },
+    {
+      "supplier_id": "SUP02",
+      "sku_id": "SKU047",
+      "units_per_carton": 24,
+      "unit_cost": 15.0,
+      "carton_price": 360.0,
+      "moq_cartons": 5,
+      "credit_days": 0,
+      "lead_time_hours": 12
+    },
+    {
+      "supplier_id": "SUP02",
+      "sku_id": "SKU048",
+      "units_per_carton": 24,
+      "unit_cost": 15.0,
+      "carton_price": 360.0,
+      "moq_cartons": 5,
+      "credit_days": 0,
+      "lead_time_hours": 12
+    },
+    {
+      "supplier_id": "SUP02",
+      "sku_id": "SKU049",
+      "units_per_carton": 12,
+      "unit_cost": 93.75,
+      "carton_price": 1125.0,
+      "moq_cartons": 5,
+      "credit_days": 0,
+      "lead_time_hours": 12
+    },
+    {
+      "supplier_id": "SUP02",
+      "sku_id": "SKU050",
+      "units_per_carton": 12,
+      "unit_cost": 93.75,
+      "carton_price": 1125.0,
+      "moq_cartons": 5,
+      "credit_days": 0,
+      "lead_time_hours": 12
+    },
+    {
+      "supplier_id": "SUP02",
+      "sku_id": "SKU051",
+      "units_per_carton": 24,
+      "unit_cost": 41.25,
+      "carton_price": 990.0,
+      "moq_cartons": 5,
+      "credit_days": 0,
+      "lead_time_hours": 12
+    },
+    {
+      "supplier_id": "SUP02",
+      "sku_id": "SKU052",
+      "units_per_carton": 24,
+      "unit_cost": 74.25,
+      "carton_price": 1782.0,
+      "moq_cartons": 5,
+      "credit_days": 0,
+      "lead_time_hours": 12
+    },
+    {
+      "supplier_id": "SUP02",
+      "sku_id": "SKU053",
+      "units_per_carton": 24,
+      "unit_cost": 71.25,
+      "carton_price": 1710.0,
+      "moq_cartons": 5,
+      "credit_days": 0,
+      "lead_time_hours": 12
+    },
+    {
+      "supplier_id": "SUP02",
+      "sku_id": "SKU054",
+      "units_per_carton": 24,
+      "unit_cost": 41.25,
+      "carton_price": 990.0,
+      "moq_cartons": 5,
+      "credit_days": 0,
+      "lead_time_hours": 12
+    },
+    {
+      "supplier_id": "SUP02",
+      "sku_id": "SKU055",
+      "units_per_carton": 24,
+      "unit_cost": 41.25,
+      "carton_price": 990.0,
+      "moq_cartons": 5,
+      "credit_days": 0,
+      "lead_time_hours": 12
+    },
+    {
+      "supplier_id": "SUP02",
+      "sku_id": "SKU056",
+      "units_per_carton": 24,
+      "unit_cost": 26.25,
+      "carton_price": 630.0,
+      "moq_cartons": 5,
+      "credit_days": 0,
+      "lead_time_hours": 12
+    },
+    {
+      "supplier_id": "SUP02",
+      "sku_id": "SKU057",
+      "units_per_carton": 24,
+      "unit_cost": 26.25,
+      "carton_price": 630.0,
+      "moq_cartons": 5,
+      "credit_days": 0,
+      "lead_time_hours": 12
+    },
+    {
+      "supplier_id": "SUP02",
+      "sku_id": "SKU058",
+      "units_per_carton": 24,
+      "unit_cost": 33.75,
+      "carton_price": 810.0,
+      "moq_cartons": 5,
+      "credit_days": 0,
+      "lead_time_hours": 12
+    },
+    {
+      "supplier_id": "SUP02",
+      "sku_id": "SKU059",
+      "units_per_carton": 24,
+      "unit_cost": 26.25,
+      "carton_price": 630.0,
+      "moq_cartons": 5,
+      "credit_days": 0,
+      "lead_time_hours": 12
+    },
+    {
+      "supplier_id": "SUP02",
+      "sku_id": "SKU060",
+      "units_per_carton": 24,
+      "unit_cost": 30.0,
+      "carton_price": 720.0,
+      "moq_cartons": 5,
+      "credit_days": 0,
+      "lead_time_hours": 12
+    },
+    {
+      "supplier_id": "SUP02",
+      "sku_id": "SKU061",
+      "units_per_carton": 24,
+      "unit_cost": 74.25,
+      "carton_price": 1782.0,
+      "moq_cartons": 5,
+      "credit_days": 0,
+      "lead_time_hours": 12
+    },
+    {
+      "supplier_id": "SUP02",
+      "sku_id": "SKU062",
+      "units_per_carton": 12,
+      "unit_cost": 138.75,
+      "carton_price": 1665.0,
+      "moq_cartons": 5,
+      "credit_days": 0,
+      "lead_time_hours": 12
+    },
+    {
+      "supplier_id": "SUP02",
+      "sku_id": "SKU063",
+      "units_per_carton": 12,
+      "unit_cost": 123.75,
+      "carton_price": 1485.0,
+      "moq_cartons": 5,
+      "credit_days": 0,
+      "lead_time_hours": 12
+    },
+    {
+      "supplier_id": "SUP02",
+      "sku_id": "SKU064",
+      "units_per_carton": 24,
+      "unit_cost": 2.25,
+      "carton_price": 54.0,
+      "moq_cartons": 5,
+      "credit_days": 0,
+      "lead_time_hours": 12
+    },
+    {
+      "supplier_id": "SUP02",
+      "sku_id": "SKU065",
+      "units_per_carton": 24,
+      "unit_cost": 2.25,
+      "carton_price": 54.0,
+      "moq_cartons": 5,
+      "credit_days": 0,
+      "lead_time_hours": 12
+    },
+    {
+      "supplier_id": "SUP02",
+      "sku_id": "SKU066",
+      "units_per_carton": 12,
+      "unit_cost": 149.25,
+      "carton_price": 1791.0,
+      "moq_cartons": 5,
+      "credit_days": 0,
+      "lead_time_hours": 12
+    },
+    {
+      "supplier_id": "SUP02",
+      "sku_id": "SKU067",
+      "units_per_carton": 12,
+      "unit_cost": 138.75,
+      "carton_price": 1665.0,
+      "moq_cartons": 5,
+      "credit_days": 0,
+      "lead_time_hours": 12
+    },
+    {
+      "supplier_id": "SUP02",
+      "sku_id": "SKU068",
+      "units_per_carton": 12,
+      "unit_cost": 93.75,
+      "carton_price": 1125.0,
+      "moq_cartons": 5,
+      "credit_days": 0,
+      "lead_time_hours": 12
+    },
+    {
+      "supplier_id": "SUP02",
+      "sku_id": "SKU069",
+      "units_per_carton": 24,
+      "unit_cost": 74.25,
+      "carton_price": 1782.0,
+      "moq_cartons": 5,
+      "credit_days": 0,
+      "lead_time_hours": 12
+    },
+    {
+      "supplier_id": "SUP02",
+      "sku_id": "SKU070",
+      "units_per_carton": 12,
+      "unit_cost": 93.75,
+      "carton_price": 1125.0,
+      "moq_cartons": 5,
+      "credit_days": 0,
+      "lead_time_hours": 12
+    },
+    {
+      "supplier_id": "SUP02",
+      "sku_id": "SKU071",
+      "units_per_carton": 24,
+      "unit_cost": 51.0,
+      "carton_price": 1224.0,
+      "moq_cartons": 5,
+      "credit_days": 0,
+      "lead_time_hours": 12
+    },
+    {
+      "supplier_id": "SUP02",
+      "sku_id": "SKU072",
+      "units_per_carton": 24,
+      "unit_cost": 15.0,
+      "carton_price": 360.0,
+      "moq_cartons": 5,
+      "credit_days": 0,
+      "lead_time_hours": 12
+    },
+    {
+      "supplier_id": "SUP02",
+      "sku_id": "SKU073",
+      "units_per_carton": 24,
+      "unit_cost": 46.5,
+      "carton_price": 1116.0,
+      "moq_cartons": 5,
+      "credit_days": 0,
+      "lead_time_hours": 12
+    },
+    {
+      "supplier_id": "SUP02",
+      "sku_id": "SKU074",
+      "units_per_carton": 12,
+      "unit_cost": 86.25,
+      "carton_price": 1035.0,
+      "moq_cartons": 5,
+      "credit_days": 0,
+      "lead_time_hours": 12
+    },
+    {
+      "supplier_id": "SUP02",
+      "sku_id": "SKU075",
+      "units_per_carton": 12,
+      "unit_cost": 123.75,
+      "carton_price": 1485.0,
+      "moq_cartons": 5,
+      "credit_days": 0,
+      "lead_time_hours": 12
+    },
+    {
+      "supplier_id": "SUP02",
+      "sku_id": "SKU076",
+      "units_per_carton": 24,
+      "unit_cost": 22.5,
+      "carton_price": 540.0,
+      "moq_cartons": 5,
+      "credit_days": 0,
+      "lead_time_hours": 12
+    },
+    {
+      "supplier_id": "SUP02",
+      "sku_id": "SKU077",
+      "units_per_carton": 12,
+      "unit_cost": 86.25,
+      "carton_price": 1035.0,
+      "moq_cartons": 5,
+      "credit_days": 0,
+      "lead_time_hours": 12
+    },
+    {
+      "supplier_id": "SUP02",
+      "sku_id": "SKU078",
+      "units_per_carton": 24,
+      "unit_cost": 74.25,
+      "carton_price": 1782.0,
+      "moq_cartons": 5,
+      "credit_days": 0,
+      "lead_time_hours": 12
+    },
+    {
+      "supplier_id": "SUP02",
+      "sku_id": "SKU079",
+      "units_per_carton": 24,
+      "unit_cost": 74.25,
+      "carton_price": 1782.0,
+      "moq_cartons": 5,
+      "credit_days": 0,
+      "lead_time_hours": 12
+    },
+    {
+      "supplier_id": "SUP02",
+      "sku_id": "SKU080",
+      "units_per_carton": 24,
+      "unit_cost": 71.25,
+      "carton_price": 1710.0,
+      "moq_cartons": 5,
+      "credit_days": 0,
+      "lead_time_hours": 12
+    },
+    {
+      "supplier_id": "SUP02",
+      "sku_id": "SKU081",
+      "units_per_carton": 24,
+      "unit_cost": 63.75,
+      "carton_price": 1530.0,
+      "moq_cartons": 5,
+      "credit_days": 0,
+      "lead_time_hours": 12
+    },
+    {
+      "supplier_id": "SUP02",
+      "sku_id": "SKU082",
+      "units_per_carton": 24,
+      "unit_cost": 63.75,
+      "carton_price": 1530.0,
+      "moq_cartons": 5,
+      "credit_days": 0,
+      "lead_time_hours": 12
+    },
+    {
+      "supplier_id": "SUP02",
+      "sku_id": "SKU083",
+      "units_per_carton": 24,
+      "unit_cost": 56.25,
+      "carton_price": 1350.0,
+      "moq_cartons": 5,
+      "credit_days": 0,
+      "lead_time_hours": 12
+    },
+    {
+      "supplier_id": "SUP02",
+      "sku_id": "SKU084",
+      "units_per_carton": 24,
+      "unit_cost": 33.75,
+      "carton_price": 810.0,
+      "moq_cartons": 5,
+      "credit_days": 0,
+      "lead_time_hours": 12
+    },
+    {
+      "supplier_id": "SUP02",
+      "sku_id": "SKU085",
+      "units_per_carton": 24,
+      "unit_cost": 15.0,
+      "carton_price": 360.0,
+      "moq_cartons": 5,
+      "credit_days": 0,
+      "lead_time_hours": 12
+    },
+    {
+      "supplier_id": "SUP02",
+      "sku_id": "SKU086",
+      "units_per_carton": 24,
+      "unit_cost": 15.0,
+      "carton_price": 360.0,
+      "moq_cartons": 5,
+      "credit_days": 0,
+      "lead_time_hours": 12
+    },
+    {
+      "supplier_id": "SUP02",
+      "sku_id": "SKU087",
+      "units_per_carton": 24,
+      "unit_cost": 15.0,
+      "carton_price": 360.0,
+      "moq_cartons": 5,
+      "credit_days": 0,
+      "lead_time_hours": 12
+    },
+    {
+      "supplier_id": "SUP02",
+      "sku_id": "SKU088",
+      "units_per_carton": 24,
+      "unit_cost": 7.5,
+      "carton_price": 180.0,
+      "moq_cartons": 5,
+      "credit_days": 0,
+      "lead_time_hours": 12
+    },
+    {
+      "supplier_id": "SUP02",
+      "sku_id": "SKU089",
+      "units_per_carton": 24,
+      "unit_cost": 7.5,
+      "carton_price": 180.0,
+      "moq_cartons": 5,
+      "credit_days": 0,
+      "lead_time_hours": 12
+    },
+    {
+      "supplier_id": "SUP02",
+      "sku_id": "SKU090",
+      "units_per_carton": 24,
+      "unit_cost": 7.5,
+      "carton_price": 180.0,
+      "moq_cartons": 5,
+      "credit_days": 0,
+      "lead_time_hours": 12
+    },
+    {
+      "supplier_id": "SUP02",
+      "sku_id": "SKU091",
+      "units_per_carton": 24,
+      "unit_cost": 7.5,
+      "carton_price": 180.0,
+      "moq_cartons": 5,
+      "credit_days": 0,
+      "lead_time_hours": 12
+    },
+    {
+      "supplier_id": "SUP02",
+      "sku_id": "SKU092",
+      "units_per_carton": 24,
+      "unit_cost": 15.0,
+      "carton_price": 360.0,
+      "moq_cartons": 5,
+      "credit_days": 0,
+      "lead_time_hours": 12
+    },
+    {
+      "supplier_id": "SUP02",
+      "sku_id": "SKU093",
+      "units_per_carton": 24,
+      "unit_cost": 7.5,
+      "carton_price": 180.0,
+      "moq_cartons": 5,
+      "credit_days": 0,
+      "lead_time_hours": 12
+    },
+    {
+      "supplier_id": "SUP02",
+      "sku_id": "SKU094",
+      "units_per_carton": 24,
+      "unit_cost": 56.25,
+      "carton_price": 1350.0,
+      "moq_cartons": 5,
+      "credit_days": 0,
+      "lead_time_hours": 12
+    },
+    {
+      "supplier_id": "SUP02",
+      "sku_id": "SKU095",
+      "units_per_carton": 24,
+      "unit_cost": 56.25,
+      "carton_price": 1350.0,
+      "moq_cartons": 5,
+      "credit_days": 0,
+      "lead_time_hours": 12
+    },
+    {
+      "supplier_id": "SUP02",
+      "sku_id": "SKU096",
+      "units_per_carton": 24,
+      "unit_cost": 51.0,
+      "carton_price": 1224.0,
+      "moq_cartons": 5,
+      "credit_days": 0,
+      "lead_time_hours": 12
+    },
+    {
+      "supplier_id": "SUP02",
+      "sku_id": "SKU097",
+      "units_per_carton": 24,
+      "unit_cost": 46.5,
+      "carton_price": 1116.0,
+      "moq_cartons": 5,
+      "credit_days": 0,
+      "lead_time_hours": 12
+    },
+    {
+      "supplier_id": "SUP02",
+      "sku_id": "SKU098",
+      "units_per_carton": 12,
+      "unit_cost": 108.75,
+      "carton_price": 1305.0,
+      "moq_cartons": 5,
+      "credit_days": 0,
+      "lead_time_hours": 12
+    },
+    {
+      "supplier_id": "SUP02",
+      "sku_id": "SKU099",
+      "units_per_carton": 12,
+      "unit_cost": 101.25,
+      "carton_price": 1215.0,
+      "moq_cartons": 5,
+      "credit_days": 0,
+      "lead_time_hours": 12
+    },
+    {
+      "supplier_id": "SUP02",
+      "sku_id": "SKU100",
+      "units_per_carton": 12,
+      "unit_cost": 86.25,
+      "carton_price": 1035.0,
+      "moq_cartons": 5,
+      "credit_days": 0,
+      "lead_time_hours": 12
+    },
+    {
+      "supplier_id": "SUP02",
+      "sku_id": "SKU101",
+      "units_per_carton": 12,
+      "unit_cost": 101.25,
+      "carton_price": 1215.0,
+      "moq_cartons": 5,
+      "credit_days": 0,
+      "lead_time_hours": 12
+    },
+    {
+      "supplier_id": "SUP03",
+      "sku_id": "SKU001",
+      "units_per_carton": 24,
+      "unit_cost": 8.2,
+      "carton_price": 196.8,
+      "moq_cartons": 1,
+      "credit_days": 7,
+      "lead_time_hours": 2
+    },
+    {
+      "supplier_id": "SUP03",
+      "sku_id": "SKU002",
+      "units_per_carton": 24,
+      "unit_cost": 8.2,
+      "carton_price": 196.8,
+      "moq_cartons": 1,
+      "credit_days": 7,
+      "lead_time_hours": 2
+    },
+    {
+      "supplier_id": "SUP03",
+      "sku_id": "SKU003",
+      "units_per_carton": 24,
+      "unit_cost": 8.2,
+      "carton_price": 196.8,
+      "moq_cartons": 1,
+      "credit_days": 7,
+      "lead_time_hours": 2
+    },
+    {
+      "supplier_id": "SUP03",
+      "sku_id": "SKU004",
+      "units_per_carton": 24,
+      "unit_cost": 8.2,
+      "carton_price": 196.8,
+      "moq_cartons": 1,
+      "credit_days": 7,
+      "lead_time_hours": 2
+    },
+    {
+      "supplier_id": "SUP03",
+      "sku_id": "SKU005",
+      "units_per_carton": 24,
+      "unit_cost": 8.2,
+      "carton_price": 196.8,
+      "moq_cartons": 1,
+      "credit_days": 7,
+      "lead_time_hours": 2
+    },
+    {
+      "supplier_id": "SUP03",
+      "sku_id": "SKU006",
+      "units_per_carton": 24,
+      "unit_cost": 16.4,
+      "carton_price": 393.6,
+      "moq_cartons": 1,
+      "credit_days": 7,
+      "lead_time_hours": 2
+    },
+    {
+      "supplier_id": "SUP03",
+      "sku_id": "SKU007",
+      "units_per_carton": 24,
+      "unit_cost": 16.4,
+      "carton_price": 393.6,
+      "moq_cartons": 1,
+      "credit_days": 7,
+      "lead_time_hours": 2
+    },
+    {
+      "supplier_id": "SUP03",
+      "sku_id": "SKU008",
+      "units_per_carton": 24,
+      "unit_cost": 16.4,
+      "carton_price": 393.6,
+      "moq_cartons": 1,
+      "credit_days": 7,
+      "lead_time_hours": 2
+    },
+    {
+      "supplier_id": "SUP03",
+      "sku_id": "SKU009",
+      "units_per_carton": 24,
+      "unit_cost": 16.4,
+      "carton_price": 393.6,
+      "moq_cartons": 1,
+      "credit_days": 7,
+      "lead_time_hours": 2
+    },
+    {
+      "supplier_id": "SUP03",
+      "sku_id": "SKU010",
+      "units_per_carton": 24,
+      "unit_cost": 11.48,
+      "carton_price": 275.52,
+      "moq_cartons": 1,
+      "credit_days": 7,
+      "lead_time_hours": 2
+    },
+    {
+      "supplier_id": "SUP03",
+      "sku_id": "SKU011",
+      "units_per_carton": 24,
+      "unit_cost": 45.92,
+      "carton_price": 1102.08,
+      "moq_cartons": 1,
+      "credit_days": 7,
+      "lead_time_hours": 2
+    },
+    {
+      "supplier_id": "SUP03",
+      "sku_id": "SKU012",
+      "units_per_carton": 24,
+      "unit_cost": 11.48,
+      "carton_price": 275.52,
+      "moq_cartons": 1,
+      "credit_days": 7,
+      "lead_time_hours": 2
+    },
+    {
+      "supplier_id": "SUP03",
+      "sku_id": "SKU013",
+      "units_per_carton": 24,
+      "unit_cost": 11.48,
+      "carton_price": 275.52,
+      "moq_cartons": 1,
+      "credit_days": 7,
+      "lead_time_hours": 2
+    },
+    {
+      "supplier_id": "SUP03",
+      "sku_id": "SKU014",
+      "units_per_carton": 24,
+      "unit_cost": 22.14,
+      "carton_price": 531.36,
+      "moq_cartons": 1,
+      "credit_days": 7,
+      "lead_time_hours": 2
+    },
+    {
+      "supplier_id": "SUP03",
+      "sku_id": "SKU015",
+      "units_per_carton": 24,
+      "unit_cost": 27.06,
+      "carton_price": 649.44,
+      "moq_cartons": 1,
+      "credit_days": 7,
+      "lead_time_hours": 2
+    },
+    {
+      "supplier_id": "SUP03",
+      "sku_id": "SKU016",
+      "units_per_carton": 24,
+      "unit_cost": 22.14,
+      "carton_price": 531.36,
+      "moq_cartons": 1,
+      "credit_days": 7,
+      "lead_time_hours": 2
+    },
+    {
+      "supplier_id": "SUP03",
+      "sku_id": "SKU017",
+      "units_per_carton": 24,
+      "unit_cost": 50.84,
+      "carton_price": 1220.16,
+      "moq_cartons": 1,
+      "credit_days": 7,
+      "lead_time_hours": 2
+    },
+    {
+      "supplier_id": "SUP03",
+      "sku_id": "SKU018",
+      "units_per_carton": 12,
+      "unit_cost": 241.9,
+      "carton_price": 2902.8,
+      "moq_cartons": 1,
+      "credit_days": 7,
+      "lead_time_hours": 2
+    },
+    {
+      "supplier_id": "SUP03",
+      "sku_id": "SKU019",
+      "units_per_carton": 12,
+      "unit_cost": 118.9,
+      "carton_price": 1426.8,
+      "moq_cartons": 1,
+      "credit_days": 7,
+      "lead_time_hours": 2
+    },
+    {
+      "supplier_id": "SUP03",
+      "sku_id": "SKU020",
+      "units_per_carton": 24,
+      "unit_cost": 36.9,
+      "carton_price": 885.6,
+      "moq_cartons": 1,
+      "credit_days": 7,
+      "lead_time_hours": 2
+    },
+    {
+      "supplier_id": "SUP03",
+      "sku_id": "SKU021",
+      "units_per_carton": 12,
+      "unit_cost": 118.9,
+      "carton_price": 1426.8,
+      "moq_cartons": 1,
+      "credit_days": 7,
+      "lead_time_hours": 2
+    },
+    {
+      "supplier_id": "SUP03",
+      "sku_id": "SKU022",
+      "units_per_carton": 12,
+      "unit_cost": 110.7,
+      "carton_price": 1328.4,
+      "moq_cartons": 1,
+      "credit_days": 7,
+      "lead_time_hours": 2
+    },
+    {
+      "supplier_id": "SUP03",
+      "sku_id": "SKU023",
+      "units_per_carton": 12,
+      "unit_cost": 102.5,
+      "carton_price": 1230.0,
+      "moq_cartons": 1,
+      "credit_days": 7,
+      "lead_time_hours": 2
+    },
+    {
+      "supplier_id": "SUP03",
+      "sku_id": "SKU024",
+      "units_per_carton": 12,
+      "unit_cost": 143.5,
+      "carton_price": 1722.0,
+      "moq_cartons": 1,
+      "credit_days": 7,
+      "lead_time_hours": 2
+    },
+    {
+      "supplier_id": "SUP03",
+      "sku_id": "SKU025",
+      "units_per_carton": 12,
+      "unit_cost": 127.1,
+      "carton_price": 1525.2,
+      "moq_cartons": 1,
+      "credit_days": 7,
+      "lead_time_hours": 2
+    },
+    {
+      "supplier_id": "SUP03",
+      "sku_id": "SKU026",
+      "units_per_carton": 12,
+      "unit_cost": 524.8,
+      "carton_price": 6297.6,
+      "moq_cartons": 1,
+      "credit_days": 7,
+      "lead_time_hours": 2
+    },
+    {
+      "supplier_id": "SUP03",
+      "sku_id": "SKU027",
+      "units_per_carton": 24,
+      "unit_cost": 22.96,
+      "carton_price": 551.04,
+      "moq_cartons": 1,
+      "credit_days": 7,
+      "lead_time_hours": 2
+    },
+    {
+      "supplier_id": "SUP03",
+      "sku_id": "SKU028",
+      "units_per_carton": 12,
+      "unit_cost": 135.3,
+      "carton_price": 1623.6,
+      "moq_cartons": 1,
+      "credit_days": 7,
+      "lead_time_hours": 2
+    },
+    {
+      "supplier_id": "SUP03",
+      "sku_id": "SKU029",
+      "units_per_carton": 12,
+      "unit_cost": 233.7,
+      "carton_price": 2804.4,
+      "moq_cartons": 1,
+      "credit_days": 7,
+      "lead_time_hours": 2
+    },
+    {
+      "supplier_id": "SUP03",
+      "sku_id": "SKU030",
+      "units_per_carton": 24,
+      "unit_cost": 50.84,
+      "carton_price": 1220.16,
+      "moq_cartons": 1,
+      "credit_days": 7,
+      "lead_time_hours": 2
+    },
+    {
+      "supplier_id": "SUP03",
+      "sku_id": "SKU031",
+      "units_per_carton": 12,
+      "unit_cost": 110.7,
+      "carton_price": 1328.4,
+      "moq_cartons": 1,
+      "credit_days": 7,
+      "lead_time_hours": 2
+    },
+    {
+      "supplier_id": "SUP03",
+      "sku_id": "SKU032",
+      "units_per_carton": 12,
+      "unit_cost": 278.8,
+      "carton_price": 3345.6,
+      "moq_cartons": 1,
+      "credit_days": 7,
+      "lead_time_hours": 2
+    },
+    {
+      "supplier_id": "SUP03",
+      "sku_id": "SKU033",
+      "units_per_carton": 24,
+      "unit_cost": 39.36,
+      "carton_price": 944.64,
+      "moq_cartons": 1,
+      "credit_days": 7,
+      "lead_time_hours": 2
+    },
+    {
+      "supplier_id": "SUP03",
+      "sku_id": "SKU034",
+      "units_per_carton": 12,
+      "unit_cost": 118.9,
+      "carton_price": 1426.8,
+      "moq_cartons": 1,
+      "credit_days": 7,
+      "lead_time_hours": 2
+    },
+    {
+      "supplier_id": "SUP03",
+      "sku_id": "SKU035",
+      "units_per_carton": 12,
+      "unit_cost": 110.7,
+      "carton_price": 1328.4,
+      "moq_cartons": 1,
+      "credit_days": 7,
+      "lead_time_hours": 2
+    },
+    {
+      "supplier_id": "SUP03",
+      "sku_id": "SKU036",
+      "units_per_carton": 12,
+      "unit_cost": 143.5,
+      "carton_price": 1722.0,
+      "moq_cartons": 1,
+      "credit_days": 7,
+      "lead_time_hours": 2
+    },
+    {
+      "supplier_id": "SUP03",
+      "sku_id": "SKU037",
+      "units_per_carton": 12,
+      "unit_cost": 143.5,
+      "carton_price": 1722.0,
+      "moq_cartons": 1,
+      "credit_days": 7,
+      "lead_time_hours": 2
+    },
+    {
+      "supplier_id": "SUP03",
+      "sku_id": "SKU038",
+      "units_per_carton": 12,
+      "unit_cost": 127.1,
+      "carton_price": 1525.2,
+      "moq_cartons": 1,
+      "credit_days": 7,
+      "lead_time_hours": 2
+    },
+    {
+      "supplier_id": "SUP03",
+      "sku_id": "SKU039",
+      "units_per_carton": 12,
+      "unit_cost": 200.9,
+      "carton_price": 2410.8,
+      "moq_cartons": 1,
+      "credit_days": 7,
+      "lead_time_hours": 2
+    },
+    {
+      "supplier_id": "SUP03",
+      "sku_id": "SKU040",
+      "units_per_carton": 12,
+      "unit_cost": 209.1,
+      "carton_price": 2509.2,
+      "moq_cartons": 1,
+      "credit_days": 7,
+      "lead_time_hours": 2
+    },
+    {
+      "supplier_id": "SUP03",
+      "sku_id": "SKU041",
+      "units_per_carton": 24,
+      "unit_cost": 32.8,
+      "carton_price": 787.2,
+      "moq_cartons": 1,
+      "credit_days": 7,
+      "lead_time_hours": 2
+    },
+    {
+      "supplier_id": "SUP03",
+      "sku_id": "SKU042",
+      "units_per_carton": 24,
+      "unit_cost": 32.8,
+      "carton_price": 787.2,
+      "moq_cartons": 1,
+      "credit_days": 7,
+      "lead_time_hours": 2
+    },
+    {
+      "supplier_id": "SUP03",
+      "sku_id": "SKU043",
+      "units_per_carton": 24,
+      "unit_cost": 32.8,
+      "carton_price": 787.2,
+      "moq_cartons": 1,
+      "credit_days": 7,
+      "lead_time_hours": 2
+    },
+    {
+      "supplier_id": "SUP03",
+      "sku_id": "SKU044",
+      "units_per_carton": 24,
+      "unit_cost": 32.8,
+      "carton_price": 787.2,
+      "moq_cartons": 1,
+      "credit_days": 7,
+      "lead_time_hours": 2
+    },
+    {
+      "supplier_id": "SUP03",
+      "sku_id": "SKU045",
+      "units_per_carton": 24,
+      "unit_cost": 32.8,
+      "carton_price": 787.2,
+      "moq_cartons": 1,
+      "credit_days": 7,
+      "lead_time_hours": 2
+    },
+    {
+      "supplier_id": "SUP03",
+      "sku_id": "SKU046",
+      "units_per_carton": 24,
+      "unit_cost": 32.8,
+      "carton_price": 787.2,
+      "moq_cartons": 1,
+      "credit_days": 7,
+      "lead_time_hours": 2
+    },
+    {
+      "supplier_id": "SUP03",
+      "sku_id": "SKU047",
+      "units_per_carton": 24,
+      "unit_cost": 16.4,
+      "carton_price": 393.6,
+      "moq_cartons": 1,
+      "credit_days": 7,
+      "lead_time_hours": 2
+    },
+    {
+      "supplier_id": "SUP03",
+      "sku_id": "SKU048",
+      "units_per_carton": 24,
+      "unit_cost": 16.4,
+      "carton_price": 393.6,
+      "moq_cartons": 1,
+      "credit_days": 7,
+      "lead_time_hours": 2
+    },
+    {
+      "supplier_id": "SUP03",
+      "sku_id": "SKU049",
+      "units_per_carton": 12,
+      "unit_cost": 102.5,
+      "carton_price": 1230.0,
+      "moq_cartons": 1,
+      "credit_days": 7,
+      "lead_time_hours": 2
+    },
+    {
+      "supplier_id": "SUP03",
+      "sku_id": "SKU050",
+      "units_per_carton": 12,
+      "unit_cost": 102.5,
+      "carton_price": 1230.0,
+      "moq_cartons": 1,
+      "credit_days": 7,
+      "lead_time_hours": 2
+    },
+    {
+      "supplier_id": "SUP03",
+      "sku_id": "SKU051",
+      "units_per_carton": 24,
+      "unit_cost": 45.1,
+      "carton_price": 1082.4,
+      "moq_cartons": 1,
+      "credit_days": 7,
+      "lead_time_hours": 2
+    },
+    {
+      "supplier_id": "SUP03",
+      "sku_id": "SKU052",
+      "units_per_carton": 24,
+      "unit_cost": 81.18,
+      "carton_price": 1948.32,
+      "moq_cartons": 1,
+      "credit_days": 7,
+      "lead_time_hours": 2
+    },
+    {
+      "supplier_id": "SUP03",
+      "sku_id": "SKU053",
+      "units_per_carton": 24,
+      "unit_cost": 77.9,
+      "carton_price": 1869.6,
+      "moq_cartons": 1,
+      "credit_days": 7,
+      "lead_time_hours": 2
+    },
+    {
+      "supplier_id": "SUP03",
+      "sku_id": "SKU054",
+      "units_per_carton": 24,
+      "unit_cost": 45.1,
+      "carton_price": 1082.4,
+      "moq_cartons": 1,
+      "credit_days": 7,
+      "lead_time_hours": 2
+    },
+    {
+      "supplier_id": "SUP03",
+      "sku_id": "SKU055",
+      "units_per_carton": 24,
+      "unit_cost": 45.1,
+      "carton_price": 1082.4,
+      "moq_cartons": 1,
+      "credit_days": 7,
+      "lead_time_hours": 2
+    },
+    {
+      "supplier_id": "SUP03",
+      "sku_id": "SKU056",
+      "units_per_carton": 24,
+      "unit_cost": 28.7,
+      "carton_price": 688.8,
+      "moq_cartons": 1,
+      "credit_days": 7,
+      "lead_time_hours": 2
+    },
+    {
+      "supplier_id": "SUP03",
+      "sku_id": "SKU057",
+      "units_per_carton": 24,
+      "unit_cost": 28.7,
+      "carton_price": 688.8,
+      "moq_cartons": 1,
+      "credit_days": 7,
+      "lead_time_hours": 2
+    },
+    {
+      "supplier_id": "SUP03",
+      "sku_id": "SKU058",
+      "units_per_carton": 24,
+      "unit_cost": 36.9,
+      "carton_price": 885.6,
+      "moq_cartons": 1,
+      "credit_days": 7,
+      "lead_time_hours": 2
+    },
+    {
+      "supplier_id": "SUP03",
+      "sku_id": "SKU059",
+      "units_per_carton": 24,
+      "unit_cost": 28.7,
+      "carton_price": 688.8,
+      "moq_cartons": 1,
+      "credit_days": 7,
+      "lead_time_hours": 2
+    },
+    {
+      "supplier_id": "SUP03",
+      "sku_id": "SKU060",
+      "units_per_carton": 24,
+      "unit_cost": 32.8,
+      "carton_price": 787.2,
+      "moq_cartons": 1,
+      "credit_days": 7,
+      "lead_time_hours": 2
+    },
+    {
+      "supplier_id": "SUP03",
+      "sku_id": "SKU061",
+      "units_per_carton": 24,
+      "unit_cost": 81.18,
+      "carton_price": 1948.32,
+      "moq_cartons": 1,
+      "credit_days": 7,
+      "lead_time_hours": 2
+    },
+    {
+      "supplier_id": "SUP03",
+      "sku_id": "SKU062",
+      "units_per_carton": 12,
+      "unit_cost": 151.7,
+      "carton_price": 1820.4,
+      "moq_cartons": 1,
+      "credit_days": 7,
+      "lead_time_hours": 2
+    },
+    {
+      "supplier_id": "SUP03",
+      "sku_id": "SKU063",
+      "units_per_carton": 12,
+      "unit_cost": 135.3,
+      "carton_price": 1623.6,
+      "moq_cartons": 1,
+      "credit_days": 7,
+      "lead_time_hours": 2
+    },
+    {
+      "supplier_id": "SUP03",
+      "sku_id": "SKU064",
+      "units_per_carton": 24,
+      "unit_cost": 2.46,
+      "carton_price": 59.04,
+      "moq_cartons": 1,
+      "credit_days": 7,
+      "lead_time_hours": 2
+    },
+    {
+      "supplier_id": "SUP03",
+      "sku_id": "SKU065",
+      "units_per_carton": 24,
+      "unit_cost": 2.46,
+      "carton_price": 59.04,
+      "moq_cartons": 1,
+      "credit_days": 7,
+      "lead_time_hours": 2
+    },
+    {
+      "supplier_id": "SUP03",
+      "sku_id": "SKU066",
+      "units_per_carton": 12,
+      "unit_cost": 163.18,
+      "carton_price": 1958.16,
+      "moq_cartons": 1,
+      "credit_days": 7,
+      "lead_time_hours": 2
+    },
+    {
+      "supplier_id": "SUP03",
+      "sku_id": "SKU067",
+      "units_per_carton": 12,
+      "unit_cost": 151.7,
+      "carton_price": 1820.4,
+      "moq_cartons": 1,
+      "credit_days": 7,
+      "lead_time_hours": 2
+    },
+    {
+      "supplier_id": "SUP03",
+      "sku_id": "SKU068",
+      "units_per_carton": 12,
+      "unit_cost": 102.5,
+      "carton_price": 1230.0,
+      "moq_cartons": 1,
+      "credit_days": 7,
+      "lead_time_hours": 2
+    },
+    {
+      "supplier_id": "SUP03",
+      "sku_id": "SKU069",
+      "units_per_carton": 24,
+      "unit_cost": 81.18,
+      "carton_price": 1948.32,
+      "moq_cartons": 1,
+      "credit_days": 7,
+      "lead_time_hours": 2
+    },
+    {
+      "supplier_id": "SUP03",
+      "sku_id": "SKU070",
+      "units_per_carton": 12,
+      "unit_cost": 102.5,
+      "carton_price": 1230.0,
+      "moq_cartons": 1,
+      "credit_days": 7,
+      "lead_time_hours": 2
+    },
+    {
+      "supplier_id": "SUP03",
+      "sku_id": "SKU071",
+      "units_per_carton": 24,
+      "unit_cost": 55.76,
+      "carton_price": 1338.24,
+      "moq_cartons": 1,
+      "credit_days": 7,
+      "lead_time_hours": 2
+    },
+    {
+      "supplier_id": "SUP03",
+      "sku_id": "SKU072",
+      "units_per_carton": 24,
+      "unit_cost": 16.4,
+      "carton_price": 393.6,
+      "moq_cartons": 1,
+      "credit_days": 7,
+      "lead_time_hours": 2
+    },
+    {
+      "supplier_id": "SUP03",
+      "sku_id": "SKU073",
+      "units_per_carton": 24,
+      "unit_cost": 50.84,
+      "carton_price": 1220.16,
+      "moq_cartons": 1,
+      "credit_days": 7,
+      "lead_time_hours": 2
+    },
+    {
+      "supplier_id": "SUP03",
+      "sku_id": "SKU074",
+      "units_per_carton": 12,
+      "unit_cost": 94.3,
+      "carton_price": 1131.6,
+      "moq_cartons": 1,
+      "credit_days": 7,
+      "lead_time_hours": 2
+    },
+    {
+      "supplier_id": "SUP03",
+      "sku_id": "SKU075",
+      "units_per_carton": 12,
+      "unit_cost": 135.3,
+      "carton_price": 1623.6,
+      "moq_cartons": 1,
+      "credit_days": 7,
+      "lead_time_hours": 2
+    },
+    {
+      "supplier_id": "SUP03",
+      "sku_id": "SKU076",
+      "units_per_carton": 24,
+      "unit_cost": 24.6,
+      "carton_price": 590.4,
+      "moq_cartons": 1,
+      "credit_days": 7,
+      "lead_time_hours": 2
+    },
+    {
+      "supplier_id": "SUP03",
+      "sku_id": "SKU077",
+      "units_per_carton": 12,
+      "unit_cost": 94.3,
+      "carton_price": 1131.6,
+      "moq_cartons": 1,
+      "credit_days": 7,
+      "lead_time_hours": 2
+    },
+    {
+      "supplier_id": "SUP03",
+      "sku_id": "SKU078",
+      "units_per_carton": 24,
+      "unit_cost": 81.18,
+      "carton_price": 1948.32,
+      "moq_cartons": 1,
+      "credit_days": 7,
+      "lead_time_hours": 2
+    },
+    {
+      "supplier_id": "SUP03",
+      "sku_id": "SKU079",
+      "units_per_carton": 24,
+      "unit_cost": 81.18,
+      "carton_price": 1948.32,
+      "moq_cartons": 1,
+      "credit_days": 7,
+      "lead_time_hours": 2
+    },
+    {
+      "supplier_id": "SUP03",
+      "sku_id": "SKU080",
+      "units_per_carton": 24,
+      "unit_cost": 77.9,
+      "carton_price": 1869.6,
+      "moq_cartons": 1,
+      "credit_days": 7,
+      "lead_time_hours": 2
+    },
+    {
+      "supplier_id": "SUP03",
+      "sku_id": "SKU081",
+      "units_per_carton": 24,
+      "unit_cost": 69.7,
+      "carton_price": 1672.8,
+      "moq_cartons": 1,
+      "credit_days": 7,
+      "lead_time_hours": 2
+    },
+    {
+      "supplier_id": "SUP03",
+      "sku_id": "SKU082",
+      "units_per_carton": 24,
+      "unit_cost": 69.7,
+      "carton_price": 1672.8,
+      "moq_cartons": 1,
+      "credit_days": 7,
+      "lead_time_hours": 2
+    },
+    {
+      "supplier_id": "SUP03",
+      "sku_id": "SKU083",
+      "units_per_carton": 24,
+      "unit_cost": 61.5,
+      "carton_price": 1476.0,
+      "moq_cartons": 1,
+      "credit_days": 7,
+      "lead_time_hours": 2
+    },
+    {
+      "supplier_id": "SUP03",
+      "sku_id": "SKU084",
+      "units_per_carton": 24,
+      "unit_cost": 36.9,
+      "carton_price": 885.6,
+      "moq_cartons": 1,
+      "credit_days": 7,
+      "lead_time_hours": 2
+    },
+    {
+      "supplier_id": "SUP03",
+      "sku_id": "SKU085",
+      "units_per_carton": 24,
+      "unit_cost": 16.4,
+      "carton_price": 393.6,
+      "moq_cartons": 1,
+      "credit_days": 7,
+      "lead_time_hours": 2
+    },
+    {
+      "supplier_id": "SUP03",
+      "sku_id": "SKU086",
+      "units_per_carton": 24,
+      "unit_cost": 16.4,
+      "carton_price": 393.6,
+      "moq_cartons": 1,
+      "credit_days": 7,
+      "lead_time_hours": 2
+    },
+    {
+      "supplier_id": "SUP03",
+      "sku_id": "SKU087",
+      "units_per_carton": 24,
+      "unit_cost": 16.4,
+      "carton_price": 393.6,
+      "moq_cartons": 1,
+      "credit_days": 7,
+      "lead_time_hours": 2
+    },
+    {
+      "supplier_id": "SUP03",
+      "sku_id": "SKU088",
+      "units_per_carton": 24,
+      "unit_cost": 8.2,
+      "carton_price": 196.8,
+      "moq_cartons": 1,
+      "credit_days": 7,
+      "lead_time_hours": 2
+    },
+    {
+      "supplier_id": "SUP03",
+      "sku_id": "SKU089",
+      "units_per_carton": 24,
+      "unit_cost": 8.2,
+      "carton_price": 196.8,
+      "moq_cartons": 1,
+      "credit_days": 7,
+      "lead_time_hours": 2
+    },
+    {
+      "supplier_id": "SUP03",
+      "sku_id": "SKU090",
+      "units_per_carton": 24,
+      "unit_cost": 8.2,
+      "carton_price": 196.8,
+      "moq_cartons": 1,
+      "credit_days": 7,
+      "lead_time_hours": 2
+    },
+    {
+      "supplier_id": "SUP03",
+      "sku_id": "SKU091",
+      "units_per_carton": 24,
+      "unit_cost": 8.2,
+      "carton_price": 196.8,
+      "moq_cartons": 1,
+      "credit_days": 7,
+      "lead_time_hours": 2
+    },
+    {
+      "supplier_id": "SUP03",
+      "sku_id": "SKU092",
+      "units_per_carton": 24,
+      "unit_cost": 16.4,
+      "carton_price": 393.6,
+      "moq_cartons": 1,
+      "credit_days": 7,
+      "lead_time_hours": 2
+    },
+    {
+      "supplier_id": "SUP03",
+      "sku_id": "SKU093",
+      "units_per_carton": 24,
+      "unit_cost": 8.2,
+      "carton_price": 196.8,
+      "moq_cartons": 1,
+      "credit_days": 7,
+      "lead_time_hours": 2
+    },
+    {
+      "supplier_id": "SUP03",
+      "sku_id": "SKU094",
+      "units_per_carton": 24,
+      "unit_cost": 61.5,
+      "carton_price": 1476.0,
+      "moq_cartons": 1,
+      "credit_days": 7,
+      "lead_time_hours": 2
+    },
+    {
+      "supplier_id": "SUP03",
+      "sku_id": "SKU095",
+      "units_per_carton": 24,
+      "unit_cost": 61.5,
+      "carton_price": 1476.0,
+      "moq_cartons": 1,
+      "credit_days": 7,
+      "lead_time_hours": 2
+    },
+    {
+      "supplier_id": "SUP03",
+      "sku_id": "SKU096",
+      "units_per_carton": 24,
+      "unit_cost": 55.76,
+      "carton_price": 1338.24,
+      "moq_cartons": 1,
+      "credit_days": 7,
+      "lead_time_hours": 2
+    },
+    {
+      "supplier_id": "SUP03",
+      "sku_id": "SKU097",
+      "units_per_carton": 24,
+      "unit_cost": 50.84,
+      "carton_price": 1220.16,
+      "moq_cartons": 1,
+      "credit_days": 7,
+      "lead_time_hours": 2
+    },
+    {
+      "supplier_id": "SUP03",
+      "sku_id": "SKU098",
+      "units_per_carton": 12,
+      "unit_cost": 118.9,
+      "carton_price": 1426.8,
+      "moq_cartons": 1,
+      "credit_days": 7,
+      "lead_time_hours": 2
+    },
+    {
+      "supplier_id": "SUP03",
+      "sku_id": "SKU099",
+      "units_per_carton": 12,
+      "unit_cost": 110.7,
+      "carton_price": 1328.4,
+      "moq_cartons": 1,
+      "credit_days": 7,
+      "lead_time_hours": 2
+    },
+    {
+      "supplier_id": "SUP03",
+      "sku_id": "SKU100",
+      "units_per_carton": 12,
+      "unit_cost": 94.3,
+      "carton_price": 1131.6,
+      "moq_cartons": 1,
+      "credit_days": 7,
+      "lead_time_hours": 2
+    },
+    {
+      "supplier_id": "SUP03",
+      "sku_id": "SKU101",
+      "units_per_carton": 12,
+      "unit_cost": 110.7,
+      "carton_price": 1328.4,
+      "moq_cartons": 1,
+      "credit_days": 7,
+      "lead_time_hours": 2
+    }
+  ]
+}
