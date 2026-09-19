@@ -1,0 +1,549 @@
+{
+ "kind": "delivery",
+ "status": "confirmed",
+ "supplier_id": "SUP01",
+ "supplier": "Gupta Traders",
+ "invoice_no": "INV/GT/4471",
+ "bill_date": "2026-09-18",
+ "bill_total": 48653.28,
+ "lines_total": 48653.28,
+ "received": {
+  "SKU005": 24.0,
+  "SKU006": 24.0,
+  "SKU009": 48.0,
+  "SKU013": 24.0,
+  "SKU021": 6.0,
+  "SKU029": 12.0,
+  "SKU037": 12.0,
+  "SKU041": 48.0,
+  "SKU048": 48.0,
+  "SKU051": 24.0,
+  "SKU072": 48.0,
+  "SKU075": 12.0,
+  "SKU080": 6.0,
+  "SKU100": 12.0,
+  "SKU015": 12.0,
+  "SKU016": 12.0,
+  "SKU033": 48.0,
+  "SKU071": 24.0,
+  "SKU023": 12.0,
+  "SKU057": 48.0,
+  "SKU017": 24.0,
+  "SKU025": 12.0,
+  "SKU085": 48.0,
+  "SKU084": 48.0,
+  "SKU065": 48.0,
+  "SKU073": 24.0,
+  "SKU019": 12.0,
+  "SKU049": 12.0,
+  "SKU068": 12.0,
+  "SKU002": 48.0,
+  "SKU022": 24.0,
+  "SKU058": 24.0,
+  "SKU079": 12.0,
+  "SKU067": 6.0,
+  "SKU070": 24.0,
+  "SKU098": 6.0,
+  "SKU083": 12.0,
+  "SKU031": 12.0,
+  "SKU056": 48.0,
+  "SKU061": 12.0,
+  "SKU008": 24.0,
+  "SKU043": 48.0,
+  "SKU055": 12.0,
+  "SKU062": 6.0,
+  "SKU086": 24.0,
+  "SKU089": 24.0,
+  "SKU096": 24.0,
+  "SKU001": 24.0
+ },
+ "lines": [
+  {
+   "text": "PARLE KRACKJACK 70G",
+   "qty": 24.0,
+   "rate": 7.8,
+   "amount": 187.2,
+   "sku_id": "SKU005",
+   "match_score": 1.0,
+   "name": "Parle Krackjack 70g"
+  },
+  {
+   "text": "LAYS CLASSIC SALTED 52G",
+   "qty": 24.0,
+   "rate": 15.6,
+   "amount": 374.4,
+   "sku_id": "SKU006",
+   "match_score": 1.0,
+   "name": "Lay's Classic Salted 52g"
+  },
+  {
+   "text": "HALDIRAM ALOO BHUJIA 42G",
+   "qty": 48.0,
+   "rate": 15.6,
+   "amount": 748.8,
+   "sku_id": "SKU009",
+   "match_score": 1.0,
+   "name": "Haldiram Aloo Bhujia 42g"
+  },
+  {
+   "text": "TOP RAMEN CURRY NDL 70G",
+   "qty": 24.0,
+   "rate": 10.92,
+   "amount": 262.08,
+   "sku_id": "SKU013",
+   "match_score": 1.0,
+   "name": "Top Ramen Curry Noodles 70g"
+  },
+  {
+   "text": "NESTLE MILKMAID 400G",
+   "qty": 6.0,
+   "rate": 113.1,
+   "amount": 678.6,
+   "sku_id": "SKU021",
+   "match_score": 1.0,
+   "name": "Nestle Milkmaid 400g"
+  },
+  {
+   "text": "AASHIRVAAD ATTA 5KG",
+   "qty": 12.0,
+   "rate": 222.3,
+   "amount": 2667.6,
+   "sku_id": "SKU029",
+   "match_score": 1.0,
+   "name": "Aashirvaad Atta 5kg"
+  },
+  {
+   "text": "NESCAFE CLASSIC COFFEE 50G",
+   "qty": 12.0,
+   "rate": 136.5,
+   "amount": 1638.0,
+   "sku_id": "SKU037",
+   "match_score": 1.0,
+   "name": "Nescafe Classic Coffee 50g"
+  },
+  {
+   "text": "COCA-COLA SD 750ML",
+   "qty": 48.0,
+   "rate": 32.76,
+   "amount": 1572.48,
+   "sku_id": "SKU041",
+   "match_score": 1.0,
+   "name": "Coca-Cola Soft Drink 750ml"
+  },
+  {
+   "text": "KINLEY WATER 1L",
+   "qty": 48.0,
+   "rate": 15.6,
+   "amount": 748.8,
+   "sku_id": "SKU048",
+   "match_score": 1.0,
+   "name": "Kinley Water 1L"
+  },
+  {
+   "text": "COLGATE STRONG TEETH 100G",
+   "qty": 24.0,
+   "rate": 42.9,
+   "amount": 1029.6,
+   "sku_id": "SKU051",
+   "match_score": 1.0,
+   "name": "Colgate Strong Teeth 100g"
+  },
+  {
+   "text": "SUNSILK BLACK SHINE SHMP 180ML",
+   "qty": 6.0,
+   "rate": 128.7,
+   "amount": 772.2,
+   "sku_id": null,
+   "match_score": 0.0
+  },
+  {
+   "text": "RIN DET BAR 250G",
+   "qty": 48.0,
+   "rate": 15.6,
+   "amount": 748.8,
+   "sku_id": "SKU072",
+   "match_score": 1.0,
+   "name": "Rin Detergent Bar 250g"
+  },
+  {
+   "text": "ARIEL DET PWD 1KG",
+   "qty": 12.0,
+   "rate": 128.7,
+   "amount": 1544.4,
+   "sku_id": "SKU075",
+   "match_score": 1.0,
+   "name": "Ariel Detergent Powder 1kg"
+  },
+  {
+   "text": "COLIN GLASS CLEANER 500ML",
+   "qty": 6.0,
+   "rate": 74.1,
+   "amount": 444.6,
+   "sku_id": "SKU080",
+   "match_score": 1.0,
+   "name": "Colin Glass Cleaner 500ml"
+  },
+  {
+   "text": "MAGGI HOT & SWEET SAUCE 500G",
+   "qty": 12.0,
+   "rate": 89.7,
+   "amount": 1076.4,
+   "sku_id": "SKU100",
+   "match_score": 1.0,
+   "name": "Maggi Hot & Sweet Sauce 500g"
+  },
+  {
+   "text": "AMUL GOLD MILK 500ML",
+   "qty": 12.0,
+   "rate": 25.74,
+   "amount": 308.88,
+   "sku_id": "SKU015",
+   "match_score": 1.0,
+   "name": "Amul Gold Milk 500ml"
+  },
+  {
+   "text": "MOTHER DAIRY TONED MILK 500ML",
+   "qty": 12.0,
+   "rate": 21.06,
+   "amount": 252.72,
+   "sku_id": "SKU016",
+   "match_score": 1.0,
+   "name": "Mother Dairy Toned Milk 500ml"
+  },
+  {
+   "text": "MADHUR SUGAR 1KG",
+   "qty": 48.0,
+   "rate": 37.44,
+   "amount": 1797.12,
+   "sku_id": "SKU033",
+   "match_score": 1.0,
+   "name": "Madhur Sugar 1kg"
+  },
+  {
+   "text": "SURF EXCEL EASY WASH 500G",
+   "qty": 24.0,
+   "rate": 53.04,
+   "amount": 1272.96,
+   "sku_id": "SKU071",
+   "match_score": 1.0,
+   "name": "Surf Excel Easy Wash 500g"
+  },
+  {
+   "text": "FORTUNE SOYABEAN OIL 1L",
+   "qty": 12.0,
+   "rate": 97.5,
+   "amount": 1170.0,
+   "sku_id": "SKU023",
+   "match_score": 1.0,
+   "name": "Fortune Soyabean Oil 1L"
+  },
+  {
+   "text": "LUX SOAP 100G",
+   "qty": 48.0,
+   "rate": 27.3,
+   "amount": 1310.4,
+   "sku_id": "SKU057",
+   "match_score": 1.0,
+   "name": "Lux Soap 100g"
+  },
+  {
+   "text": "AMUL BUTTER 100G",
+   "qty": 24.0,
+   "rate": 48.36,
+   "amount": 1160.64,
+   "sku_id": "SKU017",
+   "match_score": 1.0,
+   "name": "Amul Butter 100g"
+  },
+  {
+   "text": "DHARA MUSTARD OIL 1L",
+   "qty": 12.0,
+   "rate": 120.9,
+   "amount": 1450.8,
+   "sku_id": "SKU025",
+   "match_score": 1.0,
+   "name": "Dhara Mustard Oil 1L"
+  },
+  {
+   "text": "CADBURY 5 STAR 40G",
+   "qty": 48.0,
+   "rate": 15.6,
+   "amount": 748.8,
+   "sku_id": "SKU085",
+   "match_score": 1.0,
+   "name": "Cadbury 5 Star 40g"
+  },
+  {
+   "text": "CADBURY DAIRY MILK 50G",
+   "qty": 48.0,
+   "rate": 35.1,
+   "amount": 1684.8,
+   "sku_id": "SKU084",
+   "match_score": 1.0,
+   "name": "Cadbury Dairy Milk 50g"
+  },
+  {
+   "text": "CHIK SHMP SACHET 6ML",
+   "qty": 48.0,
+   "rate": 2.34,
+   "amount": 112.32,
+   "sku_id": "SKU065",
+   "match_score": 1.0,
+   "name": "Chik Shampoo Sachet 6ml"
+  },
+  {
+   "text": "WHEEL DET PWD 1KG",
+   "qty": 24.0,
+   "rate": 48.36,
+   "amount": 1160.64,
+   "sku_id": "SKU073",
+   "match_score": 1.0,
+   "name": "Wheel Detergent Powder 1kg"
+  },
+  {
+   "text": "AMUL CHEESE SLICES 200G",
+   "qty": 12.0,
+   "rate": 113.1,
+   "amount": 1357.2,
+   "sku_id": "SKU019",
+   "match_score": 1.0,
+   "name": "Amul Cheese Slices 200g"
+  },
+  {
+   "text": "REAL MIXED FRUIT JUICE 1L",
+   "qty": 12.0,
+   "rate": 97.5,
+   "amount": 1170.0,
+   "sku_id": "SKU049",
+   "match_score": 1.0,
+   "name": "Real Mixed Fruit Juice 1L"
+  },
+  {
+   "text": "FAIR & LOVELY FACE CREAM 50G",
+   "qty": 12.0,
+   "rate": 97.5,
+   "amount": 1170.0,
+   "sku_id": "SKU068",
+   "match_score": 1.0,
+   "name": "Fair & Lovely Face Cream 50g"
+  },
+  {
+   "text": "BRITANNIA GOOD DAY CASHEW 75G",
+   "qty": 48.0,
+   "rate": 7.8,
+   "amount": 374.4,
+   "sku_id": "SKU002",
+   "match_score": 1.0,
+   "name": "Britannia Good Day Cashew 75g"
+  },
+  {
+   "text": "FORTUNE SUNFLOWER OIL 1L",
+   "qty": 24.0,
+   "rate": 105.3,
+   "amount": 2527.2,
+   "sku_id": "SKU022",
+   "match_score": 1.0,
+   "name": "Fortune Sunflower Oil 1L"
+  },
+  {
+   "text": "DETTOL SOAP 125G",
+   "qty": 24.0,
+   "rate": 35.1,
+   "amount": 842.4,
+   "sku_id": "SKU058",
+   "match_score": 1.0,
+   "name": "Dettol Soap 125g"
+  },
+  {
+   "text": "LIZOL FLOOR CLEANER 500ML",
+   "qty": 12.0,
+   "rate": 77.22,
+   "amount": 926.64,
+   "sku_id": "SKU079",
+   "match_score": 1.0,
+   "name": "Lizol Floor Cleaner 500ml"
+  },
+  {
+   "text": "VASELINE BODY LOTION 200ML",
+   "qty": 6.0,
+   "rate": 144.3,
+   "amount": 865.8,
+   "sku_id": "SKU067",
+   "match_score": 1.0,
+   "name": "Vaseline Body Lotion 200ml"
+  },
+  {
+   "text": "SURF EXCEL EASY WASH 1KG",
+   "qty": 24.0,
+   "rate": 97.5,
+   "amount": 2340.0,
+   "sku_id": "SKU070",
+   "match_score": 1.0,
+   "name": "Surf Excel Easy Wash 1kg"
+  },
+  {
+   "text": "KISSAN MIXED FRUIT JAM 500G",
+   "qty": 6.0,
+   "rate": 113.1,
+   "amount": 678.6,
+   "sku_id": "SKU098",
+   "match_score": 1.0,
+   "name": "Kissan Mixed Fruit Jam 500g"
+  },
+  {
+   "text": "DETTOL ANTISEPTIC LIQUID 125ML",
+   "qty": 12.0,
+   "rate": 58.5,
+   "amount": 702.0,
+   "sku_id": "SKU083",
+   "match_score": 1.0,
+   "name": "Dettol Antiseptic Liquid 125ml"
+  },
+  {
+   "text": "INDIA GATE BASMATI RICE 1KG",
+   "qty": 12.0,
+   "rate": 105.3,
+   "amount": 1263.6,
+   "sku_id": "SKU031",
+   "match_score": 1.0,
+   "name": "India Gate Basmati Rice 1kg"
+  },
+  {
+   "text": "LIFEBUOY SOAP 125G",
+   "qty": 48.0,
+   "rate": 27.3,
+   "amount": 1310.4,
+   "sku_id": "SKU056",
+   "match_score": 1.0,
+   "name": "Lifebuoy Soap 125g"
+  },
+  {
+   "text": "CLINIC PLUS SHMP 175ML",
+   "qty": 12.0,
+   "rate": 77.22,
+   "amount": 926.64,
+   "sku_id": "SKU061",
+   "match_score": 1.0,
+   "name": "Clinic Plus Shampoo 175ml"
+  },
+  {
+   "text": "BINGO MAD ANGLES 66G",
+   "qty": 24.0,
+   "rate": 15.6,
+   "amount": 374.4,
+   "sku_id": "SKU008",
+   "match_score": 1.0,
+   "name": "Bingo Mad Angles 66g"
+  },
+  {
+   "text": "SPRITE SD 750ML",
+   "qty": 48.0,
+   "rate": 31.2,
+   "amount": 1497.6,
+   "sku_id": "SKU043",
+   "match_score": 1.0,
+   "name": "Sprite Soft Drink 750ml"
+  },
+  {
+   "text": "DABUR RED PASTE 100G",
+   "qty": 12.0,
+   "rate": 42.9,
+   "amount": 514.8,
+   "sku_id": "SKU055",
+   "match_score": 1.0,
+   "name": "Dabur Red Paste 100g"
+  },
+  {
+   "text": "HEAD&SHOULDERS ANTI-DANDRUFF 180ML",
+   "qty": 6.0,
+   "rate": 144.3,
+   "amount": 865.8,
+   "sku_id": "SKU062",
+   "match_score": 1.0,
+   "name": "Head&Shoulders Anti-Dandruff 180ml"
+  },
+  {
+   "text": "NESTLE KITKAT 37G",
+   "qty": 24.0,
+   "rate": 15.6,
+   "amount": 374.4,
+   "sku_id": "SKU086",
+   "match_score": 1.0,
+   "name": "Nestle KitKat 37g"
+  },
+  {
+   "text": "MENTOS MINT ROLL 29G",
+   "qty": 24.0,
+   "rate": 7.8,
+   "amount": 187.2,
+   "sku_id": "SKU089",
+   "match_score": 1.0,
+   "name": "Mentos Mint Roll 29g"
+  },
+  {
+   "text": "EVEREST TURMERIC PWD 200G",
+   "qty": 24.0,
+   "rate": 53.04,
+   "amount": 1272.96,
+   "sku_id": "SKU096",
+   "match_score": 1.0,
+   "name": "Everest Turmeric Powder 200g"
+  },
+  {
+   "text": "PARLE PARLE-G BISC 70G",
+   "qty": 24.0,
+   "rate": 7.8,
+   "amount": 187.2,
+   "sku_id": "SKU001",
+   "match_score": 1.0,
+   "name": "Parle Parle-G Biscuits 70g"
+  }
+ ],
+ "issues": [
+  {
+   "type": "missing",
+   "sku_id": "SKU007",
+   "ordered": 48.0,
+   "billed": 0,
+   "say": "Kurkure Masala Munch 90g: ordered 48, not on the bill. Reorder it today."
+  },
+  {
+   "type": "missing",
+   "sku_id": "SKU063",
+   "ordered": 6.0,
+   "billed": 0,
+   "say": "Dove Shampoo 180ml: ordered 6, not on the bill. Reorder it today."
+  },
+  {
+   "type": "short",
+   "sku_id": "SKU006",
+   "ordered": 48.0,
+   "billed": 24.0,
+   "say": "Lay's Classic Salted 52g: ordered 48, bill says 24. Count the boxes."
+  },
+  {
+   "type": "unknown_item",
+   "text": "SUNSILK BLACK SHINE SHMP 180ML",
+   "qty": 6.0,
+   "say": "'SUNSILK BLACK SHINE SHMP 180ML' is not in your product list (substitute?). Add it or return it."
+  },
+  {
+   "type": "price_up",
+   "sku_id": "SKU041",
+   "expected": 31.2,
+   "billed": 32.76,
+   "extra_cost": 74.88,
+   "say": "Coca-Cola Soft Drink 750ml: Rs 32.76 a piece, agreed Rs 31.20 (+5.0%)."
+  },
+  {
+   "type": "not_ordered",
+   "sku_id": "SKU001",
+   "ordered": 0,
+   "billed": 24.0,
+   "say": "Parle Parle-G Biscuits 70g: 24 on the bill but not ordered. Keep or send back?"
+  }
+ ],
+ "source_file": "gupta_18-09-2026.txt",
+ "read_at": "2026-09-17T12:37:58",
+ "confirmed_at": "2026-09-17T12:37:58"
+}

@@ -1,0 +1,27 @@
+============================================================================
+ShelfSense — REORDER LIST FOR 2026-09-18
+stock from out/stock_now.json; sales numbers: estimate
+============================================================================
+7 of 101 items need ordering today
+
+item                             shelf  /day  days  buy from              qty      Rs
+Kurkure Masala Munch 90g             0   4.5   0.0  Gupta Traders          48     749
+Dove Shampoo 180ml                   0   0.4   0.0  Gupta Traders           6     772
+Amul Taaza Milk 500ml               12  10.9   1.1  Gupta Traders          24     505
+Amul Gold Milk 500ml                12   5.9   2.0  Gupta Traders           6     154
+Mother Dairy Toned Milk 500ml       12   4.5   2.6  Gupta Traders           6     126
+All Out Mosquito Refill 45ml         2   0.6   3.2  Gupta Traders           6     398
+Colgate MaxFresh 150g                3   0.9   3.3  Gupta Traders           6     463
+
+PURCHASE ORDERS (ready to send on WhatsApp)
+
+--- Gupta Traders  (7 items, Rs 3,168) ---
+Namaste Gupta Traders ji, order for 2026-09-18:
+1. Kurkure Masala Munch 90g x 2 cartons (48 pcs)
+2. Dove Shampoo 180ml x 1 pack of 6 (6 pcs)
+3. Amul Taaza Milk 500ml x 4 packs of 6 (24 pcs)
+4. Amul Gold Milk 500ml x 1 pack of 6 (6 pcs)
+5. Mother Dairy Toned Milk 500ml x 1 pack of 6 (6 pcs)
+6. All Out Mosquito Refill 45ml x 1 pack of 6 (6 pcs)
+7. Colgate MaxFresh 150g x 1 pack of 6 (6 pcs)
+Approx total Rs 3,168. Payment by UPI to guptatraders@paytm on delivery. Thank you.

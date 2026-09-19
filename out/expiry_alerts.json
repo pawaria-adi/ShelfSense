@@ -1,0 +1,32 @@
+{
+ "date": "2026-09-18",
+ "alerts": [
+  {
+   "sku_id": "SKU046",
+   "exp": "2026-09-20",
+   "days_left": 2,
+   "batch_qty": 16.6,
+   "unsold_qty": 8,
+   "value_at_risk": 254.1,
+   "expiry_estimated": false,
+   "action": "discount_or_remove"
+  },
+  {
+   "sku_id": "SKU099",
+   "exp": "2026-09-22",
+   "days_left": 4,
+   "batch_qty": 5.1,
+   "unsold_qty": 1,
+   "value_at_risk": 60.75,
+   "expiry_estimated": false,
+   "action": "push_or_return"
+  }
+ ],
+ "expired_removed": [
+  {
+   "sku_id": "SKU076",
+   "qty": 1,
+   "exp": "2026-09-15"
+  }
+ ]
+}

@@ -1,0 +1,39 @@
+========================================================================
+ShelfSense — STEP 2: FALLBACK INVENTORY LEDGER
+========================================================================
+true units sold in 30 days : 6,228
+  of which ONDC (exact)    : 1,141  (18.3%)
+assumed cash share         : 18%
+
+Error in units-sold estimate (WAPE, lower is better)
+  method                                           per SKU, 30d  per SKU, day
+  ONDC only (ignore Soundbox)                             81.7%         81.7%
+  ONDC + Soundbox top-1 guess (original plan)             76.0%         86.1%
+  ONDC + Soundbox expected units (fallback)               18.2%         47.5%
+  ONDC + popularity split (naive baseline)                 9.5%         47.2%
+  ONDC + billing station (shops with a scanner)            1.7%          4.6%
+
+ledger.json uses the 'popularity' walk-in estimate
+90% band actually contains the truth for 90% of SKUs (should be ~90%; lower means the band is over-confident)
+
+Sensitivity (popularity): wrong cash-share assumption (true share is ~18%)
+  assume 5% cash -> per-SKU 30d WAPE  11.5%
+  assume 18% cash -> per-SKU 30d WAPE   9.5%
+  assume 30% cash -> per-SKU 30d WAPE  18.0%
+
+Worst 5 SKUs (30-day estimate vs truth):
+  Amul Taaza Milk 500ml              est   302.7  true    271
+  Amul Gold Milk 500ml               est   180.5  true    150
+  Bingo Mad Angles 66g               est    79.0  true     98
+  Lux Soap 100g                      est    93.0  true     74
+  Kurkure Masala Munch 90g           est   127.3  true    142
+
+========================================================================
+FALLBACK LEDGER 30-day error: 18.2%   (top-1 plan: 76.0%)
+NAIVE BASELINE  30-day error: 9.5%
+WARNING: the naive popularity split is as good or better. On this
+         synthetic data the engine's prior IS the generator's recipe,
+         so this test cannot prove Soundbox adds value. Real shop data
+         is needed before claiming it does.
+========================================================================
+BILLING STATION 30-day error: 1.7%  (per SKU per day 4.6%) -> out/ledger_pos.json, band holds truth for 97% of SKUs

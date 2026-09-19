@@ -1,0 +1,62 @@
+GUPTA TRADERS
+Shop 12, Grain Market
+GSTIN: DEMO-GSTIN-GT01
+TAX INVOICE
+Invoice No: INV/GT/4471    Date: 18-09-2026
+Bill To: Demo Kirana Store, Sector 4 Market
+------------------------------------------------------------------------------
+ #  ITEM                                 HSN  GST%   QTY      RATE      AMOUNT
+------------------------------------------------------------------------------
+ 1  PARLE KRACKJACK 70G                 1905    18    24      7.80      187.20
+ 2  LAYS CLASSIC SALTED 52G             2005    12    24     15.60      374.40
+ 3  HALDIRAM ALOO BHUJIA 42G            2005    12    48     15.60      748.80
+ 4  TOP RAMEN CURRY NDL 70G             1902    18    24     10.92      262.08
+ 5  NESTLE MILKMAID 400G                0402    12     6    113.10      678.60
+ 6  AASHIRVAAD ATTA 5KG                 1101     0    12    222.30     2667.60
+ 7  NESCAFE CLASSIC COFFEE 50G          0901    18    12    136.50     1638.00
+ 8  COCA-COLA SD 750ML                  2202    28    48     32.76     1572.48
+ 9  KINLEY WATER 1L                     2201    18    48     15.60      748.80
+10  COLGATE STRONG TEETH 100G           3306    18    24     42.90     1029.60
+11  SUNSILK BLACK SHINE SHMP 180ML      3305    18     6    128.70      772.20
+12  RIN DET BAR 250G                    3401    18    48     15.60      748.80
+13  ARIEL DET PWD 1KG                   3402    18    12    128.70     1544.40
+14  COLIN GLASS CLEANER 500ML           3402    18     6     74.10      444.60
+15  MAGGI HOT & SWEET SAUCE 500G        2103    12    12     89.70     1076.40
+16  AMUL GOLD MILK 500ML                0401     0    12     25.74      308.88
+17  MOTHER DAIRY TONED MILK 500ML       0401     0    12     21.06      252.72
+18  MADHUR SUGAR 1KG                    1701     0    48     37.44     1797.12
+19  SURF EXCEL EASY WASH 500G           3402    18    24     53.04     1272.96
+20  FORTUNE SOYABEAN OIL 1L             1507     5    12     97.50     1170.00
+21  LUX SOAP 100G                       3401    18    48     27.30     1310.40
+22  AMUL BUTTER 100G                    0405    12    24     48.36     1160.64
+23  DHARA MUSTARD OIL 1L                1514     5    12    120.90     1450.80
+24  CADBURY 5 STAR 40G                  1806    18    48     15.60      748.80
+25  CADBURY DAIRY MILK 50G              1806    18    48     35.10     1684.80
+26  CHIK SHMP SACHET 6ML                3305    18    48      2.34      112.32
+27  WHEEL DET PWD 1KG                   3402    18    24     48.36     1160.64
+28  AMUL CHEESE SLICES 200G             0406    12    12    113.10     1357.20
+29  REAL MIXED FRUIT JUICE 1L           2009    12    12     97.50     1170.00
+30  FAIR & LOVELY FACE CREAM 50G        3304    18    12     97.50     1170.00
+31  BRITANNIA GOOD DAY CASHEW 75G       1905    18    48      7.80      374.40
+32  FORTUNE SUNFLOWER OIL 1L            1512     5    24    105.30     2527.20
+33  DETTOL SOAP 125G                    3401    18    24     35.10      842.40
+34  LIZOL FLOOR CLEANER 500ML           3402    18    12     77.22      926.64
+35  VASELINE BODY LOTION 200ML          3304    18     6    144.30      865.80
+36  SURF EXCEL EASY WASH 1KG            3402    18    24     97.50     2340.00
+37  KISSAN MIXED FRUIT JAM 500G         2007    12     6    113.10      678.60
+38  DETTOL ANTISEPTIC LIQUID 125ML      3808    18    12     58.50      702.00
+39  INDIA GATE BASMATI RICE 1KG         1006     0    12    105.30     1263.60
+40  LIFEBUOY SOAP 125G                  3401    18    48     27.30     1310.40
+41  CLINIC PLUS SHMP 175ML              3305    18    12     77.22      926.64
+42  BINGO MAD ANGLES 66G                2005    12    24     15.60      374.40
+43  SPRITE SD 750ML                     2202    28    48     31.20     1497.60
+44  DABUR RED PASTE 100G                3306    18    12     42.90      514.80
+45  HEAD&SHOULDERS ANTI-DANDRUFF 180ML  3305    18     6    144.30      865.80
+46  NESTLE KITKAT 37G                   1806    18    24     15.60      374.40
+47  MENTOS MINT ROLL 29G                1704    18    24      7.80      187.20
+48  EVEREST TURMERIC PWD 200G           0910     5    24     53.04     1272.96
+49  PARLE PARLE-G BISC 70G              1905    18    24      7.80      187.20
+------------------------------------------------------------------------------
+                                                 TOTAL (incl. GST)    48653.28
+Items: 49
+Goods once sold will not be taken back. E&OE.

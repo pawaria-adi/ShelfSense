@@ -1,0 +1,1128 @@
+{
+  "date": "2026-09-17",
+  "lines": [
+    {
+      "sku_id": "SKU005",
+      "name": "Parle Krackjack 70g",
+      "on_hand": 0,
+      "est_daily_rate": 2.04,
+      "days_left": 0.0,
+      "buy_from": "Gupta Traders",
+      "packs": 1,
+      "pack_size": 24,
+      "qty": 24,
+      "cost": 187.2,
+      "effective_unit_cost": 8.023,
+      "why": "already out; Rs 0.18/unit cheaper than Sharma Distributors",
+      "alternatives": [
+        {
+          "supplier": "Sharma Distributors",
+          "effective_unit_cost": 8.202,
+          "qty": 24
+        }
+      ]
+    },
+    {
+      "sku_id": "SKU006",
+      "name": "Lay's Classic Salted 52g",
+      "on_hand": 0,
+      "est_daily_rate": 4.74,
+      "days_left": 0.0,
+      "buy_from": "Gupta Traders",
+      "packs": 2,
+      "pack_size": 24,
+      "qty": 48,
+      "cost": 748.8,
+      "effective_unit_cost": 16.104,
+      "why": "already out; Rs 0.30/unit cheaper than Sharma Distributors",
+      "alternatives": [
+        {
+          "supplier": "Sharma Distributors",
+          "effective_unit_cost": 16.399,
+          "qty": 48
+        }
+      ]
+    },
+    {
+      "sku_id": "SKU009",
+      "name": "Haldiram Aloo Bhujia 42g",
+      "on_hand": 0,
+      "est_daily_rate": 2.58,
+      "days_left": 0.0,
+      "buy_from": "Gupta Traders",
+      "packs": 2,
+      "pack_size": 24,
+      "qty": 48,
+      "cost": 748.8,
+      "effective_unit_cost": 15.925,
+      "why": "already out; Rs 0.47/unit cheaper than Sharma Distributors",
+      "alternatives": [
+        {
+          "supplier": "Sharma Distributors",
+          "effective_unit_cost": 16.396,
+          "qty": 24
+        }
+      ]
+    },
+    {
+      "sku_id": "SKU010",
+      "name": "Maggi Masala Noodles 70g",
+      "on_hand": 0,
+      "est_daily_rate": 8.11,
+      "days_left": 0.0,
+      "buy_from": "Metro Wholesalers",
+      "packs": 5,
+      "pack_size": 24,
+      "qty": 120,
+      "cost": 1260.0,
+      "effective_unit_cost": 10.803,
+      "why": "already out; bulk price, min 5 cartons; Rs 0.43/unit cheaper than Gupta Traders",
+      "alternatives": [
+        {
+          "supplier": "Gupta Traders",
+          "effective_unit_cost": 11.23,
+          "qty": 96
+        },
+        {
+          "supplier": "Sharma Distributors",
+          "effective_unit_cost": 11.477,
+          "qty": 72
+        }
+      ]
+    },
+    {
+      "sku_id": "SKU013",
+      "name": "Top Ramen Curry Noodles 70g",
+      "on_hand": 0,
+      "est_daily_rate": 1.28,
+      "days_left": 0.0,
+      "buy_from": "Gupta Traders",
+      "packs": 1,
+      "pack_size": 24,
+      "qty": 24,
+      "cost": 262.08,
+      "effective_unit_cost": 11.146,
+      "why": "already out; Rs 0.35/unit cheaper than Sharma Distributors",
+      "alternatives": [
+        {
+          "supplier": "Sharma Distributors",
+          "effective_unit_cost": 11.499,
+          "qty": 24
+        }
+      ]
+    },
+    {
+      "sku_id": "SKU021",
+      "name": "Nestle Milkmaid 400g",
+      "on_hand": 0,
+      "est_daily_rate": 0.38,
+      "days_left": 0.0,
+      "buy_from": "Gupta Traders",
+      "packs": 1,
+      "pack_size": 6,
+      "qty": 6,
+      "cost": 678.6,
+      "effective_unit_cost": 115.702,
+      "why": "already out; Rs 3.32/unit cheaper than Sharma Distributors",
+      "alternatives": [
+        {
+          "supplier": "Sharma Distributors",
+          "effective_unit_cost": 119.019,
+          "qty": 6
+        }
+      ]
+    },
+    {
+      "sku_id": "SKU029",
+      "name": "Aashirvaad Atta 5kg",
+      "on_hand": 0,
+      "est_daily_rate": 1.14,
+      "days_left": 0.0,
+      "buy_from": "Gupta Traders",
+      "packs": 1,
+      "pack_size": 12,
+      "qty": 12,
+      "cost": 2667.6,
+      "effective_unit_cost": 229.25,
+      "why": "already out; Rs 4.44/unit cheaper than Sharma Distributors",
+      "alternatives": [
+        {
+          "supplier": "Sharma Distributors",
+          "effective_unit_cost": 233.695,
+          "qty": 12
+        }
+      ]
+    },
+    {
+      "sku_id": "SKU037",
+      "name": "Nescafe Classic Coffee 50g",
+      "on_hand": 0,
+      "est_daily_rate": 1.06,
+      "days_left": 0.0,
+      "buy_from": "Gupta Traders",
+      "packs": 1,
+      "pack_size": 12,
+      "qty": 12,
+      "cost": 1638.0,
+      "effective_unit_cost": 140.52,
+      "why": "already out; Rs 3.00/unit cheaper than Sharma Distributors",
+      "alternatives": [
+        {
+          "supplier": "Sharma Distributors",
+          "effective_unit_cost": 143.516,
+          "qty": 12
+        }
+      ]
+    },
+    {
+      "sku_id": "SKU041",
+      "name": "Coca-Cola Soft Drink 750ml",
+      "on_hand": 0,
+      "est_daily_rate": 3.72,
+      "days_left": 0.0,
+      "buy_from": "Gupta Traders",
+      "packs": 2,
+      "pack_size": 24,
+      "qty": 48,
+      "cost": 1497.6,
+      "effective_unit_cost": 32.029,
+      "why": "already out; Rs 0.78/unit cheaper than Sharma Distributors",
+      "alternatives": [
+        {
+          "supplier": "Sharma Distributors",
+          "effective_unit_cost": 32.813,
+          "qty": 48
+        }
+      ]
+    },
+    {
+      "sku_id": "SKU048",
+      "name": "Kinley Water 1L",
+      "on_hand": 0,
+      "est_daily_rate": 3.22,
+      "days_left": 0.0,
+      "buy_from": "Gupta Traders",
+      "packs": 2,
+      "pack_size": 24,
+      "qty": 48,
+      "cost": 748.8,
+      "effective_unit_cost": 15.973,
+      "why": "already out; Rs 0.44/unit cheaper than Sharma Distributors",
+      "alternatives": [
+        {
+          "supplier": "Sharma Distributors",
+          "effective_unit_cost": 16.413,
+          "qty": 48
+        }
+      ]
+    },
+    {
+      "sku_id": "SKU051",
+      "name": "Colgate Strong Teeth 100g",
+      "on_hand": 0,
+      "est_daily_rate": 1.39,
+      "days_left": 0.0,
+      "buy_from": "Gupta Traders",
+      "packs": 1,
+      "pack_size": 24,
+      "qty": 24,
+      "cost": 1029.6,
+      "effective_unit_cost": 43.832,
+      "why": "already out; Rs 1.33/unit cheaper than Sharma Distributors",
+      "alternatives": [
+        {
+          "supplier": "Sharma Distributors",
+          "effective_unit_cost": 45.159,
+          "qty": 24
+        }
+      ]
+    },
+    {
+      "sku_id": "SKU063",
+      "name": "Dove Shampoo 180ml",
+      "on_hand": 0,
+      "est_daily_rate": 0.38,
+      "days_left": 0.0,
+      "buy_from": "Gupta Traders",
+      "packs": 1,
+      "pack_size": 6,
+      "qty": 6,
+      "cost": 772.2,
+      "effective_unit_cost": 131.661,
+      "why": "already out; Rs 3.77/unit cheaper than Sharma Distributors",
+      "alternatives": [
+        {
+          "supplier": "Sharma Distributors",
+          "effective_unit_cost": 135.435,
+          "qty": 6
+        }
+      ]
+    },
+    {
+      "sku_id": "SKU072",
+      "name": "Rin Detergent Bar 250g",
+      "on_hand": 0,
+      "est_daily_rate": 3.83,
+      "days_left": 0.0,
+      "buy_from": "Gupta Traders",
+      "packs": 2,
+      "pack_size": 24,
+      "qty": 48,
+      "cost": 748.8,
+      "effective_unit_cost": 16.024,
+      "why": "already out; Rs 0.38/unit cheaper than Sharma Distributors",
+      "alternatives": [
+        {
+          "supplier": "Sharma Distributors",
+          "effective_unit_cost": 16.406,
+          "qty": 48
+        }
+      ]
+    },
+    {
+      "sku_id": "SKU075",
+      "name": "Ariel Detergent Powder 1kg",
+      "on_hand": 0,
+      "est_daily_rate": 0.63,
+      "days_left": 0.0,
+      "buy_from": "Gupta Traders",
+      "packs": 1,
+      "pack_size": 12,
+      "qty": 12,
+      "cost": 1544.4,
+      "effective_unit_cost": 131.344,
+      "why": "already out; Rs 4.19/unit cheaper than Sharma Distributors",
+      "alternatives": [
+        {
+          "supplier": "Sharma Distributors",
+          "effective_unit_cost": 135.531,
+          "qty": 12
+        }
+      ]
+    },
+    {
+      "sku_id": "SKU080",
+      "name": "Colin Glass Cleaner 500ml",
+      "on_hand": 0,
+      "est_daily_rate": 0.38,
+      "days_left": 0.0,
+      "buy_from": "Gupta Traders",
+      "packs": 1,
+      "pack_size": 6,
+      "qty": 6,
+      "cost": 444.6,
+      "effective_unit_cost": 75.805,
+      "why": "already out; Rs 2.17/unit cheaper than Sharma Distributors",
+      "alternatives": [
+        {
+          "supplier": "Sharma Distributors",
+          "effective_unit_cost": 77.978,
+          "qty": 6
+        }
+      ]
+    },
+    {
+      "sku_id": "SKU100",
+      "name": "Maggi Hot & Sweet Sauce 500g",
+      "on_hand": 0,
+      "est_daily_rate": 0.78,
+      "days_left": 0.0,
+      "buy_from": "Gupta Traders",
+      "packs": 1,
+      "pack_size": 12,
+      "qty": 12,
+      "cost": 1076.4,
+      "effective_unit_cost": 91.8,
+      "why": "already out; Rs 2.59/unit cheaper than Sharma Distributors",
+      "alternatives": [
+        {
+          "supplier": "Sharma Distributors",
+          "effective_unit_cost": 94.386,
+          "qty": 12
+        }
+      ]
+    },
+    {
+      "sku_id": "SKU015",
+      "name": "Amul Gold Milk 500ml",
+      "on_hand": 2,
+      "est_daily_rate": 5.91,
+      "days_left": 0.3,
+      "buy_from": "Gupta Traders",
+      "packs": 2,
+      "pack_size": 6,
+      "qty": 12,
+      "cost": 308.88,
+      "effective_unit_cost": 29.193,
+      "why": "almost out; Rs 9.92/unit cheaper than Sharma Distributors",
+      "alternatives": [
+        {
+          "supplier": "Sharma Distributors",
+          "effective_unit_cost": 39.117,
+          "qty": 12
+        }
+      ]
+    },
+    {
+      "sku_id": "SKU007",
+      "name": "Kurkure Masala Munch 90g",
+      "on_hand": 2,
+      "est_daily_rate": 4.5,
+      "days_left": 0.4,
+      "buy_from": "Gupta Traders",
+      "packs": 2,
+      "pack_size": 24,
+      "qty": 48,
+      "cost": 748.8,
+      "effective_unit_cost": 15.899,
+      "why": "almost out; Rs 0.50/unit cheaper than Sharma Distributors",
+      "alternatives": [
+        {
+          "supplier": "Sharma Distributors",
+          "effective_unit_cost": 16.4,
+          "qty": 48
+        }
+      ]
+    },
+    {
+      "sku_id": "SKU016",
+      "name": "Mother Dairy Toned Milk 500ml",
+      "on_hand": 2,
+      "est_daily_rate": 4.53,
+      "days_left": 0.4,
+      "buy_from": "Gupta Traders",
+      "packs": 2,
+      "pack_size": 6,
+      "qty": 12,
+      "cost": 252.72,
+      "effective_unit_cost": 36.608,
+      "why": "almost out; Rs 16.53/unit cheaper than Sharma Distributors",
+      "alternatives": [
+        {
+          "supplier": "Sharma Distributors",
+          "effective_unit_cost": 53.133,
+          "qty": 12
+        }
+      ]
+    },
+    {
+      "sku_id": "SKU033",
+      "name": "Madhur Sugar 1kg",
+      "on_hand": 2,
+      "est_daily_rate": 3.14,
+      "days_left": 0.6,
+      "buy_from": "Gupta Traders",
+      "packs": 2,
+      "pack_size": 24,
+      "qty": 48,
+      "cost": 1797.12,
+      "effective_unit_cost": 37.88,
+      "why": "almost out; Rs 1.52/unit cheaper than Sharma Distributors",
+      "alternatives": [
+        {
+          "supplier": "Sharma Distributors",
+          "effective_unit_cost": 39.395,
+          "qty": 48
+        }
+      ]
+    },
+    {
+      "sku_id": "SKU071",
+      "name": "Surf Excel Easy Wash 500g",
+      "on_hand": 1,
+      "est_daily_rate": 1.79,
+      "days_left": 0.6,
+      "buy_from": "Gupta Traders",
+      "packs": 1,
+      "pack_size": 24,
+      "qty": 24,
+      "cost": 1272.96,
+      "effective_unit_cost": 53.786,
+      "why": "almost out; Rs 2.00/unit cheaper than Sharma Distributors",
+      "alternatives": [
+        {
+          "supplier": "Sharma Distributors",
+          "effective_unit_cost": 55.788,
+          "qty": 24
+        }
+      ]
+    },
+    {
+      "sku_id": "SKU020",
+      "name": "Amul Masti Dahi 400g",
+      "on_hand": 2,
+      "est_daily_rate": 2.74,
+      "days_left": 0.7,
+      "buy_from": "Sharma Distributors",
+      "packs": 2,
+      "pack_size": 6,
+      "qty": 12,
+      "cost": 442.8,
+      "effective_unit_cost": 38.777,
+      "why": "almost out; fast delivery (2h) saves missed sales; 7 days credit; Rs 19.09/unit cheaper than Gupta Traders",
+      "alternatives": [
+        {
+          "supplier": "Gupta Traders",
+          "effective_unit_cost": 57.864,
+          "qty": 18
+        }
+      ]
+    },
+    {
+      "sku_id": "SKU014",
+      "name": "Amul Taaza Milk 500ml",
+      "on_hand": 10,
+      "est_daily_rate": 10.9,
+      "days_left": 0.9,
+      "buy_from": "Sharma Distributors",
+      "packs": 2,
+      "pack_size": 6,
+      "qty": 12,
+      "cost": 265.68,
+      "effective_unit_cost": 22.998,
+      "why": "almost out; fast delivery (2h) saves missed sales; 7 days credit; Rs 2.78/unit cheaper than Gupta Traders",
+      "alternatives": [
+        {
+          "supplier": "Gupta Traders",
+          "effective_unit_cost": 25.775,
+          "qty": 24
+        }
+      ]
+    },
+    {
+      "sku_id": "SKU023",
+      "name": "Fortune Soyabean Oil 1L",
+      "on_hand": 1,
+      "est_daily_rate": 1.16,
+      "days_left": 0.9,
+      "buy_from": "Gupta Traders",
+      "packs": 1,
+      "pack_size": 12,
+      "qty": 12,
+      "cost": 1170.0,
+      "effective_unit_cost": 98.301,
+      "why": "almost out; Rs 4.19/unit cheaper than Sharma Distributors",
+      "alternatives": [
+        {
+          "supplier": "Sharma Distributors",
+          "effective_unit_cost": 102.495,
+          "qty": 12
+        }
+      ]
+    },
+    {
+      "sku_id": "SKU057",
+      "name": "Lux Soap 100g",
+      "on_hand": 3,
+      "est_daily_rate": 3.52,
+      "days_left": 0.9,
+      "buy_from": "Gupta Traders",
+      "packs": 2,
+      "pack_size": 24,
+      "qty": 48,
+      "cost": 1310.4,
+      "effective_unit_cost": 27.515,
+      "why": "almost out; Rs 1.20/unit cheaper than Sharma Distributors",
+      "alternatives": [
+        {
+          "supplier": "Sharma Distributors",
+          "effective_unit_cost": 28.716,
+          "qty": 48
+        }
+      ]
+    },
+    {
+      "sku_id": "SKU017",
+      "name": "Amul Butter 100g",
+      "on_hand": 2,
+      "est_daily_rate": 1.92,
+      "days_left": 1.0,
+      "buy_from": "Gupta Traders",
+      "packs": 1,
+      "pack_size": 24,
+      "qty": 24,
+      "cost": 1160.64,
+      "effective_unit_cost": 48.585,
+      "why": "Rs 2.27/unit cheaper than Sharma Distributors",
+      "alternatives": [
+        {
+          "supplier": "Sharma Distributors",
+          "effective_unit_cost": 50.857,
+          "qty": 24
+        }
+      ]
+    },
+    {
+      "sku_id": "SKU025",
+      "name": "Dhara Mustard Oil 1L",
+      "on_hand": 1,
+      "est_daily_rate": 1.03,
+      "days_left": 1.0,
+      "buy_from": "Gupta Traders",
+      "packs": 1,
+      "pack_size": 12,
+      "qty": 12,
+      "cost": 1450.8,
+      "effective_unit_cost": 121.537,
+      "why": "Rs 5.58/unit cheaper than Sharma Distributors",
+      "alternatives": [
+        {
+          "supplier": "Sharma Distributors",
+          "effective_unit_cost": 127.122,
+          "qty": 12
+        }
+      ]
+    },
+    {
+      "sku_id": "SKU064",
+      "name": "Clinic Plus Shampoo Sachet 6ml",
+      "on_hand": 9,
+      "est_daily_rate": 8.44,
+      "days_left": 1.1,
+      "buy_from": "Metro Wholesalers",
+      "packs": 5,
+      "pack_size": 24,
+      "qty": 120,
+      "cost": 270.0,
+      "effective_unit_cost": 2.264,
+      "why": "bulk price, min 5 cartons; Rs 0.09/unit cheaper than Gupta Traders",
+      "alternatives": [
+        {
+          "supplier": "Gupta Traders",
+          "effective_unit_cost": 2.35,
+          "qty": 72
+        },
+        {
+          "supplier": "Sharma Distributors",
+          "effective_unit_cost": 2.459,
+          "qty": 72
+        }
+      ]
+    },
+    {
+      "sku_id": "SKU085",
+      "name": "Cadbury 5 Star 40g",
+      "on_hand": 4,
+      "est_daily_rate": 3.71,
+      "days_left": 1.1,
+      "buy_from": "Gupta Traders",
+      "packs": 2,
+      "pack_size": 24,
+      "qty": 48,
+      "cost": 748.8,
+      "effective_unit_cost": 15.674,
+      "why": "Rs 0.73/unit cheaper than Sharma Distributors",
+      "alternatives": [
+        {
+          "supplier": "Sharma Distributors",
+          "effective_unit_cost": 16.407,
+          "qty": 48
+        }
+      ]
+    },
+    {
+      "sku_id": "SKU084",
+      "name": "Cadbury Dairy Milk 50g",
+      "on_hand": 4,
+      "est_daily_rate": 3.06,
+      "days_left": 1.3,
+      "buy_from": "Gupta Traders",
+      "packs": 2,
+      "pack_size": 24,
+      "qty": 48,
+      "cost": 1684.8,
+      "effective_unit_cost": 35.28,
+      "why": "Rs 1.60/unit cheaper than Sharma Distributors",
+      "alternatives": [
+        {
+          "supplier": "Sharma Distributors",
+          "effective_unit_cost": 36.885,
+          "qty": 24
+        }
+      ]
+    },
+    {
+      "sku_id": "SKU065",
+      "name": "Chik Shampoo Sachet 6ml",
+      "on_hand": 8,
+      "est_daily_rate": 5.89,
+      "days_left": 1.4,
+      "buy_from": "Gupta Traders",
+      "packs": 2,
+      "pack_size": 24,
+      "qty": 48,
+      "cost": 112.32,
+      "effective_unit_cost": 2.35,
+      "why": "Rs 0.11/unit cheaper than Sharma Distributors",
+      "alternatives": [
+        {
+          "supplier": "Sharma Distributors",
+          "effective_unit_cost": 2.459,
+          "qty": 48
+        }
+      ]
+    },
+    {
+      "sku_id": "SKU073",
+      "name": "Wheel Detergent Powder 1kg",
+      "on_hand": 3,
+      "est_daily_rate": 2.04,
+      "days_left": 1.5,
+      "buy_from": "Gupta Traders",
+      "packs": 1,
+      "pack_size": 24,
+      "qty": 24,
+      "cost": 1160.64,
+      "effective_unit_cost": 48.581,
+      "why": "Rs 2.27/unit cheaper than Sharma Distributors",
+      "alternatives": [
+        {
+          "supplier": "Sharma Distributors",
+          "effective_unit_cost": 50.85,
+          "qty": 24
+        }
+      ]
+    },
+    {
+      "sku_id": "SKU019",
+      "name": "Amul Cheese Slices 200g",
+      "on_hand": 1,
+      "est_daily_rate": 0.63,
+      "days_left": 1.6,
+      "buy_from": "Gupta Traders",
+      "packs": 1,
+      "pack_size": 12,
+      "qty": 12,
+      "cost": 1357.2,
+      "effective_unit_cost": 113.748,
+      "why": "Rs 5.35/unit cheaper than Sharma Distributors",
+      "alternatives": [
+        {
+          "supplier": "Sharma Distributors",
+          "effective_unit_cost": 119.103,
+          "qty": 12
+        }
+      ]
+    },
+    {
+      "sku_id": "SKU049",
+      "name": "Real Mixed Fruit Juice 1L",
+      "on_hand": 1,
+      "est_daily_rate": 0.63,
+      "days_left": 1.6,
+      "buy_from": "Gupta Traders",
+      "packs": 1,
+      "pack_size": 12,
+      "qty": 12,
+      "cost": 1170.0,
+      "effective_unit_cost": 98.059,
+      "why": "Rs 4.62/unit cheaper than Sharma Distributors",
+      "alternatives": [
+        {
+          "supplier": "Sharma Distributors",
+          "effective_unit_cost": 102.675,
+          "qty": 12
+        }
+      ]
+    },
+    {
+      "sku_id": "SKU068",
+      "name": "Fair & Lovely Face Cream 50g",
+      "on_hand": 1,
+      "est_daily_rate": 0.63,
+      "days_left": 1.6,
+      "buy_from": "Gupta Traders",
+      "packs": 1,
+      "pack_size": 12,
+      "qty": 12,
+      "cost": 1170.0,
+      "effective_unit_cost": 98.059,
+      "why": "Rs 4.62/unit cheaper than Sharma Distributors",
+      "alternatives": [
+        {
+          "supplier": "Sharma Distributors",
+          "effective_unit_cost": 102.675,
+          "qty": 12
+        }
+      ]
+    },
+    {
+      "sku_id": "SKU002",
+      "name": "Britannia Good Day Cashew 75g",
+      "on_hand": 8,
+      "est_daily_rate": 4.37,
+      "days_left": 1.8,
+      "buy_from": "Gupta Traders",
+      "packs": 2,
+      "pack_size": 24,
+      "qty": 48,
+      "cost": 374.4,
+      "effective_unit_cost": 7.835,
+      "why": "Rs 0.36/unit cheaper than Sharma Distributors",
+      "alternatives": [
+        {
+          "supplier": "Sharma Distributors",
+          "effective_unit_cost": 8.2,
+          "qty": 48
+        }
+      ]
+    },
+    {
+      "sku_id": "SKU022",
+      "name": "Fortune Sunflower Oil 1L",
+      "on_hand": 3,
+      "est_daily_rate": 1.68,
+      "days_left": 1.8,
+      "buy_from": "Gupta Traders",
+      "packs": 2,
+      "pack_size": 12,
+      "qty": 24,
+      "cost": 2527.2,
+      "effective_unit_cost": 105.816,
+      "why": "Rs 4.83/unit cheaper than Sharma Distributors",
+      "alternatives": [
+        {
+          "supplier": "Sharma Distributors",
+          "effective_unit_cost": 110.649,
+          "qty": 12
+        }
+      ]
+    },
+    {
+      "sku_id": "SKU058",
+      "name": "Dettol Soap 125g",
+      "on_hand": 5,
+      "est_daily_rate": 2.6,
+      "days_left": 1.9,
+      "buy_from": "Gupta Traders",
+      "packs": 1,
+      "pack_size": 24,
+      "qty": 24,
+      "cost": 842.4,
+      "effective_unit_cost": 35.255,
+      "why": "Rs 1.64/unit cheaper than Sharma Distributors",
+      "alternatives": [
+        {
+          "supplier": "Sharma Distributors",
+          "effective_unit_cost": 36.892,
+          "qty": 24
+        }
+      ]
+    },
+    {
+      "sku_id": "SKU079",
+      "name": "Lizol Floor Cleaner 500ml",
+      "on_hand": 2,
+      "est_daily_rate": 1.06,
+      "days_left": 1.9,
+      "buy_from": "Gupta Traders",
+      "packs": 2,
+      "pack_size": 6,
+      "qty": 12,
+      "cost": 926.64,
+      "effective_unit_cost": 77.57,
+      "why": "Rs 3.62/unit cheaper than Sharma Distributors",
+      "alternatives": [
+        {
+          "supplier": "Sharma Distributors",
+          "effective_unit_cost": 81.189,
+          "qty": 12
+        }
+      ]
+    },
+    {
+      "sku_id": "SKU067",
+      "name": "Vaseline Body Lotion 200ml",
+      "on_hand": 1,
+      "est_daily_rate": 0.51,
+      "days_left": 2.0,
+      "buy_from": "Gupta Traders",
+      "packs": 1,
+      "pack_size": 6,
+      "qty": 6,
+      "cost": 865.8,
+      "effective_unit_cost": 144.961,
+      "why": "Rs 6.77/unit cheaper than Sharma Distributors",
+      "alternatives": [
+        {
+          "supplier": "Sharma Distributors",
+          "effective_unit_cost": 151.73,
+          "qty": 6
+        }
+      ]
+    },
+    {
+      "sku_id": "SKU070",
+      "name": "Surf Excel Easy Wash 1kg",
+      "on_hand": 4,
+      "est_daily_rate": 1.98,
+      "days_left": 2.0,
+      "buy_from": "Gupta Traders",
+      "packs": 2,
+      "pack_size": 12,
+      "qty": 24,
+      "cost": 2340.0,
+      "effective_unit_cost": 97.95,
+      "why": "Rs 4.58/unit cheaper than Sharma Distributors",
+      "alternatives": [
+        {
+          "supplier": "Sharma Distributors",
+          "effective_unit_cost": 102.527,
+          "qty": 24
+        }
+      ]
+    },
+    {
+      "sku_id": "SKU098",
+      "name": "Kissan Mixed Fruit Jam 500g",
+      "on_hand": 1,
+      "est_daily_rate": 0.51,
+      "days_left": 2.0,
+      "buy_from": "Gupta Traders",
+      "packs": 1,
+      "pack_size": 6,
+      "qty": 6,
+      "cost": 678.6,
+      "effective_unit_cost": 113.618,
+      "why": "Rs 5.31/unit cheaper than Sharma Distributors",
+      "alternatives": [
+        {
+          "supplier": "Sharma Distributors",
+          "effective_unit_cost": 118.923,
+          "qty": 6
+        }
+      ]
+    },
+    {
+      "sku_id": "SKU083",
+      "name": "Dettol Antiseptic Liquid 125ml",
+      "on_hand": 2,
+      "est_daily_rate": 0.94,
+      "days_left": 2.1,
+      "buy_from": "Gupta Traders",
+      "packs": 2,
+      "pack_size": 6,
+      "qty": 12,
+      "cost": 702.0,
+      "effective_unit_cost": 58.775,
+      "why": "Rs 2.69/unit cheaper than Sharma Distributors",
+      "alternatives": [
+        {
+          "supplier": "Sharma Distributors",
+          "effective_unit_cost": 61.469,
+          "qty": 6
+        }
+      ]
+    },
+    {
+      "sku_id": "SKU031",
+      "name": "India Gate Basmati Rice 1kg",
+      "on_hand": 3,
+      "est_daily_rate": 1.32,
+      "days_left": 2.3,
+      "buy_from": "Gupta Traders",
+      "packs": 1,
+      "pack_size": 12,
+      "qty": 12,
+      "cost": 1263.6,
+      "effective_unit_cost": 105.765,
+      "why": "Rs 4.91/unit cheaper than Sharma Distributors",
+      "alternatives": [
+        {
+          "supplier": "Sharma Distributors",
+          "effective_unit_cost": 110.673,
+          "qty": 12
+        }
+      ]
+    },
+    {
+      "sku_id": "SKU056",
+      "name": "Lifebuoy Soap 125g",
+      "on_hand": 8,
+      "est_daily_rate": 3.47,
+      "days_left": 2.3,
+      "buy_from": "Gupta Traders",
+      "packs": 2,
+      "pack_size": 24,
+      "qty": 48,
+      "cost": 1310.4,
+      "effective_unit_cost": 27.432,
+      "why": "Rs 1.25/unit cheaper than Sharma Distributors",
+      "alternatives": [
+        {
+          "supplier": "Sharma Distributors",
+          "effective_unit_cost": 28.686,
+          "qty": 24
+        }
+      ]
+    },
+    {
+      "sku_id": "SKU061",
+      "name": "Clinic Plus Shampoo 175ml",
+      "on_hand": 3,
+      "est_daily_rate": 1.28,
+      "days_left": 2.3,
+      "buy_from": "Gupta Traders",
+      "packs": 2,
+      "pack_size": 6,
+      "qty": 12,
+      "cost": 926.64,
+      "effective_unit_cost": 77.561,
+      "why": "Rs 3.60/unit cheaper than Sharma Distributors",
+      "alternatives": [
+        {
+          "supplier": "Sharma Distributors",
+          "effective_unit_cost": 81.163,
+          "qty": 12
+        }
+      ]
+    },
+    {
+      "sku_id": "SKU008",
+      "name": "Bingo Mad Angles 66g",
+      "on_hand": 8,
+      "est_daily_rate": 3.12,
+      "days_left": 2.6,
+      "buy_from": "Gupta Traders",
+      "packs": 1,
+      "pack_size": 24,
+      "qty": 24,
+      "cost": 374.4,
+      "effective_unit_cost": 15.67,
+      "why": "Rs 0.72/unit cheaper than Sharma Distributors",
+      "alternatives": [
+        {
+          "supplier": "Sharma Distributors",
+          "effective_unit_cost": 16.393,
+          "qty": 24
+        }
+      ]
+    },
+    {
+      "sku_id": "SKU043",
+      "name": "Sprite Soft Drink 750ml",
+      "on_hand": 10,
+      "est_daily_rate": 3.69,
+      "days_left": 2.7,
+      "buy_from": "Gupta Traders",
+      "packs": 2,
+      "pack_size": 24,
+      "qty": 48,
+      "cost": 1497.6,
+      "effective_unit_cost": 31.347,
+      "why": "Rs 1.44/unit cheaper than Sharma Distributors",
+      "alternatives": [
+        {
+          "supplier": "Sharma Distributors",
+          "effective_unit_cost": 32.784,
+          "qty": 24
+        }
+      ]
+    },
+    {
+      "sku_id": "SKU055",
+      "name": "Dabur Red Paste 100g",
+      "on_hand": 4,
+      "est_daily_rate": 1.28,
+      "days_left": 3.1,
+      "buy_from": "Gupta Traders",
+      "packs": 2,
+      "pack_size": 6,
+      "qty": 12,
+      "cost": 514.8,
+      "effective_unit_cost": 43.09,
+      "why": "Rs 2.00/unit cheaper than Sharma Distributors",
+      "alternatives": [
+        {
+          "supplier": "Sharma Distributors",
+          "effective_unit_cost": 45.091,
+          "qty": 12
+        }
+      ]
+    },
+    {
+      "sku_id": "SKU062",
+      "name": "Head&Shoulders Anti-Dandruff 180ml",
+      "on_hand": 2,
+      "est_daily_rate": 0.65,
+      "days_left": 3.1,
+      "buy_from": "Gupta Traders",
+      "packs": 1,
+      "pack_size": 6,
+      "qty": 6,
+      "cost": 865.8,
+      "effective_unit_cost": 144.937,
+      "why": "Rs 6.73/unit cheaper than Sharma Distributors",
+      "alternatives": [
+        {
+          "supplier": "Sharma Distributors",
+          "effective_unit_cost": 151.666,
+          "qty": 6
+        }
+      ]
+    },
+    {
+      "sku_id": "SKU086",
+      "name": "Nestle KitKat 37g",
+      "on_hand": 10,
+      "est_daily_rate": 3.17,
+      "days_left": 3.2,
+      "buy_from": "Gupta Traders",
+      "packs": 1,
+      "pack_size": 24,
+      "qty": 24,
+      "cost": 374.4,
+      "effective_unit_cost": 15.67,
+      "why": "Rs 0.72/unit cheaper than Sharma Distributors",
+      "alternatives": [
+        {
+          "supplier": "Sharma Distributors",
+          "effective_unit_cost": 16.393,
+          "qty": 24
+        }
+      ]
+    },
+    {
+      "sku_id": "SKU089",
+      "name": "Mentos Mint Roll 29g",
+      "on_hand": 8,
+      "est_daily_rate": 2.41,
+      "days_left": 3.3,
+      "buy_from": "Gupta Traders",
+      "packs": 1,
+      "pack_size": 24,
+      "qty": 24,
+      "cost": 187.2,
+      "effective_unit_cost": 7.835,
+      "why": "Rs 0.36/unit cheaper than Sharma Distributors",
+      "alternatives": [
+        {
+          "supplier": "Sharma Distributors",
+          "effective_unit_cost": 8.199,
+          "qty": 24
+        }
+      ]
+    },
+    {
+      "sku_id": "SKU096",
+      "name": "Everest Turmeric Powder 200g",
+      "on_hand": 5,
+      "est_daily_rate": 1.46,
+      "days_left": 3.4,
+      "buy_from": "Gupta Traders",
+      "packs": 1,
+      "pack_size": 24,
+      "qty": 24,
+      "cost": 1272.96,
+      "effective_unit_cost": 53.319,
+      "why": "Rs 2.50/unit cheaper than Sharma Distributors",
+      "alternatives": [
+        {
+          "supplier": "Sharma Distributors",
+          "effective_unit_cost": 55.823,
+          "qty": 24
+        }
+      ]
+    }
+  ]
+}

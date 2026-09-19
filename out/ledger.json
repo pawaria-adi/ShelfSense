@@ -1,0 +1,1517 @@
+[
+  {
+    "sku_id": "SKU014",
+    "name": "Amul Taaza Milk 500ml",
+    "confirmed_units_ondc": 63.0,
+    "estimated_walkin_units": 239.7,
+    "estimated_total_units": 302.7,
+    "band_90": [
+      277.2,
+      328.2
+    ],
+    "est_daily_rate": 10.09,
+    "est_daily_rate_recent": 10.9,
+    "sales_source": "estimate",
+    "signal_quality": "estimated-tight"
+  },
+  {
+    "sku_id": "SKU064",
+    "name": "Clinic Plus Shampoo Sachet 6ml",
+    "confirmed_units_ondc": 43.0,
+    "estimated_walkin_units": 183.3,
+    "estimated_total_units": 226.3,
+    "band_90": [
+      204.0,
+      248.6
+    ],
+    "est_daily_rate": 7.54,
+    "est_daily_rate_recent": 8.44,
+    "sales_source": "estimate",
+    "signal_quality": "estimated-tight"
+  },
+  {
+    "sku_id": "SKU010",
+    "name": "Maggi Masala Noodles 70g",
+    "confirmed_units_ondc": 31.0,
+    "estimated_walkin_units": 162.1,
+    "estimated_total_units": 193.1,
+    "band_90": [
+      172.2,
+      214.1
+    ],
+    "est_daily_rate": 6.44,
+    "est_daily_rate_recent": 8.11,
+    "sales_source": "estimate",
+    "signal_quality": "estimated-tight"
+  },
+  {
+    "sku_id": "SKU015",
+    "name": "Amul Gold Milk 500ml",
+    "confirmed_units_ondc": 36.0,
+    "estimated_walkin_units": 144.5,
+    "estimated_total_units": 180.5,
+    "band_90": [
+      160.7,
+      200.3
+    ],
+    "est_daily_rate": 6.02,
+    "est_daily_rate_recent": 5.91,
+    "sales_source": "estimate",
+    "signal_quality": "estimated-tight"
+  },
+  {
+    "sku_id": "SKU001",
+    "name": "Parle Parle-G Biscuits 70g",
+    "confirmed_units_ondc": 18.0,
+    "estimated_walkin_units": 148.0,
+    "estimated_total_units": 166.0,
+    "band_90": [
+      146.0,
+      186.1
+    ],
+    "est_daily_rate": 5.53,
+    "est_daily_rate_recent": 5.89,
+    "sales_source": "estimate",
+    "signal_quality": "estimated-tight"
+  },
+  {
+    "sku_id": "SKU047",
+    "name": "Bisleri Water 1L",
+    "confirmed_units_ondc": 19.0,
+    "estimated_walkin_units": 133.9,
+    "estimated_total_units": 152.9,
+    "band_90": [
+      133.9,
+      172.0
+    ],
+    "est_daily_rate": 5.1,
+    "est_daily_rate_recent": 5.81,
+    "sales_source": "estimate",
+    "signal_quality": "estimated-tight"
+  },
+  {
+    "sku_id": "SKU065",
+    "name": "Chik Shampoo Sachet 6ml",
+    "confirmed_units_ondc": 36.0,
+    "estimated_walkin_units": 116.3,
+    "estimated_total_units": 152.3,
+    "band_90": [
+      134.6,
+      170.1
+    ],
+    "est_daily_rate": 5.08,
+    "est_daily_rate_recent": 5.89,
+    "sales_source": "estimate",
+    "signal_quality": "estimated-tight"
+  },
+  {
+    "sku_id": "SKU016",
+    "name": "Mother Dairy Toned Milk 500ml",
+    "confirmed_units_ondc": 39.0,
+    "estimated_walkin_units": 102.2,
+    "estimated_total_units": 141.2,
+    "band_90": [
+      124.6,
+      157.9
+    ],
+    "est_daily_rate": 4.71,
+    "est_daily_rate_recent": 4.53,
+    "sales_source": "estimate",
+    "signal_quality": "estimated-tight"
+  },
+  {
+    "sku_id": "SKU006",
+    "name": "Lay's Classic Salted 52g",
+    "confirmed_units_ondc": 16.0,
+    "estimated_walkin_units": 119.8,
+    "estimated_total_units": 135.8,
+    "band_90": [
+      117.8,
+      153.9
+    ],
+    "est_daily_rate": 4.53,
+    "est_daily_rate_recent": 4.74,
+    "sales_source": "estimate",
+    "signal_quality": "estimated-tight"
+  },
+  {
+    "sku_id": "SKU072",
+    "name": "Rin Detergent Bar 250g",
+    "confirmed_units_ondc": 32.0,
+    "estimated_walkin_units": 98.7,
+    "estimated_total_units": 130.7,
+    "band_90": [
+      114.4,
+      147.0
+    ],
+    "est_daily_rate": 4.36,
+    "est_daily_rate_recent": 3.83,
+    "sales_source": "estimate",
+    "signal_quality": "estimated-tight"
+  },
+  {
+    "sku_id": "SKU007",
+    "name": "Kurkure Masala Munch 90g",
+    "confirmed_units_ondc": 18.0,
+    "estimated_walkin_units": 109.3,
+    "estimated_total_units": 127.3,
+    "band_90": [
+      110.1,
+      144.5
+    ],
+    "est_daily_rate": 4.24,
+    "est_daily_rate_recent": 4.5,
+    "sales_source": "estimate",
+    "signal_quality": "estimated-tight"
+  },
+  {
+    "sku_id": "SKU002",
+    "name": "Britannia Good Day Cashew 75g",
+    "confirmed_units_ondc": 21.0,
+    "estimated_walkin_units": 105.7,
+    "estimated_total_units": 126.7,
+    "band_90": [
+      109.8,
+      143.7
+    ],
+    "est_daily_rate": 4.22,
+    "est_daily_rate_recent": 4.37,
+    "sales_source": "estimate",
+    "signal_quality": "estimated-tight"
+  },
+  {
+    "sku_id": "SKU076",
+    "name": "Vim Dishwash Bar 300g",
+    "confirmed_units_ondc": 25.0,
+    "estimated_walkin_units": 91.6,
+    "estimated_total_units": 116.6,
+    "band_90": [
+      100.9,
+      132.4
+    ],
+    "est_daily_rate": 3.89,
+    "est_daily_rate_recent": 3.44,
+    "sales_source": "estimate",
+    "signal_quality": "estimated-tight"
+  },
+  {
+    "sku_id": "SKU093",
+    "name": "Nestle Munch 20g",
+    "confirmed_units_ondc": 11.0,
+    "estimated_walkin_units": 102.2,
+    "estimated_total_units": 113.2,
+    "band_90": [
+      96.6,
+      129.9
+    ],
+    "est_daily_rate": 3.77,
+    "est_daily_rate_recent": 3.82,
+    "sales_source": "estimate",
+    "signal_quality": "estimated-tight"
+  },
+  {
+    "sku_id": "SKU041",
+    "name": "Coca-Cola Soft Drink 750ml",
+    "confirmed_units_ondc": 18.0,
+    "estimated_walkin_units": 91.6,
+    "estimated_total_units": 109.6,
+    "band_90": [
+      93.9,
+      125.4
+    ],
+    "est_daily_rate": 3.65,
+    "est_daily_rate_recent": 3.72,
+    "sales_source": "estimate",
+    "signal_quality": "estimated-tight"
+  },
+  {
+    "sku_id": "SKU042",
+    "name": "Thums Up Soft Drink 750ml",
+    "confirmed_units_ondc": 23.0,
+    "estimated_walkin_units": 84.6,
+    "estimated_total_units": 107.6,
+    "band_90": [
+      92.5,
+      122.7
+    ],
+    "est_daily_rate": 3.59,
+    "est_daily_rate_recent": 3.61,
+    "sales_source": "estimate",
+    "signal_quality": "estimated-tight"
+  },
+  {
+    "sku_id": "SKU027",
+    "name": "Tata Salt 1kg",
+    "confirmed_units_ondc": 27.0,
+    "estimated_walkin_units": 77.5,
+    "estimated_total_units": 104.5,
+    "band_90": [
+      90.1,
+      119.0
+    ],
+    "est_daily_rate": 3.48,
+    "est_daily_rate_recent": 3.79,
+    "sales_source": "estimate",
+    "signal_quality": "estimated-tight"
+  },
+  {
+    "sku_id": "SKU085",
+    "name": "Cadbury 5 Star 40g",
+    "confirmed_units_ondc": 7.0,
+    "estimated_walkin_units": 95.2,
+    "estimated_total_units": 102.2,
+    "band_90": [
+      86.1,
+      118.2
+    ],
+    "est_daily_rate": 3.41,
+    "est_daily_rate_recent": 3.71,
+    "sales_source": "estimate",
+    "signal_quality": "estimated-tight"
+  },
+  {
+    "sku_id": "SKU056",
+    "name": "Lifebuoy Soap 125g",
+    "confirmed_units_ondc": 16.0,
+    "estimated_walkin_units": 84.6,
+    "estimated_total_units": 100.6,
+    "band_90": [
+      85.5,
+      115.7
+    ],
+    "est_daily_rate": 3.35,
+    "est_daily_rate_recent": 3.47,
+    "sales_source": "estimate",
+    "signal_quality": "estimated-tight"
+  },
+  {
+    "sku_id": "SKU088",
+    "name": "Cadbury Gems 17g",
+    "confirmed_units_ondc": 10.0,
+    "estimated_walkin_units": 84.6,
+    "estimated_total_units": 94.6,
+    "band_90": [
+      79.5,
+      109.7
+    ],
+    "est_daily_rate": 3.15,
+    "est_daily_rate_recent": 3.18,
+    "sales_source": "estimate",
+    "signal_quality": "estimated-tight"
+  },
+  {
+    "sku_id": "SKU057",
+    "name": "Lux Soap 100g",
+    "confirmed_units_ondc": 19.0,
+    "estimated_walkin_units": 74.0,
+    "estimated_total_units": 93.0,
+    "band_90": [
+      78.9,
+      107.2
+    ],
+    "est_daily_rate": 3.1,
+    "est_daily_rate_recent": 3.52,
+    "sales_source": "estimate",
+    "signal_quality": "estimated-tight"
+  },
+  {
+    "sku_id": "SKU086",
+    "name": "Nestle KitKat 37g",
+    "confirmed_units_ondc": 4.0,
+    "estimated_walkin_units": 88.1,
+    "estimated_total_units": 92.1,
+    "band_90": [
+      76.7,
+      107.6
+    ],
+    "est_daily_rate": 3.07,
+    "est_daily_rate_recent": 3.17,
+    "sales_source": "estimate",
+    "signal_quality": "estimated-tight"
+  },
+  {
+    "sku_id": "SKU045",
+    "name": "Maaza Mango Drink 600ml",
+    "confirmed_units_ondc": 18.0,
+    "estimated_walkin_units": 74.0,
+    "estimated_total_units": 92.0,
+    "band_90": [
+      77.9,
+      106.2
+    ],
+    "est_daily_rate": 3.07,
+    "est_daily_rate_recent": 3.09,
+    "sales_source": "estimate",
+    "signal_quality": "estimated-tight"
+  },
+  {
+    "sku_id": "SKU003",
+    "name": "Britannia Bourbon 60g",
+    "confirmed_units_ondc": 13.0,
+    "estimated_walkin_units": 77.5,
+    "estimated_total_units": 90.5,
+    "band_90": [
+      76.1,
+      105.0
+    ],
+    "est_daily_rate": 3.02,
+    "est_daily_rate_recent": 3.07,
+    "sales_source": "estimate",
+    "signal_quality": "estimated-tight"
+  },
+  {
+    "sku_id": "SKU048",
+    "name": "Kinley Water 1L",
+    "confirmed_units_ondc": 11.0,
+    "estimated_walkin_units": 77.5,
+    "estimated_total_units": 88.5,
+    "band_90": [
+      74.1,
+      103.0
+    ],
+    "est_daily_rate": 2.95,
+    "est_daily_rate_recent": 3.22,
+    "sales_source": "estimate",
+    "signal_quality": "estimated-tight"
+  },
+  {
+    "sku_id": "SKU091",
+    "name": "Center Fresh Chewing Gum 28g",
+    "confirmed_units_ondc": 11.0,
+    "estimated_walkin_units": 77.5,
+    "estimated_total_units": 88.5,
+    "band_90": [
+      74.1,
+      103.0
+    ],
+    "est_daily_rate": 2.95,
+    "est_daily_rate_recent": 3.79,
+    "sales_source": "estimate",
+    "signal_quality": "estimated-tight"
+  },
+  {
+    "sku_id": "SKU033",
+    "name": "Madhur Sugar 1kg",
+    "confirmed_units_ondc": 23.0,
+    "estimated_walkin_units": 63.4,
+    "estimated_total_units": 86.4,
+    "band_90": [
+      73.3,
+      99.5
+    ],
+    "est_daily_rate": 2.88,
+    "est_daily_rate_recent": 3.14,
+    "sales_source": "estimate",
+    "signal_quality": "estimated-tight"
+  },
+  {
+    "sku_id": "SKU084",
+    "name": "Cadbury Dairy Milk 50g",
+    "confirmed_units_ondc": 5.0,
+    "estimated_walkin_units": 81.1,
+    "estimated_total_units": 86.1,
+    "band_90": [
+      71.3,
+      100.9
+    ],
+    "est_daily_rate": 2.87,
+    "est_daily_rate_recent": 3.06,
+    "sales_source": "estimate",
+    "signal_quality": "estimated-tight"
+  },
+  {
+    "sku_id": "SKU043",
+    "name": "Sprite Soft Drink 750ml",
+    "confirmed_units_ondc": 19.0,
+    "estimated_walkin_units": 67.0,
+    "estimated_total_units": 86.0,
+    "band_90": [
+      72.5,
+      99.4
+    ],
+    "est_daily_rate": 2.87,
+    "est_daily_rate_recent": 3.69,
+    "sales_source": "estimate",
+    "signal_quality": "estimated-tight"
+  },
+  {
+    "sku_id": "SKU008",
+    "name": "Bingo Mad Angles 66g",
+    "confirmed_units_ondc": 12.0,
+    "estimated_walkin_units": 67.0,
+    "estimated_total_units": 79.0,
+    "band_90": [
+      65.5,
+      92.4
+    ],
+    "est_daily_rate": 2.63,
+    "est_daily_rate_recent": 3.12,
+    "sales_source": "estimate",
+    "signal_quality": "estimated-tight"
+  },
+  {
+    "sku_id": "SKU004",
+    "name": "Sunfeast Marie Light 75g",
+    "confirmed_units_ondc": 13.0,
+    "estimated_walkin_units": 63.4,
+    "estimated_total_units": 76.4,
+    "band_90": [
+      63.3,
+      89.5
+    ],
+    "est_daily_rate": 2.55,
+    "est_daily_rate_recent": 2.85,
+    "sales_source": "estimate",
+    "signal_quality": "estimated-tight"
+  },
+  {
+    "sku_id": "SKU046",
+    "name": "Frooti Mango Drink 600ml",
+    "confirmed_units_ondc": 10.0,
+    "estimated_walkin_units": 63.4,
+    "estimated_total_units": 73.4,
+    "band_90": [
+      60.3,
+      86.5
+    ],
+    "est_daily_rate": 2.45,
+    "est_daily_rate_recent": 2.71,
+    "sales_source": "estimate",
+    "signal_quality": "estimated-tight"
+  },
+  {
+    "sku_id": "SKU087",
+    "name": "Cadbury Perk 35g",
+    "confirmed_units_ondc": 2.0,
+    "estimated_walkin_units": 70.5,
+    "estimated_total_units": 72.5,
+    "band_90": [
+      58.7,
+      86.3
+    ],
+    "est_daily_rate": 2.42,
+    "est_daily_rate_recent": 2.53,
+    "sales_source": "estimate",
+    "signal_quality": "estimated-tight"
+  },
+  {
+    "sku_id": "SKU020",
+    "name": "Amul Masti Dahi 400g",
+    "confirmed_units_ondc": 15.0,
+    "estimated_walkin_units": 56.4,
+    "estimated_total_units": 71.4,
+    "band_90": [
+      59.0,
+      83.8
+    ],
+    "est_daily_rate": 2.38,
+    "est_daily_rate_recent": 2.74,
+    "sales_source": "estimate",
+    "signal_quality": "estimated-tight"
+  },
+  {
+    "sku_id": "SKU009",
+    "name": "Haldiram Aloo Bhujia 42g",
+    "confirmed_units_ondc": 11.0,
+    "estimated_walkin_units": 59.9,
+    "estimated_total_units": 70.9,
+    "band_90": [
+      58.2,
+      83.7
+    ],
+    "est_daily_rate": 2.36,
+    "est_daily_rate_recent": 2.58,
+    "sales_source": "estimate",
+    "signal_quality": "estimated-tight"
+  },
+  {
+    "sku_id": "SKU089",
+    "name": "Mentos Mint Roll 29g",
+    "confirmed_units_ondc": 3.0,
+    "estimated_walkin_units": 67.0,
+    "estimated_total_units": 70.0,
+    "band_90": [
+      56.5,
+      83.4
+    ],
+    "est_daily_rate": 2.33,
+    "est_daily_rate_recent": 2.41,
+    "sales_source": "estimate",
+    "signal_quality": "estimated-tight"
+  },
+  {
+    "sku_id": "SKU044",
+    "name": "Pepsi Soft Drink 750ml",
+    "confirmed_units_ondc": 8.0,
+    "estimated_walkin_units": 59.9,
+    "estimated_total_units": 67.9,
+    "band_90": [
+      55.2,
+      80.7
+    ],
+    "est_daily_rate": 2.26,
+    "est_daily_rate_recent": 2.3,
+    "sales_source": "estimate",
+    "signal_quality": "estimated-tight"
+  },
+  {
+    "sku_id": "SKU058",
+    "name": "Dettol Soap 125g",
+    "confirmed_units_ondc": 11.0,
+    "estimated_walkin_units": 56.4,
+    "estimated_total_units": 67.4,
+    "band_90": [
+      55.0,
+      79.8
+    ],
+    "est_daily_rate": 2.25,
+    "est_daily_rate_recent": 2.6,
+    "sales_source": "estimate",
+    "signal_quality": "estimated-tight"
+  },
+  {
+    "sku_id": "SKU030",
+    "name": "Aashirvaad Atta 1kg",
+    "confirmed_units_ondc": 20.0,
+    "estimated_walkin_units": 45.8,
+    "estimated_total_units": 65.8,
+    "band_90": [
+      54.7,
+      77.0
+    ],
+    "est_daily_rate": 2.19,
+    "est_daily_rate_recent": 1.79,
+    "sales_source": "estimate",
+    "signal_quality": "estimated-tight"
+  },
+  {
+    "sku_id": "SKU012",
+    "name": "Yippee Magic Masala 70g",
+    "confirmed_units_ondc": 7.0,
+    "estimated_walkin_units": 56.4,
+    "estimated_total_units": 63.4,
+    "band_90": [
+      51.0,
+      75.8
+    ],
+    "est_daily_rate": 2.11,
+    "est_daily_rate_recent": 2.17,
+    "sales_source": "estimate",
+    "signal_quality": "estimated-tight"
+  },
+  {
+    "sku_id": "SKU017",
+    "name": "Amul Butter 100g",
+    "confirmed_units_ondc": 14.0,
+    "estimated_walkin_units": 49.3,
+    "estimated_total_units": 63.3,
+    "band_90": [
+      51.8,
+      74.9
+    ],
+    "est_daily_rate": 2.11,
+    "est_daily_rate_recent": 1.92,
+    "sales_source": "estimate",
+    "signal_quality": "estimated-tight"
+  },
+  {
+    "sku_id": "SKU073",
+    "name": "Wheel Detergent Powder 1kg",
+    "confirmed_units_ondc": 9.0,
+    "estimated_walkin_units": 52.9,
+    "estimated_total_units": 61.9,
+    "band_90": [
+      49.9,
+      73.8
+    ],
+    "est_daily_rate": 2.06,
+    "est_daily_rate_recent": 2.04,
+    "sales_source": "estimate",
+    "signal_quality": "estimated-tight"
+  },
+  {
+    "sku_id": "SKU005",
+    "name": "Parle Krackjack 70g",
+    "confirmed_units_ondc": 7.0,
+    "estimated_walkin_units": 52.9,
+    "estimated_total_units": 59.9,
+    "band_90": [
+      47.9,
+      71.8
+    ],
+    "est_daily_rate": 2.0,
+    "est_daily_rate_recent": 2.04,
+    "sales_source": "estimate",
+    "signal_quality": "estimated-tight"
+  },
+  {
+    "sku_id": "SKU090",
+    "name": "Polo Mint Roll 28g",
+    "confirmed_units_ondc": 3.0,
+    "estimated_walkin_units": 56.4,
+    "estimated_total_units": 59.4,
+    "band_90": [
+      47.0,
+      71.8
+    ],
+    "est_daily_rate": 1.98,
+    "est_daily_rate_recent": 2.03,
+    "sales_source": "estimate",
+    "signal_quality": "estimated-tight"
+  },
+  {
+    "sku_id": "SKU035",
+    "name": "Red Label Tea 250g",
+    "confirmed_units_ondc": 9.0,
+    "estimated_walkin_units": 49.3,
+    "estimated_total_units": 58.3,
+    "band_90": [
+      46.8,
+      69.9
+    ],
+    "est_daily_rate": 1.94,
+    "est_daily_rate_recent": 1.77,
+    "sales_source": "estimate",
+    "signal_quality": "estimated-tight"
+  },
+  {
+    "sku_id": "SKU059",
+    "name": "Santoor Soap 125g",
+    "confirmed_units_ondc": 9.0,
+    "estimated_walkin_units": 49.3,
+    "estimated_total_units": 58.3,
+    "band_90": [
+      46.8,
+      69.9
+    ],
+    "est_daily_rate": 1.94,
+    "est_daily_rate_recent": 2.06,
+    "sales_source": "estimate",
+    "signal_quality": "estimated-tight"
+  },
+  {
+    "sku_id": "SKU092",
+    "name": "Alpenliebe Candy Pack 50g",
+    "confirmed_units_ondc": 8.0,
+    "estimated_walkin_units": 49.3,
+    "estimated_total_units": 57.3,
+    "band_90": [
+      45.8,
+      68.9
+    ],
+    "est_daily_rate": 1.91,
+    "est_daily_rate_recent": 1.77,
+    "sales_source": "estimate",
+    "signal_quality": "estimated-tight"
+  },
+  {
+    "sku_id": "SKU071",
+    "name": "Surf Excel Easy Wash 500g",
+    "confirmed_units_ondc": 9.0,
+    "estimated_walkin_units": 45.8,
+    "estimated_total_units": 54.8,
+    "band_90": [
+      43.7,
+      66.0
+    ],
+    "est_daily_rate": 1.83,
+    "est_daily_rate_recent": 1.79,
+    "sales_source": "estimate",
+    "signal_quality": "estimated-tight"
+  },
+  {
+    "sku_id": "SKU022",
+    "name": "Fortune Sunflower Oil 1L",
+    "confirmed_units_ondc": 15.0,
+    "estimated_walkin_units": 38.8,
+    "estimated_total_units": 53.8,
+    "band_90": [
+      43.5,
+      64.0
+    ],
+    "est_daily_rate": 1.79,
+    "est_daily_rate_recent": 1.68,
+    "sales_source": "estimate",
+    "signal_quality": "estimated-loose"
+  },
+  {
+    "sku_id": "SKU011",
+    "name": "Maggi Masala Noodles 4-pack 280g",
+    "confirmed_units_ondc": 8.0,
+    "estimated_walkin_units": 42.3,
+    "estimated_total_units": 50.3,
+    "band_90": [
+      39.6,
+      61.0
+    ],
+    "est_daily_rate": 1.68,
+    "est_daily_rate_recent": 2.09,
+    "sales_source": "estimate",
+    "signal_quality": "estimated-loose"
+  },
+  {
+    "sku_id": "SKU034",
+    "name": "Tata Tea Gold 250g",
+    "confirmed_units_ondc": 4.0,
+    "estimated_walkin_units": 42.3,
+    "estimated_total_units": 46.3,
+    "band_90": [
+      35.6,
+      57.0
+    ],
+    "est_daily_rate": 1.54,
+    "est_daily_rate_recent": 1.66,
+    "sales_source": "estimate",
+    "signal_quality": "estimated-loose"
+  },
+  {
+    "sku_id": "SKU070",
+    "name": "Surf Excel Easy Wash 1kg",
+    "confirmed_units_ondc": 11.0,
+    "estimated_walkin_units": 35.2,
+    "estimated_total_units": 46.2,
+    "band_90": [
+      36.5,
+      56.0
+    ],
+    "est_daily_rate": 1.54,
+    "est_daily_rate_recent": 1.98,
+    "sales_source": "estimate",
+    "signal_quality": "estimated-loose"
+  },
+  {
+    "sku_id": "SKU029",
+    "name": "Aashirvaad Atta 5kg",
+    "confirmed_units_ondc": 14.0,
+    "estimated_walkin_units": 31.7,
+    "estimated_total_units": 45.7,
+    "band_90": [
+      36.5,
+      55.0
+    ],
+    "est_daily_rate": 1.52,
+    "est_daily_rate_recent": 1.14,
+    "sales_source": "estimate",
+    "signal_quality": "estimated-loose"
+  },
+  {
+    "sku_id": "SKU051",
+    "name": "Colgate Strong Teeth 100g",
+    "confirmed_units_ondc": 5.0,
+    "estimated_walkin_units": 38.8,
+    "estimated_total_units": 43.8,
+    "band_90": [
+      33.5,
+      54.0
+    ],
+    "est_daily_rate": 1.46,
+    "est_daily_rate_recent": 1.39,
+    "sales_source": "estimate",
+    "signal_quality": "estimated-loose"
+  },
+  {
+    "sku_id": "SKU055",
+    "name": "Dabur Red Paste 100g",
+    "confirmed_units_ondc": 9.0,
+    "estimated_walkin_units": 31.7,
+    "estimated_total_units": 40.7,
+    "band_90": [
+      31.5,
+      50.0
+    ],
+    "est_daily_rate": 1.36,
+    "est_daily_rate_recent": 1.28,
+    "sales_source": "estimate",
+    "signal_quality": "estimated-loose"
+  },
+  {
+    "sku_id": "SKU061",
+    "name": "Clinic Plus Shampoo 175ml",
+    "confirmed_units_ondc": 8.0,
+    "estimated_walkin_units": 31.7,
+    "estimated_total_units": 39.7,
+    "band_90": [
+      30.5,
+      49.0
+    ],
+    "est_daily_rate": 1.32,
+    "est_daily_rate_recent": 1.28,
+    "sales_source": "estimate",
+    "signal_quality": "estimated-loose"
+  },
+  {
+    "sku_id": "SKU013",
+    "name": "Top Ramen Curry Noodles 70g",
+    "confirmed_units_ondc": 7.0,
+    "estimated_walkin_units": 31.7,
+    "estimated_total_units": 38.7,
+    "band_90": [
+      29.5,
+      48.0
+    ],
+    "est_daily_rate": 1.29,
+    "est_daily_rate_recent": 1.28,
+    "sales_source": "estimate",
+    "signal_quality": "estimated-loose"
+  },
+  {
+    "sku_id": "SKU031",
+    "name": "India Gate Basmati Rice 1kg",
+    "confirmed_units_ondc": 14.0,
+    "estimated_walkin_units": 24.7,
+    "estimated_total_units": 38.7,
+    "band_90": [
+      30.5,
+      46.8
+    ],
+    "est_daily_rate": 1.29,
+    "est_daily_rate_recent": 1.32,
+    "sales_source": "estimate",
+    "signal_quality": "estimated-loose"
+  },
+  {
+    "sku_id": "SKU023",
+    "name": "Fortune Soyabean Oil 1L",
+    "confirmed_units_ondc": 9.0,
+    "estimated_walkin_units": 28.2,
+    "estimated_total_units": 37.2,
+    "band_90": [
+      28.5,
+      45.9
+    ],
+    "est_daily_rate": 1.24,
+    "est_daily_rate_recent": 1.16,
+    "sales_source": "estimate",
+    "signal_quality": "estimated-loose"
+  },
+  {
+    "sku_id": "SKU025",
+    "name": "Dhara Mustard Oil 1L",
+    "confirmed_units_ondc": 12.0,
+    "estimated_walkin_units": 24.7,
+    "estimated_total_units": 36.7,
+    "band_90": [
+      28.5,
+      44.8
+    ],
+    "est_daily_rate": 1.22,
+    "est_daily_rate_recent": 1.03,
+    "sales_source": "estimate",
+    "signal_quality": "estimated-loose"
+  },
+  {
+    "sku_id": "SKU074",
+    "name": "Tide Detergent Powder 1kg",
+    "confirmed_units_ondc": 7.0,
+    "estimated_walkin_units": 28.2,
+    "estimated_total_units": 35.2,
+    "band_90": [
+      26.5,
+      43.9
+    ],
+    "est_daily_rate": 1.17,
+    "est_daily_rate_recent": 1.16,
+    "sales_source": "estimate",
+    "signal_quality": "estimated-loose"
+  },
+  {
+    "sku_id": "SKU081",
+    "name": "Good Knight Mosquito Refill 45ml",
+    "confirmed_units_ondc": 14.0,
+    "estimated_walkin_units": 21.1,
+    "estimated_total_units": 35.1,
+    "band_90": [
+      27.6,
+      42.7
+    ],
+    "est_daily_rate": 1.17,
+    "est_daily_rate_recent": 1.62,
+    "sales_source": "estimate",
+    "signal_quality": "estimated-loose"
+  },
+  {
+    "sku_id": "SKU077",
+    "name": "Vim Dishwash Gel 500ml",
+    "confirmed_units_ondc": 9.0,
+    "estimated_walkin_units": 24.7,
+    "estimated_total_units": 33.7,
+    "band_90": [
+      25.5,
+      41.8
+    ],
+    "est_daily_rate": 1.12,
+    "est_daily_rate_recent": 1.32,
+    "sales_source": "estimate",
+    "signal_quality": "estimated-loose"
+  },
+  {
+    "sku_id": "SKU024",
+    "name": "Saffola Gold Oil 1L",
+    "confirmed_units_ondc": 12.0,
+    "estimated_walkin_units": 21.1,
+    "estimated_total_units": 33.1,
+    "band_90": [
+      25.6,
+      40.7
+    ],
+    "est_daily_rate": 1.1,
+    "est_daily_rate_recent": 0.9,
+    "sales_source": "estimate",
+    "signal_quality": "estimated-loose"
+  },
+  {
+    "sku_id": "SKU096",
+    "name": "Everest Turmeric Powder 200g",
+    "confirmed_units_ondc": 7.0,
+    "estimated_walkin_units": 24.7,
+    "estimated_total_units": 31.7,
+    "band_90": [
+      23.5,
+      39.8
+    ],
+    "est_daily_rate": 1.06,
+    "est_daily_rate_recent": 1.46,
+    "sales_source": "estimate",
+    "signal_quality": "estimated-loose"
+  },
+  {
+    "sku_id": "SKU060",
+    "name": "Medimix Soap 125g",
+    "confirmed_units_ondc": 2.0,
+    "estimated_walkin_units": 28.2,
+    "estimated_total_units": 30.2,
+    "band_90": [
+      21.5,
+      38.9
+    ],
+    "est_daily_rate": 1.01,
+    "est_daily_rate_recent": 1.01,
+    "sales_source": "estimate",
+    "signal_quality": "estimated-loose"
+  },
+  {
+    "sku_id": "SKU054",
+    "name": "Pepsodent Germicheck 100g",
+    "confirmed_units_ondc": 5.0,
+    "estimated_walkin_units": 24.7,
+    "estimated_total_units": 29.7,
+    "band_90": [
+      21.5,
+      37.8
+    ],
+    "est_daily_rate": 0.99,
+    "est_daily_rate_recent": 1.03,
+    "sales_source": "estimate",
+    "signal_quality": "estimated-loose"
+  },
+  {
+    "sku_id": "SKU097",
+    "name": "Catch Red Chilli Powder 100g",
+    "confirmed_units_ondc": 8.0,
+    "estimated_walkin_units": 21.1,
+    "estimated_total_units": 29.1,
+    "band_90": [
+      21.6,
+      36.7
+    ],
+    "est_daily_rate": 0.97,
+    "est_daily_rate_recent": 0.9,
+    "sales_source": "estimate",
+    "signal_quality": "estimated-loose"
+  },
+  {
+    "sku_id": "SKU037",
+    "name": "Nescafe Classic Coffee 50g",
+    "confirmed_units_ondc": 11.0,
+    "estimated_walkin_units": 17.6,
+    "estimated_total_units": 28.6,
+    "band_90": [
+      21.7,
+      35.5
+    ],
+    "est_daily_rate": 0.95,
+    "est_daily_rate_recent": 1.06,
+    "sales_source": "estimate",
+    "signal_quality": "estimated-loose"
+  },
+  {
+    "sku_id": "SKU094",
+    "name": "Everest Garam Masala 100g",
+    "confirmed_units_ondc": 7.0,
+    "estimated_walkin_units": 21.1,
+    "estimated_total_units": 28.1,
+    "band_90": [
+      20.6,
+      35.7
+    ],
+    "est_daily_rate": 0.94,
+    "est_daily_rate_recent": 0.76,
+    "sales_source": "estimate",
+    "signal_quality": "estimated-loose"
+  },
+  {
+    "sku_id": "SKU095",
+    "name": "MDH Chana Masala 100g",
+    "confirmed_units_ondc": 10.0,
+    "estimated_walkin_units": 17.6,
+    "estimated_total_units": 27.6,
+    "band_90": [
+      20.7,
+      34.5
+    ],
+    "est_daily_rate": 0.92,
+    "est_daily_rate_recent": 1.06,
+    "sales_source": "estimate",
+    "signal_quality": "estimated-loose"
+  },
+  {
+    "sku_id": "SKU028",
+    "name": "Tata Sampann Toor Dal 1kg",
+    "confirmed_units_ondc": 6.0,
+    "estimated_walkin_units": 21.1,
+    "estimated_total_units": 27.1,
+    "band_90": [
+      19.6,
+      34.7
+    ],
+    "est_daily_rate": 0.9,
+    "est_daily_rate_recent": 1.05,
+    "sales_source": "estimate",
+    "signal_quality": "estimated-loose"
+  },
+  {
+    "sku_id": "SKU078",
+    "name": "Harpic Toilet Cleaner 500ml",
+    "confirmed_units_ondc": 5.0,
+    "estimated_walkin_units": 21.1,
+    "estimated_total_units": 26.1,
+    "band_90": [
+      18.6,
+      33.7
+    ],
+    "est_daily_rate": 0.87,
+    "est_daily_rate_recent": 0.76,
+    "sales_source": "estimate",
+    "signal_quality": "estimated-loose"
+  },
+  {
+    "sku_id": "SKU099",
+    "name": "Kissan Tomato Ketchup 950g",
+    "confirmed_units_ondc": 5.0,
+    "estimated_walkin_units": 21.1,
+    "estimated_total_units": 26.1,
+    "band_90": [
+      18.6,
+      33.7
+    ],
+    "est_daily_rate": 0.87,
+    "est_daily_rate_recent": 0.9,
+    "sales_source": "estimate",
+    "signal_quality": "estimated-loose"
+  },
+  {
+    "sku_id": "SKU079",
+    "name": "Lizol Floor Cleaner 500ml",
+    "confirmed_units_ondc": 8.0,
+    "estimated_walkin_units": 17.6,
+    "estimated_total_units": 25.6,
+    "band_90": [
+      18.7,
+      32.5
+    ],
+    "est_daily_rate": 0.85,
+    "est_daily_rate_recent": 1.06,
+    "sales_source": "estimate",
+    "signal_quality": "estimated-loose"
+  },
+  {
+    "sku_id": "SKU036",
+    "name": "Taj Mahal Tea 250g",
+    "confirmed_units_ondc": 4.0,
+    "estimated_walkin_units": 21.1,
+    "estimated_total_units": 25.1,
+    "band_90": [
+      17.6,
+      32.7
+    ],
+    "est_daily_rate": 0.84,
+    "est_daily_rate_recent": 1.05,
+    "sales_source": "estimate",
+    "signal_quality": "estimated-loose"
+  },
+  {
+    "sku_id": "SKU049",
+    "name": "Real Mixed Fruit Juice 1L",
+    "confirmed_units_ondc": 6.0,
+    "estimated_walkin_units": 17.6,
+    "estimated_total_units": 23.6,
+    "band_90": [
+      16.7,
+      30.5
+    ],
+    "est_daily_rate": 0.79,
+    "est_daily_rate_recent": 0.63,
+    "sales_source": "estimate",
+    "signal_quality": "estimated-loose"
+  },
+  {
+    "sku_id": "SKU082",
+    "name": "All Out Mosquito Refill 45ml",
+    "confirmed_units_ondc": 6.0,
+    "estimated_walkin_units": 17.6,
+    "estimated_total_units": 23.6,
+    "band_90": [
+      16.7,
+      30.5
+    ],
+    "est_daily_rate": 0.79,
+    "est_daily_rate_recent": 0.63,
+    "sales_source": "estimate",
+    "signal_quality": "estimated-loose"
+  },
+  {
+    "sku_id": "SKU083",
+    "name": "Dettol Antiseptic Liquid 125ml",
+    "confirmed_units_ondc": 9.0,
+    "estimated_walkin_units": 14.1,
+    "estimated_total_units": 23.1,
+    "band_90": [
+      16.9,
+      29.3
+    ],
+    "est_daily_rate": 0.77,
+    "est_daily_rate_recent": 0.94,
+    "sales_source": "estimate",
+    "signal_quality": "estimated-loose"
+  },
+  {
+    "sku_id": "SKU100",
+    "name": "Maggi Hot & Sweet Sauce 500g",
+    "confirmed_units_ondc": 5.0,
+    "estimated_walkin_units": 17.6,
+    "estimated_total_units": 22.6,
+    "band_90": [
+      15.7,
+      29.5
+    ],
+    "est_daily_rate": 0.75,
+    "est_daily_rate_recent": 0.78,
+    "sales_source": "estimate",
+    "signal_quality": "estimated-loose"
+  },
+  {
+    "sku_id": "SKU052",
+    "name": "Colgate MaxFresh 150g",
+    "confirmed_units_ondc": 1.0,
+    "estimated_walkin_units": 21.1,
+    "estimated_total_units": 22.1,
+    "band_90": [
+      14.6,
+      29.7
+    ],
+    "est_daily_rate": 0.74,
+    "est_daily_rate_recent": 0.9,
+    "sales_source": "estimate",
+    "signal_quality": "estimated-loose"
+  },
+  {
+    "sku_id": "SKU068",
+    "name": "Fair & Lovely Face Cream 50g",
+    "confirmed_units_ondc": 4.0,
+    "estimated_walkin_units": 17.6,
+    "estimated_total_units": 21.6,
+    "band_90": [
+      14.7,
+      28.5
+    ],
+    "est_daily_rate": 0.72,
+    "est_daily_rate_recent": 0.63,
+    "sales_source": "estimate",
+    "signal_quality": "estimated-loose"
+  },
+  {
+    "sku_id": "SKU032",
+    "name": "Daawat Rozana Rice 5kg",
+    "confirmed_units_ondc": 10.0,
+    "estimated_walkin_units": 10.6,
+    "estimated_total_units": 20.6,
+    "band_90": [
+      15.2,
+      25.9
+    ],
+    "est_daily_rate": 0.69,
+    "est_daily_rate_recent": 0.38,
+    "sales_source": "estimate",
+    "signal_quality": "estimated-loose"
+  },
+  {
+    "sku_id": "SKU053",
+    "name": "Closeup Red Hot 150g",
+    "confirmed_units_ondc": 3.0,
+    "estimated_walkin_units": 17.6,
+    "estimated_total_units": 20.6,
+    "band_90": [
+      13.7,
+      27.5
+    ],
+    "est_daily_rate": 0.69,
+    "est_daily_rate_recent": 0.63,
+    "sales_source": "estimate",
+    "signal_quality": "estimated-loose"
+  },
+  {
+    "sku_id": "SKU019",
+    "name": "Amul Cheese Slices 200g",
+    "confirmed_units_ondc": 2.0,
+    "estimated_walkin_units": 17.6,
+    "estimated_total_units": 19.6,
+    "band_90": [
+      12.7,
+      26.5
+    ],
+    "est_daily_rate": 0.65,
+    "est_daily_rate_recent": 0.63,
+    "sales_source": "estimate",
+    "signal_quality": "estimated-loose"
+  },
+  {
+    "sku_id": "SKU075",
+    "name": "Ariel Detergent Powder 1kg",
+    "confirmed_units_ondc": 2.0,
+    "estimated_walkin_units": 17.6,
+    "estimated_total_units": 19.6,
+    "band_90": [
+      12.7,
+      26.5
+    ],
+    "est_daily_rate": 0.65,
+    "est_daily_rate_recent": 0.63,
+    "sales_source": "estimate",
+    "signal_quality": "estimated-loose"
+  },
+  {
+    "sku_id": "SKU050",
+    "name": "Tropicana Orange Juice 1L",
+    "confirmed_units_ondc": 5.0,
+    "estimated_walkin_units": 14.1,
+    "estimated_total_units": 19.1,
+    "band_90": [
+      12.9,
+      25.3
+    ],
+    "est_daily_rate": 0.64,
+    "est_daily_rate_recent": 0.51,
+    "sales_source": "estimate",
+    "signal_quality": "estimated-loose"
+  },
+  {
+    "sku_id": "SKU018",
+    "name": "Amul Butter 500g",
+    "confirmed_units_ondc": 4.0,
+    "estimated_walkin_units": 14.1,
+    "estimated_total_units": 18.1,
+    "band_90": [
+      11.9,
+      24.3
+    ],
+    "est_daily_rate": 0.6,
+    "est_daily_rate_recent": 0.65,
+    "sales_source": "estimate",
+    "signal_quality": "estimated-loose"
+  },
+  {
+    "sku_id": "SKU039",
+    "name": "Bournvita Health Drink 500g",
+    "confirmed_units_ondc": 3.0,
+    "estimated_walkin_units": 14.1,
+    "estimated_total_units": 17.1,
+    "band_90": [
+      10.9,
+      23.3
+    ],
+    "est_daily_rate": 0.57,
+    "est_daily_rate_recent": 0.51,
+    "sales_source": "estimate",
+    "signal_quality": "estimated-loose"
+  },
+  {
+    "sku_id": "SKU069",
+    "name": "Gillette Shaving Cream 70g",
+    "confirmed_units_ondc": 3.0,
+    "estimated_walkin_units": 14.1,
+    "estimated_total_units": 17.1,
+    "band_90": [
+      10.9,
+      23.3
+    ],
+    "est_daily_rate": 0.57,
+    "est_daily_rate_recent": 0.51,
+    "sales_source": "estimate",
+    "signal_quality": "estimated-loose"
+  },
+  {
+    "sku_id": "SKU062",
+    "name": "Head&Shoulders Anti-Dandruff 180ml",
+    "confirmed_units_ondc": 2.0,
+    "estimated_walkin_units": 14.1,
+    "estimated_total_units": 16.1,
+    "band_90": [
+      9.9,
+      22.3
+    ],
+    "est_daily_rate": 0.54,
+    "est_daily_rate_recent": 0.65,
+    "sales_source": "estimate",
+    "signal_quality": "estimated-loose"
+  },
+  {
+    "sku_id": "SKU067",
+    "name": "Vaseline Body Lotion 200ml",
+    "confirmed_units_ondc": 2.0,
+    "estimated_walkin_units": 14.1,
+    "estimated_total_units": 16.1,
+    "band_90": [
+      9.9,
+      22.3
+    ],
+    "est_daily_rate": 0.54,
+    "est_daily_rate_recent": 0.51,
+    "sales_source": "estimate",
+    "signal_quality": "estimated-loose"
+  },
+  {
+    "sku_id": "SKU098",
+    "name": "Kissan Mixed Fruit Jam 500g",
+    "confirmed_units_ondc": 2.0,
+    "estimated_walkin_units": 14.1,
+    "estimated_total_units": 16.1,
+    "band_90": [
+      9.9,
+      22.3
+    ],
+    "est_daily_rate": 0.54,
+    "est_daily_rate_recent": 0.51,
+    "sales_source": "estimate",
+    "signal_quality": "estimated-loose"
+  },
+  {
+    "sku_id": "SKU101",
+    "name": "Sundrop Peanut Butter 200g",
+    "confirmed_units_ondc": 5.0,
+    "estimated_walkin_units": 10.6,
+    "estimated_total_units": 15.6,
+    "band_90": [
+      10.2,
+      20.9
+    ],
+    "est_daily_rate": 0.52,
+    "est_daily_rate_recent": 0.38,
+    "sales_source": "estimate",
+    "signal_quality": "estimated-loose"
+  },
+  {
+    "sku_id": "SKU038",
+    "name": "Bru Instant Coffee 50g",
+    "confirmed_units_ondc": 1.0,
+    "estimated_walkin_units": 14.1,
+    "estimated_total_units": 15.1,
+    "band_90": [
+      8.9,
+      21.3
+    ],
+    "est_daily_rate": 0.5,
+    "est_daily_rate_recent": 0.51,
+    "sales_source": "estimate",
+    "signal_quality": "estimated-loose"
+  },
+  {
+    "sku_id": "SKU026",
+    "name": "Fortune Sunflower Oil 5L",
+    "confirmed_units_ondc": 8.0,
+    "estimated_walkin_units": 7.0,
+    "estimated_total_units": 15.0,
+    "band_90": [
+      10.7,
+      19.4
+    ],
+    "est_daily_rate": 0.5,
+    "est_daily_rate_recent": 0.97,
+    "sales_source": "estimate",
+    "signal_quality": "confirmed"
+  },
+  {
+    "sku_id": "SKU021",
+    "name": "Nestle Milkmaid 400g",
+    "confirmed_units_ondc": 3.0,
+    "estimated_walkin_units": 10.6,
+    "estimated_total_units": 13.6,
+    "band_90": [
+      8.2,
+      18.9
+    ],
+    "est_daily_rate": 0.45,
+    "est_daily_rate_recent": 0.38,
+    "sales_source": "estimate",
+    "signal_quality": "estimated-loose"
+  },
+  {
+    "sku_id": "SKU080",
+    "name": "Colin Glass Cleaner 500ml",
+    "confirmed_units_ondc": 3.0,
+    "estimated_walkin_units": 10.6,
+    "estimated_total_units": 13.6,
+    "band_90": [
+      8.2,
+      18.9
+    ],
+    "est_daily_rate": 0.45,
+    "est_daily_rate_recent": 0.38,
+    "sales_source": "estimate",
+    "signal_quality": "estimated-loose"
+  },
+  {
+    "sku_id": "SKU063",
+    "name": "Dove Shampoo 180ml",
+    "confirmed_units_ondc": 2.0,
+    "estimated_walkin_units": 10.6,
+    "estimated_total_units": 12.6,
+    "band_90": [
+      7.2,
+      17.9
+    ],
+    "est_daily_rate": 0.42,
+    "est_daily_rate_recent": 0.38,
+    "sales_source": "estimate",
+    "signal_quality": "estimated-loose"
+  },
+  {
+    "sku_id": "SKU040",
+    "name": "Horlicks Classic Malt 500g",
+    "confirmed_units_ondc": 1.0,
+    "estimated_walkin_units": 10.6,
+    "estimated_total_units": 11.6,
+    "band_90": [
+      6.2,
+      16.9
+    ],
+    "est_daily_rate": 0.39,
+    "est_daily_rate_recent": 0.38,
+    "sales_source": "estimate",
+    "signal_quality": "estimated-loose"
+  },
+  {
+    "sku_id": "SKU066",
+    "name": "Nivea Body Lotion 200ml",
+    "confirmed_units_ondc": 1.0,
+    "estimated_walkin_units": 10.6,
+    "estimated_total_units": 11.6,
+    "band_90": [
+      6.2,
+      16.9
+    ],
+    "est_daily_rate": 0.39,
+    "est_daily_rate_recent": 0.52,
+    "sales_source": "estimate",
+    "signal_quality": "estimated-loose"
+  }
+]

@@ -1,0 +1,46 @@
+{
+ "kind": "delivery",
+ "status": "confirmed",
+ "supplier_id": "SUP02",
+ "supplier": "Metro Wholesalers",
+ "invoice_no": "MW-26-09-0913",
+ "bill_date": "2026-09-18",
+ "bill_total": 1278.0,
+ "lines_total": 1278.0,
+ "received": {
+  "SKU010": 96.0,
+  "SKU064": 120.0
+ },
+ "lines": [
+  {
+   "text": "MAGGI MASALA NDL 70G",
+   "qty": 96.0,
+   "rate": 10.5,
+   "amount": 1008.0,
+   "sku_id": "SKU010",
+   "match_score": 1.0,
+   "name": "Maggi Masala Noodles 70g"
+  },
+  {
+   "text": "CLINIC PLUS SHMP SACHET 6ML",
+   "qty": 120.0,
+   "rate": 2.25,
+   "amount": 270.0,
+   "sku_id": "SKU064",
+   "match_score": 1.0,
+   "name": "Clinic Plus Shampoo Sachet 6ml"
+  }
+ ],
+ "issues": [
+  {
+   "type": "short",
+   "sku_id": "SKU010",
+   "ordered": 120.0,
+   "billed": 96.0,
+   "say": "Maggi Masala Noodles 70g: ordered 120, bill says 96. Count the boxes."
+  }
+ ],
+ "source_file": "metro_18-09-2026.txt",
+ "read_at": "2026-09-17T12:37:58",
+ "confirmed_at": "2026-09-17T12:37:58"
+}

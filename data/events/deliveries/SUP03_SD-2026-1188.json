@@ -1,0 +1,38 @@
+{
+ "kind": "delivery",
+ "status": "confirmed",
+ "supplier_id": "SUP03",
+ "supplier": "Sharma Distributors",
+ "invoice_no": "SD/2026/1188",
+ "bill_date": "2026-09-18",
+ "bill_total": 708.48,
+ "lines_total": 708.48,
+ "received": {
+  "SKU020": 12.0,
+  "SKU014": 12.0
+ },
+ "lines": [
+  {
+   "text": "AMUL MASTI DAHI 400G",
+   "qty": 12.0,
+   "rate": 36.9,
+   "amount": 442.8,
+   "sku_id": "SKU020",
+   "match_score": 1.0,
+   "name": "Amul Masti Dahi 400g"
+  },
+  {
+   "text": "AMUL TAAZA MILK 500ML",
+   "qty": 12.0,
+   "rate": 22.14,
+   "amount": 265.68,
+   "sku_id": "SKU014",
+   "match_score": 1.0,
+   "name": "Amul Taaza Milk 500ml"
+  }
+ ],
+ "issues": [],
+ "source_file": "sharma_18-09-2026.txt",
+ "read_at": "2026-09-17T12:37:58",
+ "confirmed_at": "2026-09-17T12:37:58"
+}

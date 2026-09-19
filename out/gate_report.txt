@@ -1,0 +1,49 @@
+==================================================================
+ShelfSense — SKU DISAMBIGUATION GATE TEST
+==================================================================
+catalogue: 101 SKUs   transactions: 3416
+
+--- BASELINE  (most popular SKU at price)  (n=2819) ---
+  primary-SKU top-1 :  25.7%
+  primary-SKU top-3 :  44.8%
+  exact basket top-1:  25.7%
+  no candidate found:  25.6%
+  by basket size:
+     1 item(s):  41.3%  (n=1755)
+     2 item(s):   0.0%  (n=743)
+     3 item(s):   0.0%  (n=321)
+  by price ambiguity (candidate baskets at that amount):
+     unique:  18.9%  (n=991)
+        2-5:  39.5%  (n=990)
+       6-20:  17.4%  (n=838)
+
+--- ENGINE    (basket enumeration + time-of-day prior)  (n=2819) ---
+  primary-SKU top-1 :  30.7%
+  primary-SKU top-3 :  54.8%
+  exact basket top-1:  27.1%
+  no candidate found:   0.2%
+  by basket size:
+     1 item(s):  40.9%  (n=1755)
+     2 item(s):  17.6%  (n=743)
+     3 item(s):   5.0%  (n=321)
+  by price ambiguity (candidate baskets at that amount):
+     unique:  16.7%  (n=6)
+        2-5:  63.4%  (n=352)
+       6-20:  38.8%  (n=552)
+        20+:  22.4%  (n=1909)
+
+--- PRECISION AT COVERAGE (act only on most-confident calls) ---
+  coverage   threshold   precision
+       5%      0.914       88.6%
+      10%      0.701       75.4%
+      20%      0.599       68.7%
+      30%      0.425       54.4%
+      50%      0.281       44.5%
+     100%      0.022       30.7%
+
+==================================================================
+TOP-1 LIFT OVER BASELINE: +5.0 percentage points
+ENGINE TOP-1 ACCURACY   : 30.7%  (n=2819)
+GATE DECISION           : FALL BACK — make ONDC orders the inventory truth;
+                          demote Soundbox to a confidence signal.
+==================================================================

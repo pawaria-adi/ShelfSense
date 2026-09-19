@@ -1,0 +1,141 @@
+============================================================================
+ShelfSense — REORDER LIST FOR 2026-09-17
+stock from data/stock_count.json; sales numbers: estimate
+============================================================================
+53 of 101 items need ordering today
+
+item                             shelf  /day  days  buy from              qty      Rs
+Parle Krackjack 70g                  0   2.0   0.0  Gupta Traders          24     187
+Lay's Classic Salted 52g             0   4.7   0.0  Gupta Traders          48     749
+Haldiram Aloo Bhujia 42g             0   2.6   0.0  Gupta Traders          48     749
+Maggi Masala Noodles 70g             0   8.1   0.0  Metro Wholesalers     120   1,260
+Top Ramen Curry Noodles 70g          0   1.3   0.0  Gupta Traders          24     262
+Nestle Milkmaid 400g                 0   0.4   0.0  Gupta Traders           6     679
+Aashirvaad Atta 5kg                  0   1.1   0.0  Gupta Traders          12   2,668
+Nescafe Classic Coffee 50g           0   1.1   0.0  Gupta Traders          12   1,638
+Coca-Cola Soft Drink 750ml           0   3.7   0.0  Gupta Traders          48   1,498
+Kinley Water 1L                      0   3.2   0.0  Gupta Traders          48     749
+Colgate Strong Teeth 100g            0   1.4   0.0  Gupta Traders          24   1,030
+Dove Shampoo 180ml                   0   0.4   0.0  Gupta Traders           6     772
+Rin Detergent Bar 250g               0   3.8   0.0  Gupta Traders          48     749
+Ariel Detergent Powder 1kg           0   0.6   0.0  Gupta Traders          12   1,544
+Colin Glass Cleaner 500ml            0   0.4   0.0  Gupta Traders           6     445
+Maggi Hot & Sweet Sauce 500g         0   0.8   0.0  Gupta Traders          12   1,076
+Amul Gold Milk 500ml                 2   5.9   0.3  Gupta Traders          12     309
+Kurkure Masala Munch 90g             2   4.5   0.4  Gupta Traders          48     749
+Mother Dairy Toned Milk 500ml        2   4.5   0.4  Gupta Traders          12     253
+Madhur Sugar 1kg                     2   3.1   0.6  Gupta Traders          48   1,797
+Surf Excel Easy Wash 500g            1   1.8   0.6  Gupta Traders          24   1,273
+Amul Masti Dahi 400g                 2   2.7   0.7  Sharma Distributors    12     443
+Amul Taaza Milk 500ml               10  10.9   0.9  Sharma Distributors    12     266
+Fortune Soyabean Oil 1L              1   1.2   0.9  Gupta Traders          12   1,170
+Lux Soap 100g                        3   3.5   0.9  Gupta Traders          48   1,310
+Amul Butter 100g                     2   1.9   1.0  Gupta Traders          24   1,161
+Dhara Mustard Oil 1L                 1   1.0   1.0  Gupta Traders          12   1,451
+Clinic Plus Shampoo Sachet 6ml       9   8.4   1.1  Metro Wholesalers     120     270
+Cadbury 5 Star 40g                   4   3.7   1.1  Gupta Traders          48     749
+Cadbury Dairy Milk 50g               4   3.1   1.3  Gupta Traders          48   1,685
+Chik Shampoo Sachet 6ml              8   5.9   1.4  Gupta Traders          48     112
+Wheel Detergent Powder 1kg           3   2.0   1.5  Gupta Traders          24   1,161
+Amul Cheese Slices 200g              1   0.6   1.6  Gupta Traders          12   1,357
+Real Mixed Fruit Juice 1L            1   0.6   1.6  Gupta Traders          12   1,170
+Fair & Lovely Face Cream 50g         1   0.6   1.6  Gupta Traders          12   1,170
+Britannia Good Day Cashew 75g        8   4.4   1.8  Gupta Traders          48     374
+Fortune Sunflower Oil 1L             3   1.7   1.8  Gupta Traders          24   2,527
+Dettol Soap 125g                     5   2.6   1.9  Gupta Traders          24     842
+Lizol Floor Cleaner 500ml            2   1.1   1.9  Gupta Traders          12     927
+Vaseline Body Lotion 200ml           1   0.5   2.0  Gupta Traders           6     866
+Surf Excel Easy Wash 1kg             4   2.0   2.0  Gupta Traders          24   2,340
+Kissan Mixed Fruit Jam 500g          1   0.5   2.0  Gupta Traders           6     679
+Dettol Antiseptic Liquid 125ml       2   0.9   2.1  Gupta Traders          12     702
+India Gate Basmati Rice 1kg          3   1.3   2.3  Gupta Traders          12   1,264
+Lifebuoy Soap 125g                   8   3.5   2.3  Gupta Traders          48   1,310
+Clinic Plus Shampoo 175ml            3   1.3   2.3  Gupta Traders          12     927
+Bingo Mad Angles 66g                 8   3.1   2.6  Gupta Traders          24     374
+Sprite Soft Drink 750ml             10   3.7   2.7  Gupta Traders          48   1,498
+Dabur Red Paste 100g                 4   1.3   3.1  Gupta Traders          12     515
+Head&Shoulders Anti-Dandruff 18      2   0.7   3.1  Gupta Traders           6     866
+Nestle KitKat 37g                   10   3.2   3.2  Gupta Traders          24     374
+Mentos Mint Roll 29g                 8   2.4   3.3  Gupta Traders          24     187
+Everest Turmeric Powder 200g         5   1.5   3.4  Gupta Traders          24   1,273
+
+PURCHASE ORDERS (ready to send on WhatsApp)
+
+--- Gupta Traders  (49 items, Rs 49,514) ---
+Namaste Gupta Traders ji, order for 2026-09-17:
+1. Parle Krackjack 70g x 1 carton (24 pcs)
+2. Lay's Classic Salted 52g x 2 cartons (48 pcs)
+3. Haldiram Aloo Bhujia 42g x 2 cartons (48 pcs)
+4. Top Ramen Curry Noodles 70g x 1 carton (24 pcs)
+5. Nestle Milkmaid 400g x 1 pack of 6 (6 pcs)
+6. Aashirvaad Atta 5kg x 1 carton (12 pcs)
+7. Nescafe Classic Coffee 50g x 1 carton (12 pcs)
+8. Coca-Cola Soft Drink 750ml x 2 cartons (48 pcs)
+9. Kinley Water 1L x 2 cartons (48 pcs)
+10. Colgate Strong Teeth 100g x 1 carton (24 pcs)
+11. Dove Shampoo 180ml x 1 pack of 6 (6 pcs)
+12. Rin Detergent Bar 250g x 2 cartons (48 pcs)
+13. Ariel Detergent Powder 1kg x 1 carton (12 pcs)
+14. Colin Glass Cleaner 500ml x 1 pack of 6 (6 pcs)
+15. Maggi Hot & Sweet Sauce 500g x 1 carton (12 pcs)
+16. Amul Gold Milk 500ml x 2 packs of 6 (12 pcs)
+17. Kurkure Masala Munch 90g x 2 cartons (48 pcs)
+18. Mother Dairy Toned Milk 500ml x 2 packs of 6 (12 pcs)
+19. Madhur Sugar 1kg x 2 cartons (48 pcs)
+20. Surf Excel Easy Wash 500g x 1 carton (24 pcs)
+21. Fortune Soyabean Oil 1L x 1 carton (12 pcs)
+22. Lux Soap 100g x 2 cartons (48 pcs)
+23. Amul Butter 100g x 1 carton (24 pcs)
+24. Dhara Mustard Oil 1L x 1 carton (12 pcs)
+25. Cadbury 5 Star 40g x 2 cartons (48 pcs)
+26. Cadbury Dairy Milk 50g x 2 cartons (48 pcs)
+27. Chik Shampoo Sachet 6ml x 2 cartons (48 pcs)
+28. Wheel Detergent Powder 1kg x 1 carton (24 pcs)
+29. Amul Cheese Slices 200g x 1 carton (12 pcs)
+30. Real Mixed Fruit Juice 1L x 1 carton (12 pcs)
+31. Fair & Lovely Face Cream 50g x 1 carton (12 pcs)
+32. Britannia Good Day Cashew 75g x 2 cartons (48 pcs)
+33. Fortune Sunflower Oil 1L x 2 cartons (24 pcs)
+34. Dettol Soap 125g x 1 carton (24 pcs)
+35. Lizol Floor Cleaner 500ml x 2 packs of 6 (12 pcs)
+36. Vaseline Body Lotion 200ml x 1 pack of 6 (6 pcs)
+37. Surf Excel Easy Wash 1kg x 2 cartons (24 pcs)
+38. Kissan Mixed Fruit Jam 500g x 1 pack of 6 (6 pcs)
+39. Dettol Antiseptic Liquid 125ml x 2 packs of 6 (12 pcs)
+40. India Gate Basmati Rice 1kg x 1 carton (12 pcs)
+41. Lifebuoy Soap 125g x 2 cartons (48 pcs)
+42. Clinic Plus Shampoo 175ml x 2 packs of 6 (12 pcs)
+43. Bingo Mad Angles 66g x 1 carton (24 pcs)
+44. Sprite Soft Drink 750ml x 2 cartons (48 pcs)
+45. Dabur Red Paste 100g x 2 packs of 6 (12 pcs)
+46. Head&Shoulders Anti-Dandruff 180ml x 1 pack of 6 (6 pcs)
+47. Nestle KitKat 37g x 1 carton (24 pcs)
+48. Mentos Mint Roll 29g x 1 carton (24 pcs)
+49. Everest Turmeric Powder 200g x 1 carton (24 pcs)
+Approx total Rs 49,514. Payment by UPI to guptatraders@paytm on delivery. Thank you.
+
+--- Metro Wholesalers  (2 items, Rs 1,530) ---
+Namaste Metro Wholesalers ji, order for 2026-09-17:
+1. Maggi Masala Noodles 70g x 5 cartons (120 pcs)
+2. Clinic Plus Shampoo Sachet 6ml x 5 cartons (120 pcs)
+Approx total Rs 1,530. Payment by UPI to metrowholesale@paytm on delivery. Thank you.
+
+--- Sharma Distributors  (2 items, Rs 708) ---
+Namaste Sharma Distributors ji, order for 2026-09-17:
+1. Amul Masti Dahi 400g x 2 packs of 6 (12 pcs)
+2. Amul Taaza Milk 500ml x 2 packs of 6 (12 pcs)
+Approx total Rs 708. Payment in 7 days. Thank you.
+
+============================================================================
+TEST: 14-day shop simulation x 200 runs (averages)
+============================================================================
+                     fill rate  out-of-stock  lost profit  stock held  spoiled  orders
+                                   item-days           Rs    Rs (avg)       Rs        
+ShelfSense               96.6%            44        1,650      61,693      938     182
++ billing station        97.6%            28          752      60,880      416     177
+Perfect knowledge        97.6%            29          852      59,082      396     172
+Gut feel                 87.4%           112        2,616      63,041    2,215     146
+
+fill rate  = share of customers who found the item on the shelf
+stock held = money sitting on shelves; ShelfSense ~7 days of sales, + billing station ~7 days of sales, Perfect knowledge ~7 days of sales, Gut feel ~8 days of sales
+============================================================================

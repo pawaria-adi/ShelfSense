@@ -1,0 +1,63 @@
+STOCK ON THE MORNING OF 2026-09-18
+  starts from the shelf count of 2026-09-17
+  sales: 0 day(s) from the billing station, 1 day(s) estimated from payments
+  deliveries added: Gupta Traders INV/GT/4471, Metro Wholesalers MW-26-09-0913, Sharma Distributors SD/2026/1188
+  expired and taken out of stock: 1 batch(es) (see out/expiry_report.txt)
+
+item                                 counted    sold    in   out   now
+Aashirvaad Atta 5kg                        0     0.0    12     0    12
+Amul Butter 100g                           2     2.0    24     0    24
+Amul Cheese Slices 200g                    1     0.7    12     0    12
+Amul Gold Milk 500ml                       2     2.0    12     0    12
+Amul Masti Dahi 400g                       2     2.0    12     0    12
+Amul Taaza Milk 500ml                     10    10.0    12     0    12
+Ariel Detergent Powder 1kg                 0     0.0    12     0    12
+Bingo Mad Angles 66g                       8     2.6    24     0    29
+Britannia Good Day Cashew 75g              8     4.2    48     0    52
+Cadbury 5 Star 40g                         4     3.4    48     0    49
+Cadbury Dairy Milk 50g                     4     2.9    48     0    49
+Chik Shampoo Sachet 6ml                    8     5.1    48     0    51
+Clinic Plus Shampoo 175ml                  3     1.3    12     0    14
+Clinic Plus Shampoo Sachet 6ml             9     7.5   120     0   121
+Coca-Cola Soft Drink 750ml                 0     0.0    48     0    48
+Colgate Strong Teeth 100g                  0     0.0    24     0    24
+Colin Glass Cleaner 500ml                  0     0.0     6     0     6
+Dabur Red Paste 100g                       4     1.4    12     0    15
+Dettol Antiseptic Liquid 125ml             2     0.8    12     0    13
+Dettol Soap 125g                           5     2.2    24     0    27
+Dhara Mustard Oil 1L                       1     1.0    12     0    12
+Everest Turmeric Powder 200g               5     1.1    24     0    28
+Fair & Lovely Face Cream 50g               1     0.7    12     0    12
+Fortune Soyabean Oil 1L                    1     1.0    12     0    12
+Fortune Sunflower Oil 1L                   3     1.8    24     0    25
+Haldiram Aloo Bhujia 42g                   0     0.0    48     0    48
+Head&Shoulders Anti-Dandruff 180ml         2     0.5     6     0     7
+India Gate Basmati Rice 1kg                3     1.3    12     0    14
+Kinley Water 1L                            0     0.0    48     0    48
+Kissan Mixed Fruit Jam 500g                1     0.5     6     0     6
+Lay's Classic Salted 52g                   0     0.0    24     0    24
+Lifebuoy Soap 125g                         8     3.4    48     0    53
+Lizol Floor Cleaner 500ml                  2     0.9    12     0    13
+Lux Soap 100g                              3     3.0    48     0    48
+Madhur Sugar 1kg                           2     2.0    48     0    48
+Maggi Hot & Sweet Sauce 500g               0     0.0    12     0    12
+Maggi Masala Noodles 70g                   0     0.0    96     0    96
+Mentos Mint Roll 29g                       8     2.3    24     0    30
+Mother Dairy Toned Milk 500ml              2     2.0    12     0    12
+Nescafe Classic Coffee 50g                 0     0.0    12     0    12
+Nestle KitKat 37g                         10     3.1    24     0    31
+Nestle Milkmaid 400g                       0     0.0     6     0     6
+Parle Krackjack 70g                        0     0.0    24     0    24
+Parle Parle-G Biscuits 70g                56     5.5    24     0    74
+Real Mixed Fruit Juice 1L                  1     0.8    12     0    12
+Rin Detergent Bar 250g                     0     0.0    48     0    48
+Sprite Soft Drink 750ml                   10     2.9    48     0    55
+Surf Excel Easy Wash 1kg                   4     1.5    24     0    26
+Surf Excel Easy Wash 500g                  1     1.0    24     0    24
+Top Ramen Curry Noodles 70g                0     0.0    24     0    24
+Vaseline Body Lotion 200ml                 1     0.5     6     0     6
+Wheel Detergent Powder 1kg                 3     2.1    24     0    25
+
+(in = delivered, out = removed on the phone: expired, damaged, returned)
+49 other items: counted minus sold, nothing received.
+Sales on estimated days are averages; expect a few pieces of drift per item until the weekly recount.

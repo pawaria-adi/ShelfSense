@@ -1,0 +1,26 @@
+{
+  "ondc_share_of_units_pct": 18.3,
+  "wape_sku_30d": {
+    "ONDC only (ignore Soundbox)": 81.68,
+    "ONDC + Soundbox top-1 guess (original plan)": 76.0,
+    "ONDC + Soundbox expected units (fallback)": 18.24,
+    "ONDC + popularity split (naive baseline)": 9.49,
+    "ONDC + billing station (shops with a scanner)": 1.66
+  },
+  "wape_sku_day": {
+    "ONDC only (ignore Soundbox)": 81.68,
+    "ONDC + Soundbox top-1 guess (original plan)": 86.08,
+    "ONDC + Soundbox expected units (fallback)": 47.52,
+    "ONDC + popularity split (naive baseline)": 47.18,
+    "ONDC + billing station (shops with a scanner)": 4.64
+  },
+  "ledger_estimator": "popularity",
+  "band90_coverage_pct": 90.1,
+  "cash_share_sensitivity_wape_sku_30d": {
+    "0.05": 11.55,
+    "0.18": 9.49,
+    "0.30": 18.0
+  },
+  "fallback_beats_naive": false,
+  "billing_station_band90_coverage_pct": 97.0
+}

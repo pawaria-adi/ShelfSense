@@ -1,0 +1,23 @@
+[build]
+  publish = "."
+  functions = "netlify/functions"
+
+[[redirects]]
+  from = "/api/read-bill"
+  to = "/.netlify/functions/read-bill"
+  status = 200
+
+[[redirects]]
+  from = "/api/paytm-webhook"
+  to = "/.netlify/functions/paytm-webhook"
+  status = 200
+
+[[redirects]]
+  from = "/api/confirm-order"
+  to = "/.netlify/functions/confirm-order"
+  status = 200
+
+[[redirects]]
+  from = "/api/places"
+  to = "/.netlify/functions/places"
+  status = 200

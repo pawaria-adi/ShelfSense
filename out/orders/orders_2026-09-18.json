@@ -1,0 +1,140 @@
+{
+  "date": "2026-09-18",
+  "lines": [
+    {
+      "sku_id": "SKU007",
+      "name": "Kurkure Masala Munch 90g",
+      "on_hand": 0,
+      "est_daily_rate": 4.5,
+      "days_left": 0.0,
+      "buy_from": "Gupta Traders",
+      "packs": 2,
+      "pack_size": 24,
+      "qty": 48,
+      "cost": 748.8,
+      "effective_unit_cost": 16.082,
+      "why": "already out; Rs 0.32/unit cheaper than Sharma Distributors",
+      "alternatives": [
+        {
+          "supplier": "Sharma Distributors",
+          "effective_unit_cost": 16.4,
+          "qty": 48
+        }
+      ]
+    },
+    {
+      "sku_id": "SKU063",
+      "name": "Dove Shampoo 180ml",
+      "on_hand": 0,
+      "est_daily_rate": 0.38,
+      "days_left": 0.0,
+      "buy_from": "Gupta Traders",
+      "packs": 1,
+      "pack_size": 6,
+      "qty": 6,
+      "cost": 772.2,
+      "effective_unit_cost": 131.661,
+      "why": "already out; Rs 3.77/unit cheaper than Sharma Distributors",
+      "alternatives": [
+        {
+          "supplier": "Sharma Distributors",
+          "effective_unit_cost": 135.435,
+          "qty": 6
+        }
+      ]
+    },
+    {
+      "sku_id": "SKU014",
+      "name": "Amul Taaza Milk 500ml",
+      "on_hand": 12,
+      "est_daily_rate": 10.9,
+      "days_left": 1.1,
+      "buy_from": "Gupta Traders",
+      "packs": 4,
+      "pack_size": 6,
+      "qty": 24,
+      "cost": 505.44,
+      "effective_unit_cost": 28.005,
+      "why": "Rs 4.20/unit cheaper than Sharma Distributors",
+      "alternatives": [
+        {
+          "supplier": "Sharma Distributors",
+          "effective_unit_cost": 32.209,
+          "qty": 12
+        }
+      ]
+    },
+    {
+      "sku_id": "SKU015",
+      "name": "Amul Gold Milk 500ml",
+      "on_hand": 12,
+      "est_daily_rate": 5.91,
+      "days_left": 2.0,
+      "buy_from": "Gupta Traders",
+      "packs": 1,
+      "pack_size": 6,
+      "qty": 6,
+      "cost": 154.44,
+      "effective_unit_cost": 28.696,
+      "why": "",
+      "alternatives": []
+    },
+    {
+      "sku_id": "SKU016",
+      "name": "Mother Dairy Toned Milk 500ml",
+      "on_hand": 12,
+      "est_daily_rate": 4.53,
+      "days_left": 2.6,
+      "buy_from": "Gupta Traders",
+      "packs": 1,
+      "pack_size": 6,
+      "qty": 6,
+      "cost": 126.36,
+      "effective_unit_cost": 139.075,
+      "why": "",
+      "alternatives": []
+    },
+    {
+      "sku_id": "SKU082",
+      "name": "All Out Mosquito Refill 45ml",
+      "on_hand": 2,
+      "est_daily_rate": 0.63,
+      "days_left": 3.2,
+      "buy_from": "Gupta Traders",
+      "packs": 1,
+      "pack_size": 6,
+      "qty": 6,
+      "cost": 397.8,
+      "effective_unit_cost": 66.593,
+      "why": "Rs 3.09/unit cheaper than Sharma Distributors",
+      "alternatives": [
+        {
+          "supplier": "Sharma Distributors",
+          "effective_unit_cost": 69.687,
+          "qty": 6
+        }
+      ]
+    },
+    {
+      "sku_id": "SKU052",
+      "name": "Colgate MaxFresh 150g",
+      "on_hand": 3,
+      "est_daily_rate": 0.9,
+      "days_left": 3.3,
+      "buy_from": "Gupta Traders",
+      "packs": 1,
+      "pack_size": 6,
+      "qty": 6,
+      "cost": 463.32,
+      "effective_unit_cost": 77.576,
+      "why": "Rs 3.56/unit cheaper than Sharma Distributors",
+      "alternatives": [
+        {
+          "supplier": "Sharma Distributors",
+          "effective_unit_cost": 81.14,
+          "qty": 6
+        }
+      ]
+    }
+  ]
+}

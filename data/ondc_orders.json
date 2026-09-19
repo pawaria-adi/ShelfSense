@@ -1,0 +1,6305 @@
+[
+  {
+    "order_id": "ONDC00004",
+    "timestamp": "2026-08-18T09:35:39",
+    "buyer_app": "Magicpin",
+    "items": [
+      {
+        "sku_id": "SKU005",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU016",
+        "qty": 1
+      }
+    ],
+    "order_value": 37.0,
+    "status": "DELIVERED"
+  },
+  {
+    "order_id": "ONDC00012",
+    "timestamp": "2026-08-18T09:57:02",
+    "buyer_app": "Ola",
+    "items": [
+      {
+        "sku_id": "SKU001",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU003",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU016",
+        "qty": 1
+      }
+    ],
+    "order_value": 47.0,
+    "status": "DELIVERED"
+  },
+  {
+    "order_id": "ONDC00014",
+    "timestamp": "2026-08-18T11:06:42",
+    "buyer_app": "Ola",
+    "items": [
+      {
+        "sku_id": "SKU009",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU017",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU049",
+        "qty": 1
+      }
+    ],
+    "order_value": 207.0,
+    "status": "DELIVERED"
+  },
+  {
+    "order_id": "ONDC00013",
+    "timestamp": "2026-08-18T12:33:16",
+    "buyer_app": "PhonePe Pincode",
+    "items": [
+      {
+        "sku_id": "SKU014",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU044",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU057",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU065",
+        "qty": 1
+      }
+    ],
+    "order_value": 105.0,
+    "status": "DELIVERED"
+  },
+  {
+    "order_id": "ONDC00006",
+    "timestamp": "2026-08-18T15:15:27",
+    "buyer_app": "PhonePe Pincode",
+    "items": [
+      {
+        "sku_id": "SKU032",
+        "qty": 1
+      }
+    ],
+    "order_value": 340.0,
+    "status": "DELIVERED"
+  },
+  {
+    "order_id": "ONDC00008",
+    "timestamp": "2026-08-18T15:20:12",
+    "buyer_app": "PhonePe Pincode",
+    "items": [
+      {
+        "sku_id": "SKU001",
+        "qty": 1
+      }
+    ],
+    "order_value": 10.0,
+    "status": "DELIVERED"
+  },
+  {
+    "order_id": "ONDC00007",
+    "timestamp": "2026-08-18T16:39:41",
+    "buyer_app": "PhonePe Pincode",
+    "items": [
+      {
+        "sku_id": "SKU014",
+        "qty": 2
+      },
+      {
+        "sku_id": "SKU029",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU055",
+        "qty": 1
+      }
+    ],
+    "order_value": 394.0,
+    "status": "DELIVERED"
+  },
+  {
+    "order_id": "ONDC00011",
+    "timestamp": "2026-08-18T17:04:59",
+    "buyer_app": "PhonePe Pincode",
+    "items": [
+      {
+        "sku_id": "SKU015",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU019",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU027",
+        "qty": 3
+      },
+      {
+        "sku_id": "SKU041",
+        "qty": 1
+      }
+    ],
+    "order_value": 302.0,
+    "status": "DELIVERED"
+  },
+  {
+    "order_id": "ONDC00003",
+    "timestamp": "2026-08-18T17:07:24",
+    "buyer_app": "Ola",
+    "items": [
+      {
+        "sku_id": "SKU045",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU049",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU057",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU059",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU065",
+        "qty": 1
+      }
+    ],
+    "order_value": 238.0,
+    "status": "DELIVERED"
+  },
+  {
+    "order_id": "ONDC00005",
+    "timestamp": "2026-08-18T17:57:28",
+    "buyer_app": "Magicpin",
+    "items": [
+      {
+        "sku_id": "SKU002",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU011",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU014",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU042",
+        "qty": 3
+      }
+    ],
+    "order_value": 213.0,
+    "status": "DELIVERED"
+  },
+  {
+    "order_id": "ONDC00010",
+    "timestamp": "2026-08-18T18:50:21",
+    "buyer_app": "Ola",
+    "items": [
+      {
+        "sku_id": "SKU033",
+        "qty": 2
+      }
+    ],
+    "order_value": 96.0,
+    "status": "DELIVERED"
+  },
+  {
+    "order_id": "ONDC00001",
+    "timestamp": "2026-08-18T19:35:37",
+    "buyer_app": "Ola",
+    "items": [
+      {
+        "sku_id": "SKU025",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU085",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU101",
+        "qty": 3
+      }
+    ],
+    "order_value": 580.0,
+    "status": "DELIVERED"
+  },
+  {
+    "order_id": "ONDC00002",
+    "timestamp": "2026-08-18T19:42:54",
+    "buyer_app": "Ola",
+    "items": [
+      {
+        "sku_id": "SKU014",
+        "qty": 3
+      }
+    ],
+    "order_value": 81.0,
+    "status": "DELIVERED"
+  },
+  {
+    "order_id": "ONDC00009",
+    "timestamp": "2026-08-18T20:37:51",
+    "buyer_app": "Ola",
+    "items": [
+      {
+        "sku_id": "SKU083",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU091",
+        "qty": 1
+      }
+    ],
+    "order_value": 85.0,
+    "status": "DELIVERED"
+  },
+  {
+    "order_id": "ONDC00021",
+    "timestamp": "2026-08-19T10:57:30",
+    "buyer_app": "Magicpin",
+    "items": [
+      {
+        "sku_id": "SKU011",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU032",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU058",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU073",
+        "qty": 1
+      }
+    ],
+    "order_value": 503.0,
+    "status": "DELIVERED"
+  },
+  {
+    "order_id": "ONDC00019",
+    "timestamp": "2026-08-19T13:10:24",
+    "buyer_app": "Ola",
+    "items": [
+      {
+        "sku_id": "SKU042",
+        "qty": 3
+      }
+    ],
+    "order_value": 120.0,
+    "status": "DELIVERED"
+  },
+  {
+    "order_id": "ONDC00017",
+    "timestamp": "2026-08-19T13:57:39",
+    "buyer_app": "Paytm",
+    "items": [
+      {
+        "sku_id": "SKU012",
+        "qty": 2
+      },
+      {
+        "sku_id": "SKU016",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU042",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU064",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU073",
+        "qty": 2
+      }
+    ],
+    "order_value": 222.0,
+    "status": "DELIVERED"
+  },
+  {
+    "order_id": "ONDC00020",
+    "timestamp": "2026-08-19T15:47:55",
+    "buyer_app": "PhonePe Pincode",
+    "items": [
+      {
+        "sku_id": "SKU068",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU093",
+        "qty": 1
+      }
+    ],
+    "order_value": 135.0,
+    "status": "DELIVERED"
+  },
+  {
+    "order_id": "ONDC00015",
+    "timestamp": "2026-08-19T18:41:26",
+    "buyer_app": "Magicpin",
+    "items": [
+      {
+        "sku_id": "SKU014",
+        "qty": 1
+      }
+    ],
+    "order_value": 27.0,
+    "status": "DELIVERED"
+  },
+  {
+    "order_id": "ONDC00018",
+    "timestamp": "2026-08-19T20:23:48",
+    "buyer_app": "Ola",
+    "items": [
+      {
+        "sku_id": "SKU044",
+        "qty": 2
+      },
+      {
+        "sku_id": "SKU055",
+        "qty": 2
+      }
+    ],
+    "order_value": 190.0,
+    "status": "DELIVERED"
+  },
+  {
+    "order_id": "ONDC00016",
+    "timestamp": "2026-08-19T21:32:34",
+    "buyer_app": "Magicpin",
+    "items": [
+      {
+        "sku_id": "SKU001",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU030",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU076",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU078",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU083",
+        "qty": 1
+      }
+    ],
+    "order_value": 276.0,
+    "status": "DELIVERED"
+  },
+  {
+    "order_id": "ONDC00028",
+    "timestamp": "2026-08-20T09:06:51",
+    "buyer_app": "Ola",
+    "items": [
+      {
+        "sku_id": "SKU063",
+        "qty": 1
+      }
+    ],
+    "order_value": 165.0,
+    "status": "DELIVERED"
+  },
+  {
+    "order_id": "ONDC00024",
+    "timestamp": "2026-08-20T11:32:12",
+    "buyer_app": "Paytm",
+    "items": [
+      {
+        "sku_id": "SKU025",
+        "qty": 1
+      }
+    ],
+    "order_value": 155.0,
+    "status": "DELIVERED"
+  },
+  {
+    "order_id": "ONDC00025",
+    "timestamp": "2026-08-20T11:51:38",
+    "buyer_app": "PhonePe Pincode",
+    "items": [
+      {
+        "sku_id": "SKU001",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU012",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU045",
+        "qty": 3
+      },
+      {
+        "sku_id": "SKU057",
+        "qty": 2
+      }
+    ],
+    "order_value": 214.0,
+    "status": "DELIVERED"
+  },
+  {
+    "order_id": "ONDC00029",
+    "timestamp": "2026-08-20T13:27:34",
+    "buyer_app": "Magicpin",
+    "items": [
+      {
+        "sku_id": "SKU051",
+        "qty": 1
+      }
+    ],
+    "order_value": 55.0,
+    "status": "DELIVERED"
+  },
+  {
+    "order_id": "ONDC00022",
+    "timestamp": "2026-08-20T16:49:45",
+    "buyer_app": "Paytm",
+    "items": [
+      {
+        "sku_id": "SKU010",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU025",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU064",
+        "qty": 1
+      }
+    ],
+    "order_value": 172.0,
+    "status": "DELIVERED"
+  },
+  {
+    "order_id": "ONDC00023",
+    "timestamp": "2026-08-20T18:22:20",
+    "buyer_app": "PhonePe Pincode",
+    "items": [
+      {
+        "sku_id": "SKU006",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU027",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU033",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU043",
+        "qty": 1
+      }
+    ],
+    "order_value": 136.0,
+    "status": "DELIVERED"
+  },
+  {
+    "order_id": "ONDC00026",
+    "timestamp": "2026-08-20T18:48:16",
+    "buyer_app": "PhonePe Pincode",
+    "items": [
+      {
+        "sku_id": "SKU007",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU014",
+        "qty": 1
+      }
+    ],
+    "order_value": 47.0,
+    "status": "DELIVERED"
+  },
+  {
+    "order_id": "ONDC00027",
+    "timestamp": "2026-08-20T19:04:49",
+    "buyer_app": "Magicpin",
+    "items": [
+      {
+        "sku_id": "SKU014",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU033",
+        "qty": 1
+      }
+    ],
+    "order_value": 75.0,
+    "status": "DELIVERED"
+  },
+  {
+    "order_id": "ONDC00031",
+    "timestamp": "2026-08-21T09:53:10",
+    "buyer_app": "Magicpin",
+    "items": [
+      {
+        "sku_id": "SKU070",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU076",
+        "qty": 1
+      }
+    ],
+    "order_value": 155.0,
+    "status": "DELIVERED"
+  },
+  {
+    "order_id": "ONDC00040",
+    "timestamp": "2026-08-21T10:27:48",
+    "buyer_app": "Paytm",
+    "items": [
+      {
+        "sku_id": "SKU027",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU030",
+        "qty": 1
+      }
+    ],
+    "order_value": 90.0,
+    "status": "DELIVERED"
+  },
+  {
+    "order_id": "ONDC00041",
+    "timestamp": "2026-08-21T10:28:34",
+    "buyer_app": "Magicpin",
+    "items": [
+      {
+        "sku_id": "SKU014",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU076",
+        "qty": 3
+      }
+    ],
+    "order_value": 117.0,
+    "status": "DELIVERED"
+  },
+  {
+    "order_id": "ONDC00039",
+    "timestamp": "2026-08-21T10:30:51",
+    "buyer_app": "Ola",
+    "items": [
+      {
+        "sku_id": "SKU015",
+        "qty": 1
+      }
+    ],
+    "order_value": 33.0,
+    "status": "DELIVERED"
+  },
+  {
+    "order_id": "ONDC00036",
+    "timestamp": "2026-08-21T10:54:39",
+    "buyer_app": "Ola",
+    "items": [
+      {
+        "sku_id": "SKU025",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU043",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU064",
+        "qty": 3
+      }
+    ],
+    "order_value": 204.0,
+    "status": "DELIVERED"
+  },
+  {
+    "order_id": "ONDC00033",
+    "timestamp": "2026-08-21T15:38:40",
+    "buyer_app": "Paytm",
+    "items": [
+      {
+        "sku_id": "SKU031",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU064",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU095",
+        "qty": 2
+      }
+    ],
+    "order_value": 288.0,
+    "status": "DELIVERED"
+  },
+  {
+    "order_id": "ONDC00037",
+    "timestamp": "2026-08-21T17:24:53",
+    "buyer_app": "Ola",
+    "items": [
+      {
+        "sku_id": "SKU033",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU072",
+        "qty": 1
+      }
+    ],
+    "order_value": 68.0,
+    "status": "DELIVERED"
+  },
+  {
+    "order_id": "ONDC00038",
+    "timestamp": "2026-08-21T18:07:18",
+    "buyer_app": "Paytm",
+    "items": [
+      {
+        "sku_id": "SKU065",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU090",
+        "qty": 1
+      }
+    ],
+    "order_value": 13.0,
+    "status": "DELIVERED"
+  },
+  {
+    "order_id": "ONDC00032",
+    "timestamp": "2026-08-21T18:39:16",
+    "buyer_app": "PhonePe Pincode",
+    "items": [
+      {
+        "sku_id": "SKU099",
+        "qty": 1
+      }
+    ],
+    "order_value": 135.0,
+    "status": "DELIVERED"
+  },
+  {
+    "order_id": "ONDC00034",
+    "timestamp": "2026-08-21T18:53:57",
+    "buyer_app": "Ola",
+    "items": [
+      {
+        "sku_id": "SKU027",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU088",
+        "qty": 1
+      }
+    ],
+    "order_value": 38.0,
+    "status": "DELIVERED"
+  },
+  {
+    "order_id": "ONDC00035",
+    "timestamp": "2026-08-21T19:39:42",
+    "buyer_app": "Ola",
+    "items": [
+      {
+        "sku_id": "SKU014",
+        "qty": 4
+      },
+      {
+        "sku_id": "SKU033",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU049",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU051",
+        "qty": 1
+      }
+    ],
+    "order_value": 336.0,
+    "status": "DELIVERED"
+  },
+  {
+    "order_id": "ONDC00030",
+    "timestamp": "2026-08-21T19:50:58",
+    "buyer_app": "Ola",
+    "items": [
+      {
+        "sku_id": "SKU006",
+        "qty": 1
+      }
+    ],
+    "order_value": 20.0,
+    "status": "DELIVERED"
+  },
+  {
+    "order_id": "ONDC00052",
+    "timestamp": "2026-08-22T09:56:35",
+    "buyer_app": "Ola",
+    "items": [
+      {
+        "sku_id": "SKU012",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU014",
+        "qty": 3
+      },
+      {
+        "sku_id": "SKU027",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU033",
+        "qty": 1
+      }
+    ],
+    "order_value": 171.0,
+    "status": "DELIVERED"
+  },
+  {
+    "order_id": "ONDC00051",
+    "timestamp": "2026-08-22T10:21:43",
+    "buyer_app": "PhonePe Pincode",
+    "items": [
+      {
+        "sku_id": "SKU015",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU045",
+        "qty": 1
+      }
+    ],
+    "order_value": 73.0,
+    "status": "DELIVERED"
+  },
+  {
+    "order_id": "ONDC00046",
+    "timestamp": "2026-08-22T11:24:09",
+    "buyer_app": "PhonePe Pincode",
+    "items": [
+      {
+        "sku_id": "SKU014",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU045",
+        "qty": 3
+      },
+      {
+        "sku_id": "SKU085",
+        "qty": 1
+      }
+    ],
+    "order_value": 167.0,
+    "status": "DELIVERED"
+  },
+  {
+    "order_id": "ONDC00042",
+    "timestamp": "2026-08-22T14:58:26",
+    "buyer_app": "Paytm",
+    "items": [
+      {
+        "sku_id": "SKU010",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU076",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU079",
+        "qty": 1
+      }
+    ],
+    "order_value": 143.0,
+    "status": "DELIVERED"
+  },
+  {
+    "order_id": "ONDC00045",
+    "timestamp": "2026-08-22T16:19:40",
+    "buyer_app": "PhonePe Pincode",
+    "items": [
+      {
+        "sku_id": "SKU005",
+        "qty": 3
+      },
+      {
+        "sku_id": "SKU006",
+        "qty": 3
+      },
+      {
+        "sku_id": "SKU014",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU084",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU098",
+        "qty": 2
+      }
+    ],
+    "order_value": 452.0,
+    "status": "DELIVERED"
+  },
+  {
+    "order_id": "ONDC00043",
+    "timestamp": "2026-08-22T16:55:58",
+    "buyer_app": "Magicpin",
+    "items": [
+      {
+        "sku_id": "SKU031",
+        "qty": 1
+      }
+    ],
+    "order_value": 135.0,
+    "status": "DELIVERED"
+  },
+  {
+    "order_id": "ONDC00050",
+    "timestamp": "2026-08-22T18:26:29",
+    "buyer_app": "Magicpin",
+    "items": [
+      {
+        "sku_id": "SKU015",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU016",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU029",
+        "qty": 2
+      },
+      {
+        "sku_id": "SKU064",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU079",
+        "qty": 1
+      }
+    ],
+    "order_value": 732.0,
+    "status": "DELIVERED"
+  },
+  {
+    "order_id": "ONDC00047",
+    "timestamp": "2026-08-22T19:27:28",
+    "buyer_app": "Paytm",
+    "items": [
+      {
+        "sku_id": "SKU055",
+        "qty": 1
+      }
+    ],
+    "order_value": 55.0,
+    "status": "DELIVERED"
+  },
+  {
+    "order_id": "ONDC00049",
+    "timestamp": "2026-08-22T19:56:03",
+    "buyer_app": "Ola",
+    "items": [
+      {
+        "sku_id": "SKU015",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU016",
+        "qty": 3
+      },
+      {
+        "sku_id": "SKU024",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU042",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU048",
+        "qty": 1
+      }
+    ],
+    "order_value": 349.0,
+    "status": "DELIVERED"
+  },
+  {
+    "order_id": "ONDC00053",
+    "timestamp": "2026-08-22T20:02:01",
+    "buyer_app": "PhonePe Pincode",
+    "items": [
+      {
+        "sku_id": "SKU061",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU064",
+        "qty": 3
+      },
+      {
+        "sku_id": "SKU073",
+        "qty": 1
+      }
+    ],
+    "order_value": 170.0,
+    "status": "DELIVERED"
+  },
+  {
+    "order_id": "ONDC00044",
+    "timestamp": "2026-08-22T20:46:29",
+    "buyer_app": "Magicpin",
+    "items": [
+      {
+        "sku_id": "SKU042",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU059",
+        "qty": 1
+      }
+    ],
+    "order_value": 75.0,
+    "status": "DELIVERED"
+  },
+  {
+    "order_id": "ONDC00048",
+    "timestamp": "2026-08-22T21:26:18",
+    "buyer_app": "PhonePe Pincode",
+    "items": [
+      {
+        "sku_id": "SKU009",
+        "qty": 2
+      },
+      {
+        "sku_id": "SKU027",
+        "qty": 1
+      }
+    ],
+    "order_value": 68.0,
+    "status": "DELIVERED"
+  },
+  {
+    "order_id": "ONDC00061",
+    "timestamp": "2026-08-23T11:58:58",
+    "buyer_app": "Paytm",
+    "items": [
+      {
+        "sku_id": "SKU002",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU021",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU022",
+        "qty": 3
+      },
+      {
+        "sku_id": "SKU064",
+        "qty": 2
+      }
+    ],
+    "order_value": 566.0,
+    "status": "DELIVERED"
+  },
+  {
+    "order_id": "ONDC00064",
+    "timestamp": "2026-08-23T12:21:13",
+    "buyer_app": "Magicpin",
+    "items": [
+      {
+        "sku_id": "SKU002",
+        "qty": 1
+      }
+    ],
+    "order_value": 10.0,
+    "status": "DELIVERED"
+  },
+  {
+    "order_id": "ONDC00056",
+    "timestamp": "2026-08-23T12:47:21",
+    "buyer_app": "Ola",
+    "items": [
+      {
+        "sku_id": "SKU033",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU042",
+        "qty": 2
+      }
+    ],
+    "order_value": 128.0,
+    "status": "DELIVERED"
+  },
+  {
+    "order_id": "ONDC00066",
+    "timestamp": "2026-08-23T13:35:45",
+    "buyer_app": "PhonePe Pincode",
+    "items": [
+      {
+        "sku_id": "SKU014",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU024",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU039",
+        "qty": 1
+      }
+    ],
+    "order_value": 447.0,
+    "status": "DELIVERED"
+  },
+  {
+    "order_id": "ONDC00055",
+    "timestamp": "2026-08-23T16:28:49",
+    "buyer_app": "PhonePe Pincode",
+    "items": [
+      {
+        "sku_id": "SKU014",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU027",
+        "qty": 1
+      }
+    ],
+    "order_value": 55.0,
+    "status": "DELIVERED"
+  },
+  {
+    "order_id": "ONDC00059",
+    "timestamp": "2026-08-23T17:26:15",
+    "buyer_app": "Ola",
+    "items": [
+      {
+        "sku_id": "SKU043",
+        "qty": 3
+      },
+      {
+        "sku_id": "SKU076",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU083",
+        "qty": 2
+      }
+    ],
+    "order_value": 300.0,
+    "status": "DELIVERED"
+  },
+  {
+    "order_id": "ONDC00054",
+    "timestamp": "2026-08-23T18:19:11",
+    "buyer_app": "Magicpin",
+    "items": [
+      {
+        "sku_id": "SKU003",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU004",
+        "qty": 1
+      }
+    ],
+    "order_value": 20.0,
+    "status": "DELIVERED"
+  },
+  {
+    "order_id": "ONDC00058",
+    "timestamp": "2026-08-23T19:24:03",
+    "buyer_app": "Magicpin",
+    "items": [
+      {
+        "sku_id": "SKU014",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU078",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU085",
+        "qty": 1
+      }
+    ],
+    "order_value": 146.0,
+    "status": "DELIVERED"
+  },
+  {
+    "order_id": "ONDC00063",
+    "timestamp": "2026-08-23T19:43:27",
+    "buyer_app": "Magicpin",
+    "items": [
+      {
+        "sku_id": "SKU007",
+        "qty": 2
+      },
+      {
+        "sku_id": "SKU022",
+        "qty": 3
+      },
+      {
+        "sku_id": "SKU048",
+        "qty": 1
+      }
+    ],
+    "order_value": 465.0,
+    "status": "DELIVERED"
+  },
+  {
+    "order_id": "ONDC00060",
+    "timestamp": "2026-08-23T20:05:49",
+    "buyer_app": "Ola",
+    "items": [
+      {
+        "sku_id": "SKU067",
+        "qty": 1
+      }
+    ],
+    "order_value": 185.0,
+    "status": "DELIVERED"
+  },
+  {
+    "order_id": "ONDC00062",
+    "timestamp": "2026-08-23T20:21:55",
+    "buyer_app": "PhonePe Pincode",
+    "items": [
+      {
+        "sku_id": "SKU065",
+        "qty": 2
+      },
+      {
+        "sku_id": "SKU092",
+        "qty": 1
+      }
+    ],
+    "order_value": 26.0,
+    "status": "DELIVERED"
+  },
+  {
+    "order_id": "ONDC00065",
+    "timestamp": "2026-08-23T20:36:46",
+    "buyer_app": "PhonePe Pincode",
+    "items": [
+      {
+        "sku_id": "SKU064",
+        "qty": 1
+      }
+    ],
+    "order_value": 3.0,
+    "status": "DELIVERED"
+  },
+  {
+    "order_id": "ONDC00057",
+    "timestamp": "2026-08-23T20:40:11",
+    "buyer_app": "PhonePe Pincode",
+    "items": [
+      {
+        "sku_id": "SKU010",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU030",
+        "qty": 2
+      },
+      {
+        "sku_id": "SKU045",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU091",
+        "qty": 1
+      }
+    ],
+    "order_value": 188.0,
+    "status": "DELIVERED"
+  },
+  {
+    "order_id": "ONDC00070",
+    "timestamp": "2026-08-24T09:14:57",
+    "buyer_app": "Magicpin",
+    "items": [
+      {
+        "sku_id": "SKU007",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU017",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU027",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU044",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU083",
+        "qty": 2
+      }
+    ],
+    "order_value": 300.0,
+    "status": "DELIVERED"
+  },
+  {
+    "order_id": "ONDC00069",
+    "timestamp": "2026-08-24T09:42:57",
+    "buyer_app": "Paytm",
+    "items": [
+      {
+        "sku_id": "SKU043",
+        "qty": 1
+      }
+    ],
+    "order_value": 40.0,
+    "status": "DELIVERED"
+  },
+  {
+    "order_id": "ONDC00076",
+    "timestamp": "2026-08-24T10:13:51",
+    "buyer_app": "Ola",
+    "items": [
+      {
+        "sku_id": "SKU015",
+        "qty": 4
+      },
+      {
+        "sku_id": "SKU045",
+        "qty": 1
+      }
+    ],
+    "order_value": 172.0,
+    "status": "DELIVERED"
+  },
+  {
+    "order_id": "ONDC00071",
+    "timestamp": "2026-08-24T10:18:02",
+    "buyer_app": "Paytm",
+    "items": [
+      {
+        "sku_id": "SKU017",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU027",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU056",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU081",
+        "qty": 1
+      }
+    ],
+    "order_value": 210.0,
+    "status": "DELIVERED"
+  },
+  {
+    "order_id": "ONDC00072",
+    "timestamp": "2026-08-24T11:46:15",
+    "buyer_app": "Magicpin",
+    "items": [
+      {
+        "sku_id": "SKU023",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU064",
+        "qty": 1
+      }
+    ],
+    "order_value": 128.0,
+    "status": "DELIVERED"
+  },
+  {
+    "order_id": "ONDC00068",
+    "timestamp": "2026-08-24T17:08:23",
+    "buyer_app": "Magicpin",
+    "items": [
+      {
+        "sku_id": "SKU024",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU070",
+        "qty": 1
+      }
+    ],
+    "order_value": 300.0,
+    "status": "DELIVERED"
+  },
+  {
+    "order_id": "ONDC00077",
+    "timestamp": "2026-08-24T18:06:51",
+    "buyer_app": "Paytm",
+    "items": [
+      {
+        "sku_id": "SKU027",
+        "qty": 2
+      },
+      {
+        "sku_id": "SKU056",
+        "qty": 1
+      }
+    ],
+    "order_value": 91.0,
+    "status": "DELIVERED"
+  },
+  {
+    "order_id": "ONDC00073",
+    "timestamp": "2026-08-24T18:07:53",
+    "buyer_app": "Magicpin",
+    "items": [
+      {
+        "sku_id": "SKU025",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU065",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU068",
+        "qty": 3
+      }
+    ],
+    "order_value": 533.0,
+    "status": "DELIVERED"
+  },
+  {
+    "order_id": "ONDC00075",
+    "timestamp": "2026-08-24T18:38:08",
+    "buyer_app": "Paytm",
+    "items": [
+      {
+        "sku_id": "SKU002",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU033",
+        "qty": 1
+      }
+    ],
+    "order_value": 58.0,
+    "status": "DELIVERED"
+  },
+  {
+    "order_id": "ONDC00078",
+    "timestamp": "2026-08-24T19:18:44",
+    "buyer_app": "Ola",
+    "items": [
+      {
+        "sku_id": "SKU092",
+        "qty": 1
+      }
+    ],
+    "order_value": 20.0,
+    "status": "DELIVERED"
+  },
+  {
+    "order_id": "ONDC00067",
+    "timestamp": "2026-08-24T19:25:52",
+    "buyer_app": "Paytm",
+    "items": [
+      {
+        "sku_id": "SKU014",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU073",
+        "qty": 1
+      }
+    ],
+    "order_value": 89.0,
+    "status": "DELIVERED"
+  },
+  {
+    "order_id": "ONDC00079",
+    "timestamp": "2026-08-24T19:33:35",
+    "buyer_app": "PhonePe Pincode",
+    "items": [
+      {
+        "sku_id": "SKU045",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU097",
+        "qty": 3
+      }
+    ],
+    "order_value": 226.0,
+    "status": "DELIVERED"
+  },
+  {
+    "order_id": "ONDC00074",
+    "timestamp": "2026-08-24T21:56:48",
+    "buyer_app": "Ola",
+    "items": [
+      {
+        "sku_id": "SKU010",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU012",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU042",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU057",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU076",
+        "qty": 1
+      }
+    ],
+    "order_value": 133.0,
+    "status": "DELIVERED"
+  },
+  {
+    "order_id": "ONDC00086",
+    "timestamp": "2026-08-25T09:45:33",
+    "buyer_app": "Magicpin",
+    "items": [
+      {
+        "sku_id": "SKU010",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU061",
+        "qty": 1
+      }
+    ],
+    "order_value": 113.0,
+    "status": "DELIVERED"
+  },
+  {
+    "order_id": "ONDC00090",
+    "timestamp": "2026-08-25T11:10:18",
+    "buyer_app": "PhonePe Pincode",
+    "items": [
+      {
+        "sku_id": "SKU014",
+        "qty": 1
+      }
+    ],
+    "order_value": 27.0,
+    "status": "DELIVERED"
+  },
+  {
+    "order_id": "ONDC00084",
+    "timestamp": "2026-08-25T12:11:12",
+    "buyer_app": "Ola",
+    "items": [
+      {
+        "sku_id": "SKU002",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU026",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU045",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU058",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU100",
+        "qty": 1
+      }
+    ],
+    "order_value": 850.0,
+    "status": "DELIVERED"
+  },
+  {
+    "order_id": "ONDC00087",
+    "timestamp": "2026-08-25T13:13:41",
+    "buyer_app": "Paytm",
+    "items": [
+      {
+        "sku_id": "SKU056",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU086",
+        "qty": 1
+      }
+    ],
+    "order_value": 55.0,
+    "status": "DELIVERED"
+  },
+  {
+    "order_id": "ONDC00085",
+    "timestamp": "2026-08-25T14:07:57",
+    "buyer_app": "Magicpin",
+    "items": [
+      {
+        "sku_id": "SKU059",
+        "qty": 1
+      }
+    ],
+    "order_value": 35.0,
+    "status": "DELIVERED"
+  },
+  {
+    "order_id": "ONDC00088",
+    "timestamp": "2026-08-25T16:39:48",
+    "buyer_app": "Magicpin",
+    "items": [
+      {
+        "sku_id": "SKU015",
+        "qty": 3
+      }
+    ],
+    "order_value": 99.0,
+    "status": "DELIVERED"
+  },
+  {
+    "order_id": "ONDC00083",
+    "timestamp": "2026-08-25T17:51:34",
+    "buyer_app": "Magicpin",
+    "items": [
+      {
+        "sku_id": "SKU006",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU023",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU071",
+        "qty": 1
+      }
+    ],
+    "order_value": 213.0,
+    "status": "DELIVERED"
+  },
+  {
+    "order_id": "ONDC00082",
+    "timestamp": "2026-08-25T18:24:41",
+    "buyer_app": "Magicpin",
+    "items": [
+      {
+        "sku_id": "SKU008",
+        "qty": 3
+      }
+    ],
+    "order_value": 60.0,
+    "status": "DELIVERED"
+  },
+  {
+    "order_id": "ONDC00080",
+    "timestamp": "2026-08-25T18:34:54",
+    "buyer_app": "PhonePe Pincode",
+    "items": [
+      {
+        "sku_id": "SKU031",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU041",
+        "qty": 2
+      },
+      {
+        "sku_id": "SKU072",
+        "qty": 2
+      }
+    ],
+    "order_value": 255.0,
+    "status": "DELIVERED"
+  },
+  {
+    "order_id": "ONDC00092",
+    "timestamp": "2026-08-25T19:18:52",
+    "buyer_app": "PhonePe Pincode",
+    "items": [
+      {
+        "sku_id": "SKU101",
+        "qty": 1
+      }
+    ],
+    "order_value": 135.0,
+    "status": "DELIVERED"
+  },
+  {
+    "order_id": "ONDC00081",
+    "timestamp": "2026-08-25T19:43:23",
+    "buyer_app": "Magicpin",
+    "items": [
+      {
+        "sku_id": "SKU014",
+        "qty": 2
+      }
+    ],
+    "order_value": 54.0,
+    "status": "DELIVERED"
+  },
+  {
+    "order_id": "ONDC00091",
+    "timestamp": "2026-08-25T20:00:11",
+    "buyer_app": "Ola",
+    "items": [
+      {
+        "sku_id": "SKU002",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU015",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU047",
+        "qty": 2
+      },
+      {
+        "sku_id": "SKU058",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU072",
+        "qty": 2
+      }
+    ],
+    "order_value": 168.0,
+    "status": "DELIVERED"
+  },
+  {
+    "order_id": "ONDC00093",
+    "timestamp": "2026-08-25T20:02:52",
+    "buyer_app": "Ola",
+    "items": [
+      {
+        "sku_id": "SKU007",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU024",
+        "qty": 1
+      }
+    ],
+    "order_value": 195.0,
+    "status": "DELIVERED"
+  },
+  {
+    "order_id": "ONDC00089",
+    "timestamp": "2026-08-25T20:55:37",
+    "buyer_app": "Ola",
+    "items": [
+      {
+        "sku_id": "SKU044",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU072",
+        "qty": 2
+      }
+    ],
+    "order_value": 80.0,
+    "status": "DELIVERED"
+  },
+  {
+    "order_id": "ONDC00096",
+    "timestamp": "2026-08-26T10:30:51",
+    "buyer_app": "PhonePe Pincode",
+    "items": [
+      {
+        "sku_id": "SKU047",
+        "qty": 3
+      }
+    ],
+    "order_value": 60.0,
+    "status": "DELIVERED"
+  },
+  {
+    "order_id": "ONDC00100",
+    "timestamp": "2026-08-26T16:03:14",
+    "buyer_app": "PhonePe Pincode",
+    "items": [
+      {
+        "sku_id": "SKU064",
+        "qty": 2
+      },
+      {
+        "sku_id": "SKU089",
+        "qty": 2
+      }
+    ],
+    "order_value": 26.0,
+    "status": "DELIVERED"
+  },
+  {
+    "order_id": "ONDC00101",
+    "timestamp": "2026-08-26T17:39:12",
+    "buyer_app": "Magicpin",
+    "items": [
+      {
+        "sku_id": "SKU009",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU040",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU055",
+        "qty": 2
+      }
+    ],
+    "order_value": 385.0,
+    "status": "DELIVERED"
+  },
+  {
+    "order_id": "ONDC00095",
+    "timestamp": "2026-08-26T19:21:43",
+    "buyer_app": "Paytm",
+    "items": [
+      {
+        "sku_id": "SKU071",
+        "qty": 1
+      }
+    ],
+    "order_value": 68.0,
+    "status": "DELIVERED"
+  },
+  {
+    "order_id": "ONDC00099",
+    "timestamp": "2026-08-26T19:32:44",
+    "buyer_app": "Paytm",
+    "items": [
+      {
+        "sku_id": "SKU001",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU014",
+        "qty": 3
+      },
+      {
+        "sku_id": "SKU048",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU072",
+        "qty": 1
+      }
+    ],
+    "order_value": 131.0,
+    "status": "DELIVERED"
+  },
+  {
+    "order_id": "ONDC00094",
+    "timestamp": "2026-08-26T20:05:44",
+    "buyer_app": "Magicpin",
+    "items": [
+      {
+        "sku_id": "SKU020",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU034",
+        "qty": 1
+      }
+    ],
+    "order_value": 190.0,
+    "status": "DELIVERED"
+  },
+  {
+    "order_id": "ONDC00098",
+    "timestamp": "2026-08-26T21:42:34",
+    "buyer_app": "Ola",
+    "items": [
+      {
+        "sku_id": "SKU018",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU028",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU054",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU064",
+        "qty": 2
+      }
+    ],
+    "order_value": 521.0,
+    "status": "DELIVERED"
+  },
+  {
+    "order_id": "ONDC00097",
+    "timestamp": "2026-08-26T21:47:08",
+    "buyer_app": "PhonePe Pincode",
+    "items": [
+      {
+        "sku_id": "SKU079",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU084",
+        "qty": 1
+      }
+    ],
+    "order_value": 144.0,
+    "status": "DELIVERED"
+  },
+  {
+    "order_id": "ONDC00102",
+    "timestamp": "2026-08-27T09:27:52",
+    "buyer_app": "Paytm",
+    "items": [
+      {
+        "sku_id": "SKU057",
+        "qty": 3
+      }
+    ],
+    "order_value": 105.0,
+    "status": "DELIVERED"
+  },
+  {
+    "order_id": "ONDC00109",
+    "timestamp": "2026-08-27T09:42:36",
+    "buyer_app": "Ola",
+    "items": [
+      {
+        "sku_id": "SKU047",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU064",
+        "qty": 1
+      }
+    ],
+    "order_value": 23.0,
+    "status": "DELIVERED"
+  },
+  {
+    "order_id": "ONDC00103",
+    "timestamp": "2026-08-27T11:38:58",
+    "buyer_app": "Magicpin",
+    "items": [
+      {
+        "sku_id": "SKU010",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU032",
+        "qty": 3
+      },
+      {
+        "sku_id": "SKU091",
+        "qty": 1
+      }
+    ],
+    "order_value": 1044.0,
+    "status": "DELIVERED"
+  },
+  {
+    "order_id": "ONDC00106",
+    "timestamp": "2026-08-27T12:06:13",
+    "buyer_app": "PhonePe Pincode",
+    "items": [
+      {
+        "sku_id": "SKU010",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU037",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU094",
+        "qty": 3
+      }
+    ],
+    "order_value": 414.0,
+    "status": "DELIVERED"
+  },
+  {
+    "order_id": "ONDC00105",
+    "timestamp": "2026-08-27T16:14:48",
+    "buyer_app": "Ola",
+    "items": [
+      {
+        "sku_id": "SKU035",
+        "qty": 1
+      }
+    ],
+    "order_value": 135.0,
+    "status": "DELIVERED"
+  },
+  {
+    "order_id": "ONDC00110",
+    "timestamp": "2026-08-27T16:45:06",
+    "buyer_app": "Paytm",
+    "items": [
+      {
+        "sku_id": "SKU014",
+        "qty": 1
+      }
+    ],
+    "order_value": 27.0,
+    "status": "DELIVERED"
+  },
+  {
+    "order_id": "ONDC00108",
+    "timestamp": "2026-08-27T16:59:34",
+    "buyer_app": "Paytm",
+    "items": [
+      {
+        "sku_id": "SKU033",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU065",
+        "qty": 1
+      }
+    ],
+    "order_value": 51.0,
+    "status": "DELIVERED"
+  },
+  {
+    "order_id": "ONDC00104",
+    "timestamp": "2026-08-27T18:46:26",
+    "buyer_app": "Ola",
+    "items": [
+      {
+        "sku_id": "SKU023",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU032",
+        "qty": 1
+      }
+    ],
+    "order_value": 465.0,
+    "status": "DELIVERED"
+  },
+  {
+    "order_id": "ONDC00107",
+    "timestamp": "2026-08-27T19:14:49",
+    "buyer_app": "Ola",
+    "items": [
+      {
+        "sku_id": "SKU009",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU041",
+        "qty": 3
+      },
+      {
+        "sku_id": "SKU048",
+        "qty": 1
+      }
+    ],
+    "order_value": 160.0,
+    "status": "DELIVERED"
+  },
+  {
+    "order_id": "ONDC00111",
+    "timestamp": "2026-08-27T20:37:38",
+    "buyer_app": "Paytm",
+    "items": [
+      {
+        "sku_id": "SKU006",
+        "qty": 3
+      },
+      {
+        "sku_id": "SKU057",
+        "qty": 1
+      }
+    ],
+    "order_value": 95.0,
+    "status": "DELIVERED"
+  },
+  {
+    "order_id": "ONDC00113",
+    "timestamp": "2026-08-28T09:45:00",
+    "buyer_app": "PhonePe Pincode",
+    "items": [
+      {
+        "sku_id": "SKU016",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU034",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU072",
+        "qty": 2
+      }
+    ],
+    "order_value": 212.0,
+    "status": "DELIVERED"
+  },
+  {
+    "order_id": "ONDC00118",
+    "timestamp": "2026-08-28T14:41:46",
+    "buyer_app": "Paytm",
+    "items": [
+      {
+        "sku_id": "SKU003",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU017",
+        "qty": 1
+      }
+    ],
+    "order_value": 72.0,
+    "status": "DELIVERED"
+  },
+  {
+    "order_id": "ONDC00114",
+    "timestamp": "2026-08-28T14:57:32",
+    "buyer_app": "Paytm",
+    "items": [
+      {
+        "sku_id": "SKU005",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU035",
+        "qty": 3
+      }
+    ],
+    "order_value": 415.0,
+    "status": "DELIVERED"
+  },
+  {
+    "order_id": "ONDC00112",
+    "timestamp": "2026-08-28T15:03:31",
+    "buyer_app": "Ola",
+    "items": [
+      {
+        "sku_id": "SKU030",
+        "qty": 2
+      }
+    ],
+    "order_value": 124.0,
+    "status": "DELIVERED"
+  },
+  {
+    "order_id": "ONDC00116",
+    "timestamp": "2026-08-28T15:30:51",
+    "buyer_app": "Ola",
+    "items": [
+      {
+        "sku_id": "SKU008",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU056",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU078",
+        "qty": 2
+      }
+    ],
+    "order_value": 253.0,
+    "status": "DELIVERED"
+  },
+  {
+    "order_id": "ONDC00117",
+    "timestamp": "2026-08-28T16:41:28",
+    "buyer_app": "Paytm",
+    "items": [
+      {
+        "sku_id": "SKU020",
+        "qty": 2
+      },
+      {
+        "sku_id": "SKU060",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU065",
+        "qty": 2
+      }
+    ],
+    "order_value": 136.0,
+    "status": "DELIVERED"
+  },
+  {
+    "order_id": "ONDC00122",
+    "timestamp": "2026-08-28T18:05:26",
+    "buyer_app": "Magicpin",
+    "items": [
+      {
+        "sku_id": "SKU065",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU081",
+        "qty": 1
+      }
+    ],
+    "order_value": 88.0,
+    "status": "DELIVERED"
+  },
+  {
+    "order_id": "ONDC00124",
+    "timestamp": "2026-08-28T19:20:39",
+    "buyer_app": "Magicpin",
+    "items": [
+      {
+        "sku_id": "SKU015",
+        "qty": 2
+      },
+      {
+        "sku_id": "SKU016",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU036",
+        "qty": 2
+      }
+    ],
+    "order_value": 443.0,
+    "status": "DELIVERED"
+  },
+  {
+    "order_id": "ONDC00119",
+    "timestamp": "2026-08-28T19:28:32",
+    "buyer_app": "Ola",
+    "items": [
+      {
+        "sku_id": "SKU003",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU017",
+        "qty": 2
+      }
+    ],
+    "order_value": 134.0,
+    "status": "DELIVERED"
+  },
+  {
+    "order_id": "ONDC00115",
+    "timestamp": "2026-08-28T19:50:18",
+    "buyer_app": "Paytm",
+    "items": [
+      {
+        "sku_id": "SKU053",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU095",
+        "qty": 1
+      }
+    ],
+    "order_value": 170.0,
+    "status": "DELIVERED"
+  },
+  {
+    "order_id": "ONDC00120",
+    "timestamp": "2026-08-28T20:17:41",
+    "buyer_app": "Ola",
+    "items": [
+      {
+        "sku_id": "SKU001",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU008",
+        "qty": 1
+      }
+    ],
+    "order_value": 30.0,
+    "status": "DELIVERED"
+  },
+  {
+    "order_id": "ONDC00123",
+    "timestamp": "2026-08-28T20:59:02",
+    "buyer_app": "Magicpin",
+    "items": [
+      {
+        "sku_id": "SKU004",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU016",
+        "qty": 2
+      },
+      {
+        "sku_id": "SKU096",
+        "qty": 3
+      }
+    ],
+    "order_value": 268.0,
+    "status": "DELIVERED"
+  },
+  {
+    "order_id": "ONDC00121",
+    "timestamp": "2026-08-28T21:10:21",
+    "buyer_app": "Magicpin",
+    "items": [
+      {
+        "sku_id": "SKU035",
+        "qty": 1
+      }
+    ],
+    "order_value": 135.0,
+    "status": "DELIVERED"
+  },
+  {
+    "order_id": "ONDC00135",
+    "timestamp": "2026-08-29T10:51:33",
+    "buyer_app": "Ola",
+    "items": [
+      {
+        "sku_id": "SKU016",
+        "qty": 3
+      }
+    ],
+    "order_value": 81.0,
+    "status": "DELIVERED"
+  },
+  {
+    "order_id": "ONDC00126",
+    "timestamp": "2026-08-29T11:17:30",
+    "buyer_app": "Paytm",
+    "items": [
+      {
+        "sku_id": "SKU015",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU027",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU076",
+        "qty": 4
+      }
+    ],
+    "order_value": 181.0,
+    "status": "DELIVERED"
+  },
+  {
+    "order_id": "ONDC00125",
+    "timestamp": "2026-08-29T12:30:44",
+    "buyer_app": "Magicpin",
+    "items": [
+      {
+        "sku_id": "SKU007",
+        "qty": 1
+      }
+    ],
+    "order_value": 20.0,
+    "status": "DELIVERED"
+  },
+  {
+    "order_id": "ONDC00133",
+    "timestamp": "2026-08-29T15:07:52",
+    "buyer_app": "PhonePe Pincode",
+    "items": [
+      {
+        "sku_id": "SKU030",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU033",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU046",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU084",
+        "qty": 1
+      }
+    ],
+    "order_value": 195.0,
+    "status": "DELIVERED"
+  },
+  {
+    "order_id": "ONDC00134",
+    "timestamp": "2026-08-29T17:14:15",
+    "buyer_app": "Paytm",
+    "items": [
+      {
+        "sku_id": "SKU072",
+        "qty": 1
+      }
+    ],
+    "order_value": 20.0,
+    "status": "DELIVERED"
+  },
+  {
+    "order_id": "ONDC00127",
+    "timestamp": "2026-08-29T17:26:53",
+    "buyer_app": "Paytm",
+    "items": [
+      {
+        "sku_id": "SKU006",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU021",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU027",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU032",
+        "qty": 3
+      },
+      {
+        "sku_id": "SKU060",
+        "qty": 1
+      }
+    ],
+    "order_value": 1253.0,
+    "status": "DELIVERED"
+  },
+  {
+    "order_id": "ONDC00128",
+    "timestamp": "2026-08-29T17:40:58",
+    "buyer_app": "Paytm",
+    "items": [
+      {
+        "sku_id": "SKU002",
+        "qty": 3
+      },
+      {
+        "sku_id": "SKU025",
+        "qty": 3
+      },
+      {
+        "sku_id": "SKU072",
+        "qty": 1
+      }
+    ],
+    "order_value": 515.0,
+    "status": "DELIVERED"
+  },
+  {
+    "order_id": "ONDC00130",
+    "timestamp": "2026-08-29T18:07:27",
+    "buyer_app": "Paytm",
+    "items": [
+      {
+        "sku_id": "SKU044",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU064",
+        "qty": 1
+      }
+    ],
+    "order_value": 43.0,
+    "status": "DELIVERED"
+  },
+  {
+    "order_id": "ONDC00129",
+    "timestamp": "2026-08-29T18:54:11",
+    "buyer_app": "PhonePe Pincode",
+    "items": [
+      {
+        "sku_id": "SKU006",
+        "qty": 1
+      }
+    ],
+    "order_value": 20.0,
+    "status": "DELIVERED"
+  },
+  {
+    "order_id": "ONDC00132",
+    "timestamp": "2026-08-29T19:02:39",
+    "buyer_app": "Ola",
+    "items": [
+      {
+        "sku_id": "SKU002",
+        "qty": 1
+      }
+    ],
+    "order_value": 10.0,
+    "status": "DELIVERED"
+  },
+  {
+    "order_id": "ONDC00131",
+    "timestamp": "2026-08-29T21:38:50",
+    "buyer_app": "Ola",
+    "items": [
+      {
+        "sku_id": "SKU022",
+        "qty": 1
+      }
+    ],
+    "order_value": 135.0,
+    "status": "DELIVERED"
+  },
+  {
+    "order_id": "ONDC00141",
+    "timestamp": "2026-08-30T09:22:20",
+    "buyer_app": "Ola",
+    "items": [
+      {
+        "sku_id": "SKU023",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU030",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU061",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU099",
+        "qty": 1
+      }
+    ],
+    "order_value": 421.0,
+    "status": "DELIVERED"
+  },
+  {
+    "order_id": "ONDC00138",
+    "timestamp": "2026-08-30T14:12:33",
+    "buyer_app": "Paytm",
+    "items": [
+      {
+        "sku_id": "SKU014",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU020",
+        "qty": 3
+      }
+    ],
+    "order_value": 162.0,
+    "status": "DELIVERED"
+  },
+  {
+    "order_id": "ONDC00143",
+    "timestamp": "2026-08-30T14:32:03",
+    "buyer_app": "PhonePe Pincode",
+    "items": [
+      {
+        "sku_id": "SKU018",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU041",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU072",
+        "qty": 1
+      }
+    ],
+    "order_value": 355.0,
+    "status": "DELIVERED"
+  },
+  {
+    "order_id": "ONDC00137",
+    "timestamp": "2026-08-30T16:05:02",
+    "buyer_app": "Magicpin",
+    "items": [
+      {
+        "sku_id": "SKU003",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU016",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU030",
+        "qty": 3
+      }
+    ],
+    "order_value": 223.0,
+    "status": "DELIVERED"
+  },
+  {
+    "order_id": "ONDC00145",
+    "timestamp": "2026-08-30T16:13:07",
+    "buyer_app": "Paytm",
+    "items": [
+      {
+        "sku_id": "SKU001",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU025",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU030",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU031",
+        "qty": 3
+      }
+    ],
+    "order_value": 632.0,
+    "status": "DELIVERED"
+  },
+  {
+    "order_id": "ONDC00144",
+    "timestamp": "2026-08-30T16:37:44",
+    "buyer_app": "Paytm",
+    "items": [
+      {
+        "sku_id": "SKU011",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU029",
+        "qty": 2
+      },
+      {
+        "sku_id": "SKU030",
+        "qty": 3
+      },
+      {
+        "sku_id": "SKU056",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU086",
+        "qty": 1
+      }
+    ],
+    "order_value": 867.0,
+    "status": "DELIVERED"
+  },
+  {
+    "order_id": "ONDC00146",
+    "timestamp": "2026-08-30T16:38:03",
+    "buyer_app": "Ola",
+    "items": [
+      {
+        "sku_id": "SKU015",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU018",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU022",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU030",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU050",
+        "qty": 1
+      }
+    ],
+    "order_value": 650.0,
+    "status": "DELIVERED"
+  },
+  {
+    "order_id": "ONDC00139",
+    "timestamp": "2026-08-30T17:06:54",
+    "buyer_app": "Magicpin",
+    "items": [
+      {
+        "sku_id": "SKU019",
+        "qty": 1
+      }
+    ],
+    "order_value": 145.0,
+    "status": "DELIVERED"
+  },
+  {
+    "order_id": "ONDC00140",
+    "timestamp": "2026-08-30T17:17:30",
+    "buyer_app": "PhonePe Pincode",
+    "items": [
+      {
+        "sku_id": "SKU056",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU064",
+        "qty": 1
+      }
+    ],
+    "order_value": 38.0,
+    "status": "DELIVERED"
+  },
+  {
+    "order_id": "ONDC00136",
+    "timestamp": "2026-08-30T19:31:01",
+    "buyer_app": "Magicpin",
+    "items": [
+      {
+        "sku_id": "SKU007",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU097",
+        "qty": 1
+      }
+    ],
+    "order_value": 82.0,
+    "status": "DELIVERED"
+  },
+  {
+    "order_id": "ONDC00142",
+    "timestamp": "2026-08-30T19:39:45",
+    "buyer_app": "Ola",
+    "items": [
+      {
+        "sku_id": "SKU041",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU076",
+        "qty": 2
+      }
+    ],
+    "order_value": 100.0,
+    "status": "DELIVERED"
+  },
+  {
+    "order_id": "ONDC00147",
+    "timestamp": "2026-08-30T21:23:57",
+    "buyer_app": "Ola",
+    "items": [
+      {
+        "sku_id": "SKU010",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU037",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU064",
+        "qty": 3
+      },
+      {
+        "sku_id": "SKU081",
+        "qty": 3
+      },
+      {
+        "sku_id": "SKU088",
+        "qty": 3
+      }
+    ],
+    "order_value": 483.0,
+    "status": "DELIVERED"
+  },
+  {
+    "order_id": "ONDC00148",
+    "timestamp": "2026-08-31T11:04:41",
+    "buyer_app": "PhonePe Pincode",
+    "items": [
+      {
+        "sku_id": "SKU013",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU014",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU016",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU027",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU093",
+        "qty": 3
+      }
+    ],
+    "order_value": 126.0,
+    "status": "DELIVERED"
+  },
+  {
+    "order_id": "ONDC00154",
+    "timestamp": "2026-08-31T11:23:41",
+    "buyer_app": "Paytm",
+    "items": [
+      {
+        "sku_id": "SKU075",
+        "qty": 1
+      }
+    ],
+    "order_value": 165.0,
+    "status": "DELIVERED"
+  },
+  {
+    "order_id": "ONDC00159",
+    "timestamp": "2026-08-31T11:39:26",
+    "buyer_app": "Ola",
+    "items": [
+      {
+        "sku_id": "SKU046",
+        "qty": 3
+      },
+      {
+        "sku_id": "SKU079",
+        "qty": 2
+      }
+    ],
+    "order_value": 318.0,
+    "status": "DELIVERED"
+  },
+  {
+    "order_id": "ONDC00157",
+    "timestamp": "2026-08-31T15:39:51",
+    "buyer_app": "Magicpin",
+    "items": [
+      {
+        "sku_id": "SKU007",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU015",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU046",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU071",
+        "qty": 3
+      }
+    ],
+    "order_value": 297.0,
+    "status": "DELIVERED"
+  },
+  {
+    "order_id": "ONDC00149",
+    "timestamp": "2026-08-31T15:51:12",
+    "buyer_app": "Magicpin",
+    "items": [
+      {
+        "sku_id": "SKU059",
+        "qty": 1
+      }
+    ],
+    "order_value": 35.0,
+    "status": "DELIVERED"
+  },
+  {
+    "order_id": "ONDC00150",
+    "timestamp": "2026-08-31T16:49:25",
+    "buyer_app": "PhonePe Pincode",
+    "items": [
+      {
+        "sku_id": "SKU081",
+        "qty": 1
+      }
+    ],
+    "order_value": 85.0,
+    "status": "DELIVERED"
+  },
+  {
+    "order_id": "ONDC00152",
+    "timestamp": "2026-08-31T18:35:05",
+    "buyer_app": "Magicpin",
+    "items": [
+      {
+        "sku_id": "SKU016",
+        "qty": 3
+      },
+      {
+        "sku_id": "SKU035",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU076",
+        "qty": 1
+      }
+    ],
+    "order_value": 246.0,
+    "status": "DELIVERED"
+  },
+  {
+    "order_id": "ONDC00158",
+    "timestamp": "2026-08-31T19:11:00",
+    "buyer_app": "Ola",
+    "items": [
+      {
+        "sku_id": "SKU024",
+        "qty": 2
+      }
+    ],
+    "order_value": 350.0,
+    "status": "DELIVERED"
+  },
+  {
+    "order_id": "ONDC00151",
+    "timestamp": "2026-08-31T20:33:35",
+    "buyer_app": "Paytm",
+    "items": [
+      {
+        "sku_id": "SKU046",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU085",
+        "qty": 1
+      }
+    ],
+    "order_value": 60.0,
+    "status": "DELIVERED"
+  },
+  {
+    "order_id": "ONDC00156",
+    "timestamp": "2026-08-31T20:38:51",
+    "buyer_app": "Paytm",
+    "items": [
+      {
+        "sku_id": "SKU072",
+        "qty": 2
+      }
+    ],
+    "order_value": 40.0,
+    "status": "DELIVERED"
+  },
+  {
+    "order_id": "ONDC00153",
+    "timestamp": "2026-08-31T21:14:05",
+    "buyer_app": "Ola",
+    "items": [
+      {
+        "sku_id": "SKU014",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU057",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU065",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU076",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU088",
+        "qty": 3
+      }
+    ],
+    "order_value": 125.0,
+    "status": "DELIVERED"
+  },
+  {
+    "order_id": "ONDC00155",
+    "timestamp": "2026-08-31T21:31:25",
+    "buyer_app": "PhonePe Pincode",
+    "items": [
+      {
+        "sku_id": "SKU065",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU069",
+        "qty": 1
+      }
+    ],
+    "order_value": 102.0,
+    "status": "DELIVERED"
+  },
+  {
+    "order_id": "ONDC00168",
+    "timestamp": "2026-09-01T10:39:15",
+    "buyer_app": "PhonePe Pincode",
+    "items": [
+      {
+        "sku_id": "SKU047",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU063",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU070",
+        "qty": 1
+      }
+    ],
+    "order_value": 310.0,
+    "status": "DELIVERED"
+  },
+  {
+    "order_id": "ONDC00160",
+    "timestamp": "2026-09-01T11:25:34",
+    "buyer_app": "Ola",
+    "items": [
+      {
+        "sku_id": "SKU043",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU061",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU072",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU100",
+        "qty": 3
+      }
+    ],
+    "order_value": 504.0,
+    "status": "DELIVERED"
+  },
+  {
+    "order_id": "ONDC00167",
+    "timestamp": "2026-09-01T13:58:37",
+    "buyer_app": "Paytm",
+    "items": [
+      {
+        "sku_id": "SKU004",
+        "qty": 2
+      },
+      {
+        "sku_id": "SKU010",
+        "qty": 2
+      },
+      {
+        "sku_id": "SKU059",
+        "qty": 1
+      }
+    ],
+    "order_value": 83.0,
+    "status": "DELIVERED"
+  },
+  {
+    "order_id": "ONDC00161",
+    "timestamp": "2026-09-01T15:12:39",
+    "buyer_app": "Magicpin",
+    "items": [
+      {
+        "sku_id": "SKU028",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU045",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU089",
+        "qty": 1
+      }
+    ],
+    "order_value": 215.0,
+    "status": "DELIVERED"
+  },
+  {
+    "order_id": "ONDC00165",
+    "timestamp": "2026-09-01T16:06:35",
+    "buyer_app": "Magicpin",
+    "items": [
+      {
+        "sku_id": "SKU026",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU073",
+        "qty": 3
+      },
+      {
+        "sku_id": "SKU080",
+        "qty": 2
+      },
+      {
+        "sku_id": "SKU090",
+        "qty": 1
+      }
+    ],
+    "order_value": 1026.0,
+    "status": "DELIVERED"
+  },
+  {
+    "order_id": "ONDC00162",
+    "timestamp": "2026-09-01T17:36:54",
+    "buyer_app": "PhonePe Pincode",
+    "items": [
+      {
+        "sku_id": "SKU045",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU056",
+        "qty": 2
+      },
+      {
+        "sku_id": "SKU064",
+        "qty": 1
+      }
+    ],
+    "order_value": 113.0,
+    "status": "DELIVERED"
+  },
+  {
+    "order_id": "ONDC00166",
+    "timestamp": "2026-09-01T17:44:07",
+    "buyer_app": "Magicpin",
+    "items": [
+      {
+        "sku_id": "SKU010",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU016",
+        "qty": 3
+      },
+      {
+        "sku_id": "SKU024",
+        "qty": 3
+      }
+    ],
+    "order_value": 620.0,
+    "status": "DELIVERED"
+  },
+  {
+    "order_id": "ONDC00163",
+    "timestamp": "2026-09-01T18:55:00",
+    "buyer_app": "Paytm",
+    "items": [
+      {
+        "sku_id": "SKU031",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU058",
+        "qty": 1
+      }
+    ],
+    "order_value": 180.0,
+    "status": "DELIVERED"
+  },
+  {
+    "order_id": "ONDC00164",
+    "timestamp": "2026-09-01T20:16:57",
+    "buyer_app": "PhonePe Pincode",
+    "items": [
+      {
+        "sku_id": "SKU020",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU023",
+        "qty": 3
+      }
+    ],
+    "order_value": 420.0,
+    "status": "DELIVERED"
+  },
+  {
+    "order_id": "ONDC00172",
+    "timestamp": "2026-09-02T09:09:37",
+    "buyer_app": "PhonePe Pincode",
+    "items": [
+      {
+        "sku_id": "SKU013",
+        "qty": 1
+      }
+    ],
+    "order_value": 14.0,
+    "status": "DELIVERED"
+  },
+  {
+    "order_id": "ONDC00178",
+    "timestamp": "2026-09-02T09:50:51",
+    "buyer_app": "Magicpin",
+    "items": [
+      {
+        "sku_id": "SKU014",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU015",
+        "qty": 3
+      },
+      {
+        "sku_id": "SKU022",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU070",
+        "qty": 3
+      }
+    ],
+    "order_value": 636.0,
+    "status": "DELIVERED"
+  },
+  {
+    "order_id": "ONDC00183",
+    "timestamp": "2026-09-02T11:21:55",
+    "buyer_app": "Ola",
+    "items": [
+      {
+        "sku_id": "SKU031",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU055",
+        "qty": 1
+      }
+    ],
+    "order_value": 190.0,
+    "status": "DELIVERED"
+  },
+  {
+    "order_id": "ONDC00177",
+    "timestamp": "2026-09-02T12:48:50",
+    "buyer_app": "Ola",
+    "items": [
+      {
+        "sku_id": "SKU014",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU074",
+        "qty": 1
+      }
+    ],
+    "order_value": 142.0,
+    "status": "DELIVERED"
+  },
+  {
+    "order_id": "ONDC00179",
+    "timestamp": "2026-09-02T12:59:20",
+    "buyer_app": "PhonePe Pincode",
+    "items": [
+      {
+        "sku_id": "SKU028",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU045",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU097",
+        "qty": 1
+      }
+    ],
+    "order_value": 267.0,
+    "status": "DELIVERED"
+  },
+  {
+    "order_id": "ONDC00169",
+    "timestamp": "2026-09-02T15:08:59",
+    "buyer_app": "Ola",
+    "items": [
+      {
+        "sku_id": "SKU014",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU058",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU065",
+        "qty": 2
+      }
+    ],
+    "order_value": 78.0,
+    "status": "DELIVERED"
+  },
+  {
+    "order_id": "ONDC00175",
+    "timestamp": "2026-09-02T17:34:31",
+    "buyer_app": "Ola",
+    "items": [
+      {
+        "sku_id": "SKU001",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU030",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU041",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU042",
+        "qty": 1
+      }
+    ],
+    "order_value": 152.0,
+    "status": "DELIVERED"
+  },
+  {
+    "order_id": "ONDC00170",
+    "timestamp": "2026-09-02T17:44:43",
+    "buyer_app": "Magicpin",
+    "items": [
+      {
+        "sku_id": "SKU004",
+        "qty": 2
+      },
+      {
+        "sku_id": "SKU006",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU017",
+        "qty": 3
+      },
+      {
+        "sku_id": "SKU064",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU065",
+        "qty": 1
+      }
+    ],
+    "order_value": 232.0,
+    "status": "DELIVERED"
+  },
+  {
+    "order_id": "ONDC00181",
+    "timestamp": "2026-09-02T17:44:50",
+    "buyer_app": "PhonePe Pincode",
+    "items": [
+      {
+        "sku_id": "SKU007",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU014",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU016",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU042",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU077",
+        "qty": 3
+      }
+    ],
+    "order_value": 459.0,
+    "status": "DELIVERED"
+  },
+  {
+    "order_id": "ONDC00174",
+    "timestamp": "2026-09-02T18:20:28",
+    "buyer_app": "Paytm",
+    "items": [
+      {
+        "sku_id": "SKU016",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU092",
+        "qty": 3
+      }
+    ],
+    "order_value": 87.0,
+    "status": "DELIVERED"
+  },
+  {
+    "order_id": "ONDC00176",
+    "timestamp": "2026-09-02T18:23:49",
+    "buyer_app": "PhonePe Pincode",
+    "items": [
+      {
+        "sku_id": "SKU014",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU048",
+        "qty": 1
+      }
+    ],
+    "order_value": 47.0,
+    "status": "DELIVERED"
+  },
+  {
+    "order_id": "ONDC00182",
+    "timestamp": "2026-09-02T18:27:16",
+    "buyer_app": "Ola",
+    "items": [
+      {
+        "sku_id": "SKU003",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU048",
+        "qty": 1
+      }
+    ],
+    "order_value": 30.0,
+    "status": "DELIVERED"
+  },
+  {
+    "order_id": "ONDC00173",
+    "timestamp": "2026-09-02T19:19:08",
+    "buyer_app": "Ola",
+    "items": [
+      {
+        "sku_id": "SKU008",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU013",
+        "qty": 3
+      },
+      {
+        "sku_id": "SKU065",
+        "qty": 1
+      }
+    ],
+    "order_value": 65.0,
+    "status": "DELIVERED"
+  },
+  {
+    "order_id": "ONDC00180",
+    "timestamp": "2026-09-02T21:31:27",
+    "buyer_app": "Magicpin",
+    "items": [
+      {
+        "sku_id": "SKU009",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU035",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU092",
+        "qty": 1
+      }
+    ],
+    "order_value": 175.0,
+    "status": "DELIVERED"
+  },
+  {
+    "order_id": "ONDC00171",
+    "timestamp": "2026-09-02T21:56:41",
+    "buyer_app": "Ola",
+    "items": [
+      {
+        "sku_id": "SKU004",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU034",
+        "qty": 1
+      }
+    ],
+    "order_value": 155.0,
+    "status": "DELIVERED"
+  },
+  {
+    "order_id": "ONDC00189",
+    "timestamp": "2026-09-03T10:00:54",
+    "buyer_app": "PhonePe Pincode",
+    "items": [
+      {
+        "sku_id": "SKU017",
+        "qty": 1
+      }
+    ],
+    "order_value": 62.0,
+    "status": "DELIVERED"
+  },
+  {
+    "order_id": "ONDC00185",
+    "timestamp": "2026-09-03T10:55:48",
+    "buyer_app": "PhonePe Pincode",
+    "items": [
+      {
+        "sku_id": "SKU027",
+        "qty": 1
+      }
+    ],
+    "order_value": 28.0,
+    "status": "DELIVERED"
+  },
+  {
+    "order_id": "ONDC00187",
+    "timestamp": "2026-09-03T11:21:07",
+    "buyer_app": "PhonePe Pincode",
+    "items": [
+      {
+        "sku_id": "SKU035",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU037",
+        "qty": 3
+      }
+    ],
+    "order_value": 660.0,
+    "status": "DELIVERED"
+  },
+  {
+    "order_id": "ONDC00192",
+    "timestamp": "2026-09-03T12:55:39",
+    "buyer_app": "PhonePe Pincode",
+    "items": [
+      {
+        "sku_id": "SKU001",
+        "qty": 2
+      },
+      {
+        "sku_id": "SKU056",
+        "qty": 1
+      }
+    ],
+    "order_value": 55.0,
+    "status": "DELIVERED"
+  },
+  {
+    "order_id": "ONDC00184",
+    "timestamp": "2026-09-03T17:04:08",
+    "buyer_app": "Ola",
+    "items": [
+      {
+        "sku_id": "SKU014",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU071",
+        "qty": 1
+      }
+    ],
+    "order_value": 95.0,
+    "status": "DELIVERED"
+  },
+  {
+    "order_id": "ONDC00193",
+    "timestamp": "2026-09-03T17:06:11",
+    "buyer_app": "Paytm",
+    "items": [
+      {
+        "sku_id": "SKU008",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU099",
+        "qty": 1
+      }
+    ],
+    "order_value": 155.0,
+    "status": "DELIVERED"
+  },
+  {
+    "order_id": "ONDC00190",
+    "timestamp": "2026-09-03T17:13:53",
+    "buyer_app": "Magicpin",
+    "items": [
+      {
+        "sku_id": "SKU014",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU037",
+        "qty": 3
+      },
+      {
+        "sku_id": "SKU062",
+        "qty": 1
+      }
+    ],
+    "order_value": 737.0,
+    "status": "DELIVERED"
+  },
+  {
+    "order_id": "ONDC00191",
+    "timestamp": "2026-09-03T18:50:22",
+    "buyer_app": "Paytm",
+    "items": [
+      {
+        "sku_id": "SKU009",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU014",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU016",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU029",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU033",
+        "qty": 1
+      }
+    ],
+    "order_value": 407.0,
+    "status": "DELIVERED"
+  },
+  {
+    "order_id": "ONDC00186",
+    "timestamp": "2026-09-03T20:26:00",
+    "buyer_app": "PhonePe Pincode",
+    "items": [
+      {
+        "sku_id": "SKU014",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU029",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU071",
+        "qty": 1
+      }
+    ],
+    "order_value": 380.0,
+    "status": "DELIVERED"
+  },
+  {
+    "order_id": "ONDC00188",
+    "timestamp": "2026-09-03T21:39:04",
+    "buyer_app": "Ola",
+    "items": [
+      {
+        "sku_id": "SKU016",
+        "qty": 2
+      },
+      {
+        "sku_id": "SKU057",
+        "qty": 1
+      }
+    ],
+    "order_value": 89.0,
+    "status": "DELIVERED"
+  },
+  {
+    "order_id": "ONDC00197",
+    "timestamp": "2026-09-04T09:47:19",
+    "buyer_app": "Ola",
+    "items": [
+      {
+        "sku_id": "SKU003",
+        "qty": 2
+      },
+      {
+        "sku_id": "SKU077",
+        "qty": 2
+      },
+      {
+        "sku_id": "SKU084",
+        "qty": 1
+      }
+    ],
+    "order_value": 295.0,
+    "status": "DELIVERED"
+  },
+  {
+    "order_id": "ONDC00203",
+    "timestamp": "2026-09-04T10:03:08",
+    "buyer_app": "Paytm",
+    "items": [
+      {
+        "sku_id": "SKU061",
+        "qty": 3
+      },
+      {
+        "sku_id": "SKU082",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU094",
+        "qty": 1
+      }
+    ],
+    "order_value": 457.0,
+    "status": "DELIVERED"
+  },
+  {
+    "order_id": "ONDC00201",
+    "timestamp": "2026-09-04T11:48:02",
+    "buyer_app": "PhonePe Pincode",
+    "items": [
+      {
+        "sku_id": "SKU002",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU033",
+        "qty": 3
+      },
+      {
+        "sku_id": "SKU093",
+        "qty": 1
+      }
+    ],
+    "order_value": 164.0,
+    "status": "DELIVERED"
+  },
+  {
+    "order_id": "ONDC00204",
+    "timestamp": "2026-09-04T12:45:29",
+    "buyer_app": "Paytm",
+    "items": [
+      {
+        "sku_id": "SKU046",
+        "qty": 1
+      }
+    ],
+    "order_value": 40.0,
+    "status": "DELIVERED"
+  },
+  {
+    "order_id": "ONDC00195",
+    "timestamp": "2026-09-04T15:12:38",
+    "buyer_app": "PhonePe Pincode",
+    "items": [
+      {
+        "sku_id": "SKU024",
+        "qty": 2
+      },
+      {
+        "sku_id": "SKU032",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU064",
+        "qty": 1
+      }
+    ],
+    "order_value": 693.0,
+    "status": "DELIVERED"
+  },
+  {
+    "order_id": "ONDC00206",
+    "timestamp": "2026-09-04T16:06:40",
+    "buyer_app": "Paytm",
+    "items": [
+      {
+        "sku_id": "SKU014",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU041",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU072",
+        "qty": 3
+      }
+    ],
+    "order_value": 127.0,
+    "status": "DELIVERED"
+  },
+  {
+    "order_id": "ONDC00202",
+    "timestamp": "2026-09-04T16:25:51",
+    "buyer_app": "Paytm",
+    "items": [
+      {
+        "sku_id": "SKU076",
+        "qty": 1
+      }
+    ],
+    "order_value": 30.0,
+    "status": "DELIVERED"
+  },
+  {
+    "order_id": "ONDC00199",
+    "timestamp": "2026-09-04T18:11:02",
+    "buyer_app": "Ola",
+    "items": [
+      {
+        "sku_id": "SKU041",
+        "qty": 1
+      }
+    ],
+    "order_value": 40.0,
+    "status": "DELIVERED"
+  },
+  {
+    "order_id": "ONDC00200",
+    "timestamp": "2026-09-04T18:11:04",
+    "buyer_app": "Ola",
+    "items": [
+      {
+        "sku_id": "SKU058",
+        "qty": 1
+      }
+    ],
+    "order_value": 45.0,
+    "status": "DELIVERED"
+  },
+  {
+    "order_id": "ONDC00196",
+    "timestamp": "2026-09-04T18:34:09",
+    "buyer_app": "Magicpin",
+    "items": [
+      {
+        "sku_id": "SKU015",
+        "qty": 2
+      },
+      {
+        "sku_id": "SKU017",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU094",
+        "qty": 2
+      },
+      {
+        "sku_id": "SKU099",
+        "qty": 1
+      }
+    ],
+    "order_value": 413.0,
+    "status": "DELIVERED"
+  },
+  {
+    "order_id": "ONDC00194",
+    "timestamp": "2026-09-04T19:32:45",
+    "buyer_app": "Paytm",
+    "items": [
+      {
+        "sku_id": "SKU072",
+        "qty": 1
+      }
+    ],
+    "order_value": 20.0,
+    "status": "DELIVERED"
+  },
+  {
+    "order_id": "ONDC00198",
+    "timestamp": "2026-09-04T21:01:59",
+    "buyer_app": "Ola",
+    "items": [
+      {
+        "sku_id": "SKU002",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU009",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU039",
+        "qty": 1
+      }
+    ],
+    "order_value": 275.0,
+    "status": "DELIVERED"
+  },
+  {
+    "order_id": "ONDC00205",
+    "timestamp": "2026-09-04T21:13:18",
+    "buyer_app": "Ola",
+    "items": [
+      {
+        "sku_id": "SKU002",
+        "qty": 2
+      },
+      {
+        "sku_id": "SKU015",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU057",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU067",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU074",
+        "qty": 3
+      }
+    ],
+    "order_value": 618.0,
+    "status": "DELIVERED"
+  },
+  {
+    "order_id": "ONDC00207",
+    "timestamp": "2026-09-05T09:44:23",
+    "buyer_app": "Magicpin",
+    "items": [
+      {
+        "sku_id": "SKU081",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU095",
+        "qty": 2
+      }
+    ],
+    "order_value": 235.0,
+    "status": "DELIVERED"
+  },
+  {
+    "order_id": "ONDC00208",
+    "timestamp": "2026-09-05T10:09:36",
+    "buyer_app": "Paytm",
+    "items": [
+      {
+        "sku_id": "SKU065",
+        "qty": 3
+      }
+    ],
+    "order_value": 9.0,
+    "status": "DELIVERED"
+  },
+  {
+    "order_id": "ONDC00209",
+    "timestamp": "2026-09-05T13:36:00",
+    "buyer_app": "Ola",
+    "items": [
+      {
+        "sku_id": "SKU042",
+        "qty": 1
+      }
+    ],
+    "order_value": 40.0,
+    "status": "DELIVERED"
+  },
+  {
+    "order_id": "ONDC00211",
+    "timestamp": "2026-09-05T14:28:51",
+    "buyer_app": "PhonePe Pincode",
+    "items": [
+      {
+        "sku_id": "SKU042",
+        "qty": 1
+      }
+    ],
+    "order_value": 40.0,
+    "status": "DELIVERED"
+  },
+  {
+    "order_id": "ONDC00213",
+    "timestamp": "2026-09-05T15:54:46",
+    "buyer_app": "Magicpin",
+    "items": [
+      {
+        "sku_id": "SKU010",
+        "qty": 1
+      }
+    ],
+    "order_value": 14.0,
+    "status": "DELIVERED"
+  },
+  {
+    "order_id": "ONDC00214",
+    "timestamp": "2026-09-05T17:51:01",
+    "buyer_app": "Magicpin",
+    "items": [
+      {
+        "sku_id": "SKU001",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU012",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU017",
+        "qty": 2
+      }
+    ],
+    "order_value": 148.0,
+    "status": "DELIVERED"
+  },
+  {
+    "order_id": "ONDC00210",
+    "timestamp": "2026-09-05T18:13:34",
+    "buyer_app": "Magicpin",
+    "items": [
+      {
+        "sku_id": "SKU049",
+        "qty": 3
+      },
+      {
+        "sku_id": "SKU050",
+        "qty": 3
+      },
+      {
+        "sku_id": "SKU072",
+        "qty": 1
+      }
+    ],
+    "order_value": 770.0,
+    "status": "DELIVERED"
+  },
+  {
+    "order_id": "ONDC00212",
+    "timestamp": "2026-09-05T19:36:53",
+    "buyer_app": "PhonePe Pincode",
+    "items": [
+      {
+        "sku_id": "SKU020",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU072",
+        "qty": 1
+      }
+    ],
+    "order_value": 65.0,
+    "status": "DELIVERED"
+  },
+  {
+    "order_id": "ONDC00215",
+    "timestamp": "2026-09-05T20:35:03",
+    "buyer_app": "Ola",
+    "items": [
+      {
+        "sku_id": "SKU095",
+        "qty": 1
+      }
+    ],
+    "order_value": 75.0,
+    "status": "DELIVERED"
+  },
+  {
+    "order_id": "ONDC00218",
+    "timestamp": "2026-09-06T10:03:32",
+    "buyer_app": "PhonePe Pincode",
+    "items": [
+      {
+        "sku_id": "SKU047",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU076",
+        "qty": 3
+      }
+    ],
+    "order_value": 110.0,
+    "status": "DELIVERED"
+  },
+  {
+    "order_id": "ONDC00217",
+    "timestamp": "2026-09-06T11:09:09",
+    "buyer_app": "Paytm",
+    "items": [
+      {
+        "sku_id": "SKU035",
+        "qty": 1
+      }
+    ],
+    "order_value": 135.0,
+    "status": "DELIVERED"
+  },
+  {
+    "order_id": "ONDC00225",
+    "timestamp": "2026-09-06T11:28:15",
+    "buyer_app": "PhonePe Pincode",
+    "items": [
+      {
+        "sku_id": "SKU014",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU088",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU097",
+        "qty": 2
+      }
+    ],
+    "order_value": 161.0,
+    "status": "DELIVERED"
+  },
+  {
+    "order_id": "ONDC00216",
+    "timestamp": "2026-09-06T11:28:51",
+    "buyer_app": "Paytm",
+    "items": [
+      {
+        "sku_id": "SKU013",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU029",
+        "qty": 3
+      },
+      {
+        "sku_id": "SKU031",
+        "qty": 1
+      }
+    ],
+    "order_value": 1004.0,
+    "status": "DELIVERED"
+  },
+  {
+    "order_id": "ONDC00229",
+    "timestamp": "2026-09-06T13:29:32",
+    "buyer_app": "PhonePe Pincode",
+    "items": [
+      {
+        "sku_id": "SKU007",
+        "qty": 3
+      },
+      {
+        "sku_id": "SKU033",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU043",
+        "qty": 2
+      },
+      {
+        "sku_id": "SKU051",
+        "qty": 3
+      }
+    ],
+    "order_value": 353.0,
+    "status": "DELIVERED"
+  },
+  {
+    "order_id": "ONDC00221",
+    "timestamp": "2026-09-06T14:08:43",
+    "buyer_app": "Ola",
+    "items": [
+      {
+        "sku_id": "SKU001",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU015",
+        "qty": 1
+      }
+    ],
+    "order_value": 43.0,
+    "status": "DELIVERED"
+  },
+  {
+    "order_id": "ONDC00220",
+    "timestamp": "2026-09-06T16:53:42",
+    "buyer_app": "Magicpin",
+    "items": [
+      {
+        "sku_id": "SKU029",
+        "qty": 2
+      },
+      {
+        "sku_id": "SKU069",
+        "qty": 2
+      },
+      {
+        "sku_id": "SKU078",
+        "qty": 1
+      }
+    ],
+    "order_value": 867.0,
+    "status": "DELIVERED"
+  },
+  {
+    "order_id": "ONDC00231",
+    "timestamp": "2026-09-06T18:52:41",
+    "buyer_app": "Ola",
+    "items": [
+      {
+        "sku_id": "SKU002",
+        "qty": 2
+      },
+      {
+        "sku_id": "SKU080",
+        "qty": 1
+      }
+    ],
+    "order_value": 115.0,
+    "status": "DELIVERED"
+  },
+  {
+    "order_id": "ONDC00227",
+    "timestamp": "2026-09-06T18:55:09",
+    "buyer_app": "Paytm",
+    "items": [
+      {
+        "sku_id": "SKU056",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU065",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU072",
+        "qty": 2
+      }
+    ],
+    "order_value": 78.0,
+    "status": "DELIVERED"
+  },
+  {
+    "order_id": "ONDC00226",
+    "timestamp": "2026-09-06T19:07:02",
+    "buyer_app": "PhonePe Pincode",
+    "items": [
+      {
+        "sku_id": "SKU043",
+        "qty": 1
+      }
+    ],
+    "order_value": 40.0,
+    "status": "DELIVERED"
+  },
+  {
+    "order_id": "ONDC00228",
+    "timestamp": "2026-09-06T19:23:28",
+    "buyer_app": "Paytm",
+    "items": [
+      {
+        "sku_id": "SKU025",
+        "qty": 1
+      }
+    ],
+    "order_value": 155.0,
+    "status": "DELIVERED"
+  },
+  {
+    "order_id": "ONDC00222",
+    "timestamp": "2026-09-06T19:26:15",
+    "buyer_app": "Magicpin",
+    "items": [
+      {
+        "sku_id": "SKU086",
+        "qty": 2
+      }
+    ],
+    "order_value": 40.0,
+    "status": "DELIVERED"
+  },
+  {
+    "order_id": "ONDC00230",
+    "timestamp": "2026-09-06T19:28:12",
+    "buyer_app": "Magicpin",
+    "items": [
+      {
+        "sku_id": "SKU003",
+        "qty": 2
+      },
+      {
+        "sku_id": "SKU027",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU054",
+        "qty": 3
+      },
+      {
+        "sku_id": "SKU064",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU074",
+        "qty": 2
+      }
+    ],
+    "order_value": 446.0,
+    "status": "DELIVERED"
+  },
+  {
+    "order_id": "ONDC00223",
+    "timestamp": "2026-09-06T19:37:56",
+    "buyer_app": "PhonePe Pincode",
+    "items": [
+      {
+        "sku_id": "SKU064",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU072",
+        "qty": 2
+      },
+      {
+        "sku_id": "SKU076",
+        "qty": 1
+      }
+    ],
+    "order_value": 73.0,
+    "status": "DELIVERED"
+  },
+  {
+    "order_id": "ONDC00224",
+    "timestamp": "2026-09-06T21:35:06",
+    "buyer_app": "Paytm",
+    "items": [
+      {
+        "sku_id": "SKU088",
+        "qty": 1
+      }
+    ],
+    "order_value": 10.0,
+    "status": "DELIVERED"
+  },
+  {
+    "order_id": "ONDC00219",
+    "timestamp": "2026-09-06T21:36:53",
+    "buyer_app": "PhonePe Pincode",
+    "items": [
+      {
+        "sku_id": "SKU065",
+        "qty": 1
+      }
+    ],
+    "order_value": 3.0,
+    "status": "DELIVERED"
+  },
+  {
+    "order_id": "ONDC00233",
+    "timestamp": "2026-09-07T09:12:38",
+    "buyer_app": "Magicpin",
+    "items": [
+      {
+        "sku_id": "SKU020",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU026",
+        "qty": 1
+      }
+    ],
+    "order_value": 685.0,
+    "status": "DELIVERED"
+  },
+  {
+    "order_id": "ONDC00241",
+    "timestamp": "2026-09-07T09:42:25",
+    "buyer_app": "Ola",
+    "items": [
+      {
+        "sku_id": "SKU082",
+        "qty": 3
+      }
+    ],
+    "order_value": 255.0,
+    "status": "DELIVERED"
+  },
+  {
+    "order_id": "ONDC00237",
+    "timestamp": "2026-09-07T10:42:19",
+    "buyer_app": "Magicpin",
+    "items": [
+      {
+        "sku_id": "SKU023",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU029",
+        "qty": 2
+      }
+    ],
+    "order_value": 695.0,
+    "status": "DELIVERED"
+  },
+  {
+    "order_id": "ONDC00240",
+    "timestamp": "2026-09-07T11:20:33",
+    "buyer_app": "PhonePe Pincode",
+    "items": [
+      {
+        "sku_id": "SKU004",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU010",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU016",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU030",
+        "qty": 1
+      }
+    ],
+    "order_value": 113.0,
+    "status": "DELIVERED"
+  },
+  {
+    "order_id": "ONDC00242",
+    "timestamp": "2026-09-07T13:23:29",
+    "buyer_app": "Paytm",
+    "items": [
+      {
+        "sku_id": "SKU010",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU042",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU047",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU082",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU091",
+        "qty": 1
+      }
+    ],
+    "order_value": 169.0,
+    "status": "DELIVERED"
+  },
+  {
+    "order_id": "ONDC00243",
+    "timestamp": "2026-09-07T13:27:33",
+    "buyer_app": "PhonePe Pincode",
+    "items": [
+      {
+        "sku_id": "SKU002",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU020",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU041",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU093",
+        "qty": 1
+      }
+    ],
+    "order_value": 105.0,
+    "status": "DELIVERED"
+  },
+  {
+    "order_id": "ONDC00238",
+    "timestamp": "2026-09-07T14:11:49",
+    "buyer_app": "PhonePe Pincode",
+    "items": [
+      {
+        "sku_id": "SKU039",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU065",
+        "qty": 1
+      }
+    ],
+    "order_value": 248.0,
+    "status": "DELIVERED"
+  },
+  {
+    "order_id": "ONDC00235",
+    "timestamp": "2026-09-07T14:44:14",
+    "buyer_app": "PhonePe Pincode",
+    "items": [
+      {
+        "sku_id": "SKU022",
+        "qty": 2
+      },
+      {
+        "sku_id": "SKU038",
+        "qty": 1
+      }
+    ],
+    "order_value": 425.0,
+    "status": "DELIVERED"
+  },
+  {
+    "order_id": "ONDC00234",
+    "timestamp": "2026-09-07T14:55:11",
+    "buyer_app": "PhonePe Pincode",
+    "items": [
+      {
+        "sku_id": "SKU003",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU047",
+        "qty": 1
+      }
+    ],
+    "order_value": 30.0,
+    "status": "DELIVERED"
+  },
+  {
+    "order_id": "ONDC00236",
+    "timestamp": "2026-09-07T15:57:29",
+    "buyer_app": "Paytm",
+    "items": [
+      {
+        "sku_id": "SKU022",
+        "qty": 2
+      },
+      {
+        "sku_id": "SKU031",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU053",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU059",
+        "qty": 1
+      }
+    ],
+    "order_value": 535.0,
+    "status": "DELIVERED"
+  },
+  {
+    "order_id": "ONDC00239",
+    "timestamp": "2026-09-07T18:32:52",
+    "buyer_app": "Ola",
+    "items": [
+      {
+        "sku_id": "SKU014",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU027",
+        "qty": 1
+      }
+    ],
+    "order_value": 55.0,
+    "status": "DELIVERED"
+  },
+  {
+    "order_id": "ONDC00232",
+    "timestamp": "2026-09-07T21:45:49",
+    "buyer_app": "Ola",
+    "items": [
+      {
+        "sku_id": "SKU047",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU076",
+        "qty": 2
+      },
+      {
+        "sku_id": "SKU090",
+        "qty": 1
+      }
+    ],
+    "order_value": 90.0,
+    "status": "DELIVERED"
+  },
+  {
+    "order_id": "ONDC00246",
+    "timestamp": "2026-09-08T10:06:47",
+    "buyer_app": "PhonePe Pincode",
+    "items": [
+      {
+        "sku_id": "SKU016",
+        "qty": 4
+      },
+      {
+        "sku_id": "SKU041",
+        "qty": 2
+      }
+    ],
+    "order_value": 188.0,
+    "status": "DELIVERED"
+  },
+  {
+    "order_id": "ONDC00247",
+    "timestamp": "2026-09-08T11:05:18",
+    "buyer_app": "Paytm",
+    "items": [
+      {
+        "sku_id": "SKU007",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU044",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU093",
+        "qty": 3
+      },
+      {
+        "sku_id": "SKU101",
+        "qty": 1
+      }
+    ],
+    "order_value": 225.0,
+    "status": "DELIVERED"
+  },
+  {
+    "order_id": "ONDC00250",
+    "timestamp": "2026-09-08T11:09:09",
+    "buyer_app": "Ola",
+    "items": [
+      {
+        "sku_id": "SKU010",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU027",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU053",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU085",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU087",
+        "qty": 2
+      }
+    ],
+    "order_value": 197.0,
+    "status": "DELIVERED"
+  },
+  {
+    "order_id": "ONDC00248",
+    "timestamp": "2026-09-08T11:18:03",
+    "buyer_app": "PhonePe Pincode",
+    "items": [
+      {
+        "sku_id": "SKU005",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU041",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU064",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU081",
+        "qty": 1
+      }
+    ],
+    "order_value": 138.0,
+    "status": "DELIVERED"
+  },
+  {
+    "order_id": "ONDC00245",
+    "timestamp": "2026-09-08T11:50:53",
+    "buyer_app": "Ola",
+    "items": [
+      {
+        "sku_id": "SKU015",
+        "qty": 2
+      },
+      {
+        "sku_id": "SKU042",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU093",
+        "qty": 1
+      }
+    ],
+    "order_value": 116.0,
+    "status": "DELIVERED"
+  },
+  {
+    "order_id": "ONDC00249",
+    "timestamp": "2026-09-08T18:41:26",
+    "buyer_app": "Magicpin",
+    "items": [
+      {
+        "sku_id": "SKU006",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU021",
+        "qty": 1
+      }
+    ],
+    "order_value": 165.0,
+    "status": "DELIVERED"
+  },
+  {
+    "order_id": "ONDC00252",
+    "timestamp": "2026-09-08T19:20:48",
+    "buyer_app": "Magicpin",
+    "items": [
+      {
+        "sku_id": "SKU015",
+        "qty": 3
+      },
+      {
+        "sku_id": "SKU059",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU092",
+        "qty": 2
+      }
+    ],
+    "order_value": 174.0,
+    "status": "DELIVERED"
+  },
+  {
+    "order_id": "ONDC00251",
+    "timestamp": "2026-09-08T20:32:09",
+    "buyer_app": "PhonePe Pincode",
+    "items": [
+      {
+        "sku_id": "SKU028",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU050",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU055",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU057",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU058",
+        "qty": 1
+      }
+    ],
+    "order_value": 425.0,
+    "status": "DELIVERED"
+  },
+  {
+    "order_id": "ONDC00244",
+    "timestamp": "2026-09-08T21:06:01",
+    "buyer_app": "PhonePe Pincode",
+    "items": [
+      {
+        "sku_id": "SKU014",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU072",
+        "qty": 2
+      }
+    ],
+    "order_value": 67.0,
+    "status": "DELIVERED"
+  },
+  {
+    "order_id": "ONDC00256",
+    "timestamp": "2026-09-09T11:53:38",
+    "buyer_app": "Ola",
+    "items": [
+      {
+        "sku_id": "SKU011",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU016",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU042",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU077",
+        "qty": 1
+      }
+    ],
+    "order_value": 238.0,
+    "status": "DELIVERED"
+  },
+  {
+    "order_id": "ONDC00261",
+    "timestamp": "2026-09-09T12:44:21",
+    "buyer_app": "Magicpin",
+    "items": [
+      {
+        "sku_id": "SKU015",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU065",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU071",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU072",
+        "qty": 1
+      }
+    ],
+    "order_value": 124.0,
+    "status": "DELIVERED"
+  },
+  {
+    "order_id": "ONDC00253",
+    "timestamp": "2026-09-09T12:44:52",
+    "buyer_app": "PhonePe Pincode",
+    "items": [
+      {
+        "sku_id": "SKU031",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU047",
+        "qty": 1
+      }
+    ],
+    "order_value": 155.0,
+    "status": "DELIVERED"
+  },
+  {
+    "order_id": "ONDC00258",
+    "timestamp": "2026-09-09T12:51:29",
+    "buyer_app": "Paytm",
+    "items": [
+      {
+        "sku_id": "SKU082",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU094",
+        "qty": 1
+      }
+    ],
+    "order_value": 160.0,
+    "status": "DELIVERED"
+  },
+  {
+    "order_id": "ONDC00259",
+    "timestamp": "2026-09-09T15:18:44",
+    "buyer_app": "Ola",
+    "items": [
+      {
+        "sku_id": "SKU007",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU056",
+        "qty": 3
+      }
+    ],
+    "order_value": 125.0,
+    "status": "DELIVERED"
+  },
+  {
+    "order_id": "ONDC00257",
+    "timestamp": "2026-09-09T17:37:22",
+    "buyer_app": "Ola",
+    "items": [
+      {
+        "sku_id": "SKU001",
+        "qty": 2
+      },
+      {
+        "sku_id": "SKU048",
+        "qty": 2
+      }
+    ],
+    "order_value": 60.0,
+    "status": "DELIVERED"
+  },
+  {
+    "order_id": "ONDC00260",
+    "timestamp": "2026-09-09T18:34:56",
+    "buyer_app": "PhonePe Pincode",
+    "items": [
+      {
+        "sku_id": "SKU033",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU065",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU076",
+        "qty": 1
+      }
+    ],
+    "order_value": 81.0,
+    "status": "DELIVERED"
+  },
+  {
+    "order_id": "ONDC00255",
+    "timestamp": "2026-09-09T18:43:30",
+    "buyer_app": "Ola",
+    "items": [
+      {
+        "sku_id": "SKU004",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU025",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU072",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU075",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU095",
+        "qty": 1
+      }
+    ],
+    "order_value": 425.0,
+    "status": "DELIVERED"
+  },
+  {
+    "order_id": "ONDC00254",
+    "timestamp": "2026-09-09T20:31:04",
+    "buyer_app": "Ola",
+    "items": [
+      {
+        "sku_id": "SKU030",
+        "qty": 1
+      }
+    ],
+    "order_value": 62.0,
+    "status": "DELIVERED"
+  },
+  {
+    "order_id": "ONDC00270",
+    "timestamp": "2026-09-10T11:40:55",
+    "buyer_app": "Magicpin",
+    "items": [
+      {
+        "sku_id": "SKU020",
+        "qty": 1
+      }
+    ],
+    "order_value": 45.0,
+    "status": "DELIVERED"
+  },
+  {
+    "order_id": "ONDC00267",
+    "timestamp": "2026-09-10T11:57:40",
+    "buyer_app": "PhonePe Pincode",
+    "items": [
+      {
+        "sku_id": "SKU015",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU096",
+        "qty": 1
+      }
+    ],
+    "order_value": 101.0,
+    "status": "DELIVERED"
+  },
+  {
+    "order_id": "ONDC00269",
+    "timestamp": "2026-09-10T12:08:22",
+    "buyer_app": "PhonePe Pincode",
+    "items": [
+      {
+        "sku_id": "SKU001",
+        "qty": 3
+      },
+      {
+        "sku_id": "SKU058",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU072",
+        "qty": 1
+      }
+    ],
+    "order_value": 95.0,
+    "status": "DELIVERED"
+  },
+  {
+    "order_id": "ONDC00264",
+    "timestamp": "2026-09-10T14:44:45",
+    "buyer_app": "Magicpin",
+    "items": [
+      {
+        "sku_id": "SKU096",
+        "qty": 1
+      }
+    ],
+    "order_value": 68.0,
+    "status": "DELIVERED"
+  },
+  {
+    "order_id": "ONDC00265",
+    "timestamp": "2026-09-10T18:24:47",
+    "buyer_app": "Magicpin",
+    "items": [
+      {
+        "sku_id": "SKU002",
+        "qty": 3
+      },
+      {
+        "sku_id": "SKU009",
+        "qty": 3
+      },
+      {
+        "sku_id": "SKU088",
+        "qty": 1
+      }
+    ],
+    "order_value": 100.0,
+    "status": "DELIVERED"
+  },
+  {
+    "order_id": "ONDC00263",
+    "timestamp": "2026-09-10T19:31:43",
+    "buyer_app": "Magicpin",
+    "items": [
+      {
+        "sku_id": "SKU007",
+        "qty": 2
+      }
+    ],
+    "order_value": 40.0,
+    "status": "DELIVERED"
+  },
+  {
+    "order_id": "ONDC00266",
+    "timestamp": "2026-09-10T19:39:52",
+    "buyer_app": "Paytm",
+    "items": [
+      {
+        "sku_id": "SKU008",
+        "qty": 3
+      },
+      {
+        "sku_id": "SKU065",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU077",
+        "qty": 1
+      }
+    ],
+    "order_value": 178.0,
+    "status": "DELIVERED"
+  },
+  {
+    "order_id": "ONDC00268",
+    "timestamp": "2026-09-10T20:39:13",
+    "buyer_app": "PhonePe Pincode",
+    "items": [
+      {
+        "sku_id": "SKU043",
+        "qty": 3
+      },
+      {
+        "sku_id": "SKU058",
+        "qty": 3
+      }
+    ],
+    "order_value": 255.0,
+    "status": "DELIVERED"
+  },
+  {
+    "order_id": "ONDC00262",
+    "timestamp": "2026-09-10T21:43:09",
+    "buyer_app": "Paytm",
+    "items": [
+      {
+        "sku_id": "SKU014",
+        "qty": 2
+      },
+      {
+        "sku_id": "SKU026",
+        "qty": 1
+      }
+    ],
+    "order_value": 694.0,
+    "status": "DELIVERED"
+  },
+  {
+    "order_id": "ONDC00277",
+    "timestamp": "2026-09-11T10:42:49",
+    "buyer_app": "Ola",
+    "items": [
+      {
+        "sku_id": "SKU031",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU064",
+        "qty": 3
+      },
+      {
+        "sku_id": "SKU091",
+        "qty": 3
+      }
+    ],
+    "order_value": 174.0,
+    "status": "DELIVERED"
+  },
+  {
+    "order_id": "ONDC00276",
+    "timestamp": "2026-09-11T10:51:39",
+    "buyer_app": "Ola",
+    "items": [
+      {
+        "sku_id": "SKU010",
+        "qty": 3
+      },
+      {
+        "sku_id": "SKU018",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU064",
+        "qty": 1
+      }
+    ],
+    "order_value": 340.0,
+    "status": "DELIVERED"
+  },
+  {
+    "order_id": "ONDC00273",
+    "timestamp": "2026-09-11T11:39:43",
+    "buyer_app": "Magicpin",
+    "items": [
+      {
+        "sku_id": "SKU014",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU065",
+        "qty": 1
+      }
+    ],
+    "order_value": 30.0,
+    "status": "DELIVERED"
+  },
+  {
+    "order_id": "ONDC00280",
+    "timestamp": "2026-09-11T12:13:48",
+    "buyer_app": "PhonePe Pincode",
+    "items": [
+      {
+        "sku_id": "SKU016",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU020",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU091",
+        "qty": 3
+      },
+      {
+        "sku_id": "SKU100",
+        "qty": 1
+      }
+    ],
+    "order_value": 217.0,
+    "status": "DELIVERED"
+  },
+  {
+    "order_id": "ONDC00279",
+    "timestamp": "2026-09-11T16:42:29",
+    "buyer_app": "PhonePe Pincode",
+    "items": [
+      {
+        "sku_id": "SKU033",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU042",
+        "qty": 3
+      },
+      {
+        "sku_id": "SKU047",
+        "qty": 1
+      }
+    ],
+    "order_value": 188.0,
+    "status": "DELIVERED"
+  },
+  {
+    "order_id": "ONDC00271",
+    "timestamp": "2026-09-11T17:36:10",
+    "buyer_app": "PhonePe Pincode",
+    "items": [
+      {
+        "sku_id": "SKU010",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU011",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU095",
+        "qty": 2
+      }
+    ],
+    "order_value": 220.0,
+    "status": "DELIVERED"
+  },
+  {
+    "order_id": "ONDC00275",
+    "timestamp": "2026-09-11T18:06:46",
+    "buyer_app": "Magicpin",
+    "items": [
+      {
+        "sku_id": "SKU034",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU081",
+        "qty": 2
+      }
+    ],
+    "order_value": 315.0,
+    "status": "DELIVERED"
+  },
+  {
+    "order_id": "ONDC00272",
+    "timestamp": "2026-09-11T19:00:24",
+    "buyer_app": "Ola",
+    "items": [
+      {
+        "sku_id": "SKU014",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU015",
+        "qty": 1
+      }
+    ],
+    "order_value": 60.0,
+    "status": "DELIVERED"
+  },
+  {
+    "order_id": "ONDC00274",
+    "timestamp": "2026-09-11T21:11:24",
+    "buyer_app": "Magicpin",
+    "items": [
+      {
+        "sku_id": "SKU020",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU056",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU084",
+        "qty": 1
+      }
+    ],
+    "order_value": 125.0,
+    "status": "DELIVERED"
+  },
+  {
+    "order_id": "ONDC00278",
+    "timestamp": "2026-09-11T21:13:20",
+    "buyer_app": "PhonePe Pincode",
+    "items": [
+      {
+        "sku_id": "SKU014",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU074",
+        "qty": 1
+      }
+    ],
+    "order_value": 142.0,
+    "status": "DELIVERED"
+  },
+  {
+    "order_id": "ONDC00292",
+    "timestamp": "2026-09-12T10:30:41",
+    "buyer_app": "Paytm",
+    "items": [
+      {
+        "sku_id": "SKU026",
+        "qty": 2
+      }
+    ],
+    "order_value": 1280.0,
+    "status": "DELIVERED"
+  },
+  {
+    "order_id": "ONDC00285",
+    "timestamp": "2026-09-12T10:58:11",
+    "buyer_app": "Magicpin",
+    "items": [
+      {
+        "sku_id": "SKU013",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU024",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU028",
+        "qty": 2
+      },
+      {
+        "sku_id": "SKU064",
+        "qty": 1
+      }
+    ],
+    "order_value": 522.0,
+    "status": "DELIVERED"
+  },
+  {
+    "order_id": "ONDC00289",
+    "timestamp": "2026-09-12T11:31:00",
+    "buyer_app": "Magicpin",
+    "items": [
+      {
+        "sku_id": "SKU020",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU057",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU065",
+        "qty": 1
+      }
+    ],
+    "order_value": 83.0,
+    "status": "DELIVERED"
+  },
+  {
+    "order_id": "ONDC00291",
+    "timestamp": "2026-09-12T11:33:45",
+    "buyer_app": "Ola",
+    "items": [
+      {
+        "sku_id": "SKU061",
+        "qty": 1
+      }
+    ],
+    "order_value": 99.0,
+    "status": "DELIVERED"
+  },
+  {
+    "order_id": "ONDC00288",
+    "timestamp": "2026-09-12T14:21:24",
+    "buyer_app": "PhonePe Pincode",
+    "items": [
+      {
+        "sku_id": "SKU020",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU022",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU070",
+        "qty": 2
+      }
+    ],
+    "order_value": 430.0,
+    "status": "DELIVERED"
+  },
+  {
+    "order_id": "ONDC00286",
+    "timestamp": "2026-09-12T15:00:54",
+    "buyer_app": "Ola",
+    "items": [
+      {
+        "sku_id": "SKU014",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU057",
+        "qty": 3
+      },
+      {
+        "sku_id": "SKU065",
+        "qty": 2
+      }
+    ],
+    "order_value": 138.0,
+    "status": "DELIVERED"
+  },
+  {
+    "order_id": "ONDC00290",
+    "timestamp": "2026-09-12T15:30:52",
+    "buyer_app": "Magicpin",
+    "items": [
+      {
+        "sku_id": "SKU026",
+        "qty": 2
+      },
+      {
+        "sku_id": "SKU047",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU064",
+        "qty": 3
+      },
+      {
+        "sku_id": "SKU073",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU097",
+        "qty": 1
+      }
+    ],
+    "order_value": 1433.0,
+    "status": "DELIVERED"
+  },
+  {
+    "order_id": "ONDC00293",
+    "timestamp": "2026-09-12T16:59:04",
+    "buyer_app": "Ola",
+    "items": [
+      {
+        "sku_id": "SKU031",
+        "qty": 1
+      }
+    ],
+    "order_value": 135.0,
+    "status": "DELIVERED"
+  },
+  {
+    "order_id": "ONDC00287",
+    "timestamp": "2026-09-12T17:04:04",
+    "buyer_app": "Magicpin",
+    "items": [
+      {
+        "sku_id": "SKU033",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU059",
+        "qty": 1
+      }
+    ],
+    "order_value": 83.0,
+    "status": "DELIVERED"
+  },
+  {
+    "order_id": "ONDC00294",
+    "timestamp": "2026-09-12T18:43:31",
+    "buyer_app": "Magicpin",
+    "items": [
+      {
+        "sku_id": "SKU010",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU023",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU027",
+        "qty": 3
+      },
+      {
+        "sku_id": "SKU079",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU099",
+        "qty": 1
+      }
+    ],
+    "order_value": 457.0,
+    "status": "DELIVERED"
+  },
+  {
+    "order_id": "ONDC00282",
+    "timestamp": "2026-09-12T19:24:45",
+    "buyer_app": "Magicpin",
+    "items": [
+      {
+        "sku_id": "SKU071",
+        "qty": 1
+      }
+    ],
+    "order_value": 68.0,
+    "status": "DELIVERED"
+  },
+  {
+    "order_id": "ONDC00284",
+    "timestamp": "2026-09-12T20:07:15",
+    "buyer_app": "Magicpin",
+    "items": [
+      {
+        "sku_id": "SKU006",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU014",
+        "qty": 1
+      }
+    ],
+    "order_value": 47.0,
+    "status": "DELIVERED"
+  },
+  {
+    "order_id": "ONDC00295",
+    "timestamp": "2026-09-12T20:59:04",
+    "buyer_app": "Magicpin",
+    "items": [
+      {
+        "sku_id": "SKU015",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU036",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU037",
+        "qty": 3
+      },
+      {
+        "sku_id": "SKU047",
+        "qty": 3
+      }
+    ],
+    "order_value": 793.0,
+    "status": "DELIVERED"
+  },
+  {
+    "order_id": "ONDC00283",
+    "timestamp": "2026-09-12T21:11:09",
+    "buyer_app": "Magicpin",
+    "items": [
+      {
+        "sku_id": "SKU007",
+        "qty": 1
+      }
+    ],
+    "order_value": 20.0,
+    "status": "DELIVERED"
+  },
+  {
+    "order_id": "ONDC00281",
+    "timestamp": "2026-09-12T21:31:59",
+    "buyer_app": "PhonePe Pincode",
+    "items": [
+      {
+        "sku_id": "SKU033",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU059",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU064",
+        "qty": 2
+      }
+    ],
+    "order_value": 89.0,
+    "status": "DELIVERED"
+  },
+  {
+    "order_id": "ONDC00306",
+    "timestamp": "2026-09-13T09:52:02",
+    "buyer_app": "Paytm",
+    "items": [
+      {
+        "sku_id": "SKU014",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU045",
+        "qty": 1
+      }
+    ],
+    "order_value": 67.0,
+    "status": "DELIVERED"
+  },
+  {
+    "order_id": "ONDC00296",
+    "timestamp": "2026-09-13T10:52:36",
+    "buyer_app": "Paytm",
+    "items": [
+      {
+        "sku_id": "SKU027",
+        "qty": 2
+      },
+      {
+        "sku_id": "SKU048",
+        "qty": 1
+      }
+    ],
+    "order_value": 76.0,
+    "status": "DELIVERED"
+  },
+  {
+    "order_id": "ONDC00310",
+    "timestamp": "2026-09-13T11:02:05",
+    "buyer_app": "Magicpin",
+    "items": [
+      {
+        "sku_id": "SKU004",
+        "qty": 3
+      },
+      {
+        "sku_id": "SKU016",
+        "qty": 1
+      }
+    ],
+    "order_value": 57.0,
+    "status": "DELIVERED"
+  },
+  {
+    "order_id": "ONDC00301",
+    "timestamp": "2026-09-13T12:43:20",
+    "buyer_app": "Paytm",
+    "items": [
+      {
+        "sku_id": "SKU003",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU095",
+        "qty": 1
+      }
+    ],
+    "order_value": 85.0,
+    "status": "DELIVERED"
+  },
+  {
+    "order_id": "ONDC00300",
+    "timestamp": "2026-09-13T14:16:18",
+    "buyer_app": "Paytm",
+    "items": [
+      {
+        "sku_id": "SKU010",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU014",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU030",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU056",
+        "qty": 1
+      }
+    ],
+    "order_value": 138.0,
+    "status": "DELIVERED"
+  },
+  {
+    "order_id": "ONDC00299",
+    "timestamp": "2026-09-13T14:34:25",
+    "buyer_app": "Magicpin",
+    "items": [
+      {
+        "sku_id": "SKU004",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU007",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU081",
+        "qty": 3
+      }
+    ],
+    "order_value": 285.0,
+    "status": "DELIVERED"
+  },
+  {
+    "order_id": "ONDC00305",
+    "timestamp": "2026-09-13T15:16:16",
+    "buyer_app": "Paytm",
+    "items": [
+      {
+        "sku_id": "SKU070",
+        "qty": 1
+      }
+    ],
+    "order_value": 125.0,
+    "status": "DELIVERED"
+  },
+  {
+    "order_id": "ONDC00307",
+    "timestamp": "2026-09-13T16:17:45",
+    "buyer_app": "Magicpin",
+    "items": [
+      {
+        "sku_id": "SKU025",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU064",
+        "qty": 1
+      }
+    ],
+    "order_value": 158.0,
+    "status": "DELIVERED"
+  },
+  {
+    "order_id": "ONDC00308",
+    "timestamp": "2026-09-13T17:04:38",
+    "buyer_app": "PhonePe Pincode",
+    "items": [
+      {
+        "sku_id": "SKU016",
+        "qty": 3
+      },
+      {
+        "sku_id": "SKU027",
+        "qty": 1
+      }
+    ],
+    "order_value": 109.0,
+    "status": "DELIVERED"
+  },
+  {
+    "order_id": "ONDC00302",
+    "timestamp": "2026-09-13T17:05:27",
+    "buyer_app": "Ola",
+    "items": [
+      {
+        "sku_id": "SKU002",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU083",
+        "qty": 2
+      }
+    ],
+    "order_value": 160.0,
+    "status": "DELIVERED"
+  },
+  {
+    "order_id": "ONDC00309",
+    "timestamp": "2026-09-13T17:48:53",
+    "buyer_app": "PhonePe Pincode",
+    "items": [
+      {
+        "sku_id": "SKU008",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU041",
+        "qty": 3
+      }
+    ],
+    "order_value": 140.0,
+    "status": "DELIVERED"
+  },
+  {
+    "order_id": "ONDC00303",
+    "timestamp": "2026-09-13T18:34:33",
+    "buyer_app": "Paytm",
+    "items": [
+      {
+        "sku_id": "SKU001",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU012",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU015",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU047",
+        "qty": 1
+      }
+    ],
+    "order_value": 77.0,
+    "status": "DELIVERED"
+  },
+  {
+    "order_id": "ONDC00297",
+    "timestamp": "2026-09-13T19:51:28",
+    "buyer_app": "Magicpin",
+    "items": [
+      {
+        "sku_id": "SKU022",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU062",
+        "qty": 1
+      }
+    ],
+    "order_value": 320.0,
+    "status": "DELIVERED"
+  },
+  {
+    "order_id": "ONDC00304",
+    "timestamp": "2026-09-13T20:55:16",
+    "buyer_app": "Magicpin",
+    "items": [
+      {
+        "sku_id": "SKU046",
+        "qty": 3
+      }
+    ],
+    "order_value": 120.0,
+    "status": "DELIVERED"
+  },
+  {
+    "order_id": "ONDC00298",
+    "timestamp": "2026-09-13T20:59:20",
+    "buyer_app": "Magicpin",
+    "items": [
+      {
+        "sku_id": "SKU010",
+        "qty": 3
+      },
+      {
+        "sku_id": "SKU043",
+        "qty": 3
+      }
+    ],
+    "order_value": 162.0,
+    "status": "DELIVERED"
+  },
+  {
+    "order_id": "ONDC00315",
+    "timestamp": "2026-09-14T13:31:02",
+    "buyer_app": "Magicpin",
+    "items": [
+      {
+        "sku_id": "SKU045",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU083",
+        "qty": 1
+      }
+    ],
+    "order_value": 115.0,
+    "status": "DELIVERED"
+  },
+  {
+    "order_id": "ONDC00312",
+    "timestamp": "2026-09-14T14:30:22",
+    "buyer_app": "PhonePe Pincode",
+    "items": [
+      {
+        "sku_id": "SKU047",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU072",
+        "qty": 1
+      }
+    ],
+    "order_value": 40.0,
+    "status": "DELIVERED"
+  },
+  {
+    "order_id": "ONDC00320",
+    "timestamp": "2026-09-14T15:07:12",
+    "buyer_app": "PhonePe Pincode",
+    "items": [
+      {
+        "sku_id": "SKU042",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU079",
+        "qty": 1
+      }
+    ],
+    "order_value": 139.0,
+    "status": "DELIVERED"
+  },
+  {
+    "order_id": "ONDC00314",
+    "timestamp": "2026-09-14T15:09:17",
+    "buyer_app": "Paytm",
+    "items": [
+      {
+        "sku_id": "SKU076",
+        "qty": 1
+      }
+    ],
+    "order_value": 30.0,
+    "status": "DELIVERED"
+  },
+  {
+    "order_id": "ONDC00313",
+    "timestamp": "2026-09-14T16:04:49",
+    "buyer_app": "Paytm",
+    "items": [
+      {
+        "sku_id": "SKU010",
+        "qty": 3
+      }
+    ],
+    "order_value": 42.0,
+    "status": "DELIVERED"
+  },
+  {
+    "order_id": "ONDC00318",
+    "timestamp": "2026-09-14T17:12:23",
+    "buyer_app": "Ola",
+    "items": [
+      {
+        "sku_id": "SKU027",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU064",
+        "qty": 1
+      }
+    ],
+    "order_value": 31.0,
+    "status": "DELIVERED"
+  },
+  {
+    "order_id": "ONDC00319",
+    "timestamp": "2026-09-14T18:17:23",
+    "buyer_app": "PhonePe Pincode",
+    "items": [
+      {
+        "sku_id": "SKU064",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU085",
+        "qty": 1
+      }
+    ],
+    "order_value": 23.0,
+    "status": "DELIVERED"
+  },
+  {
+    "order_id": "ONDC00311",
+    "timestamp": "2026-09-14T18:28:18",
+    "buyer_app": "Magicpin",
+    "items": [
+      {
+        "sku_id": "SKU091",
+        "qty": 1
+      }
+    ],
+    "order_value": 10.0,
+    "status": "DELIVERED"
+  },
+  {
+    "order_id": "ONDC00316",
+    "timestamp": "2026-09-14T18:47:25",
+    "buyer_app": "Paytm",
+    "items": [
+      {
+        "sku_id": "SKU005",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU048",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU057",
+        "qty": 2
+      }
+    ],
+    "order_value": 100.0,
+    "status": "DELIVERED"
+  },
+  {
+    "order_id": "ONDC00317",
+    "timestamp": "2026-09-14T21:56:41",
+    "buyer_app": "Paytm",
+    "items": [
+      {
+        "sku_id": "SKU010",
+        "qty": 3
+      },
+      {
+        "sku_id": "SKU043",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU044",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU065",
+        "qty": 1
+      }
+    ],
+    "order_value": 125.0,
+    "status": "DELIVERED"
+  },
+  {
+    "order_id": "ONDC00330",
+    "timestamp": "2026-09-15T10:10:34",
+    "buyer_app": "PhonePe Pincode",
+    "items": [
+      {
+        "sku_id": "SKU011",
+        "qty": 2
+      }
+    ],
+    "order_value": 112.0,
+    "status": "DELIVERED"
+  },
+  {
+    "order_id": "ONDC00326",
+    "timestamp": "2026-09-15T10:59:21",
+    "buyer_app": "Ola",
+    "items": [
+      {
+        "sku_id": "SKU014",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU017",
+        "qty": 1
+      }
+    ],
+    "order_value": 89.0,
+    "status": "DELIVERED"
+  },
+  {
+    "order_id": "ONDC00327",
+    "timestamp": "2026-09-15T11:46:57",
+    "buyer_app": "Paytm",
+    "items": [
+      {
+        "sku_id": "SKU065",
+        "qty": 3
+      }
+    ],
+    "order_value": 9.0,
+    "status": "DELIVERED"
+  },
+  {
+    "order_id": "ONDC00325",
+    "timestamp": "2026-09-15T13:05:33",
+    "buyer_app": "PhonePe Pincode",
+    "items": [
+      {
+        "sku_id": "SKU010",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU014",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU054",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU070",
+        "qty": 2
+      }
+    ],
+    "order_value": 346.0,
+    "status": "DELIVERED"
+  },
+  {
+    "order_id": "ONDC00329",
+    "timestamp": "2026-09-15T15:51:26",
+    "buyer_app": "PhonePe Pincode",
+    "items": [
+      {
+        "sku_id": "SKU006",
+        "qty": 2
+      }
+    ],
+    "order_value": 40.0,
+    "status": "DELIVERED"
+  },
+  {
+    "order_id": "ONDC00322",
+    "timestamp": "2026-09-15T16:10:29",
+    "buyer_app": "Paytm",
+    "items": [
+      {
+        "sku_id": "SKU014",
+        "qty": 2
+      },
+      {
+        "sku_id": "SKU056",
+        "qty": 1
+      }
+    ],
+    "order_value": 89.0,
+    "status": "DELIVERED"
+  },
+  {
+    "order_id": "ONDC00321",
+    "timestamp": "2026-09-15T18:21:40",
+    "buyer_app": "PhonePe Pincode",
+    "items": [
+      {
+        "sku_id": "SKU014",
+        "qty": 2
+      },
+      {
+        "sku_id": "SKU085",
+        "qty": 1
+      }
+    ],
+    "order_value": 74.0,
+    "status": "DELIVERED"
+  },
+  {
+    "order_id": "ONDC00323",
+    "timestamp": "2026-09-15T18:54:33",
+    "buyer_app": "Ola",
+    "items": [
+      {
+        "sku_id": "SKU036",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU096",
+        "qty": 2
+      }
+    ],
+    "order_value": 311.0,
+    "status": "DELIVERED"
+  },
+  {
+    "order_id": "ONDC00324",
+    "timestamp": "2026-09-15T20:19:42",
+    "buyer_app": "Paytm",
+    "items": [
+      {
+        "sku_id": "SKU014",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU065",
+        "qty": 3
+      }
+    ],
+    "order_value": 36.0,
+    "status": "DELIVERED"
+  },
+  {
+    "order_id": "ONDC00328",
+    "timestamp": "2026-09-15T20:54:49",
+    "buyer_app": "Magicpin",
+    "items": [
+      {
+        "sku_id": "SKU033",
+        "qty": 3
+      },
+      {
+        "sku_id": "SKU048",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU081",
+        "qty": 1
+      }
+    ],
+    "order_value": 249.0,
+    "status": "DELIVERED"
+  },
+  {
+    "order_id": "ONDC00331",
+    "timestamp": "2026-09-16T11:12:36",
+    "buyer_app": "Ola",
+    "items": [
+      {
+        "sku_id": "SKU015",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU031",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU077",
+        "qty": 2
+      }
+    ],
+    "order_value": 398.0,
+    "status": "DELIVERED"
+  },
+  {
+    "order_id": "ONDC00333",
+    "timestamp": "2026-09-16T11:29:33",
+    "buyer_app": "PhonePe Pincode",
+    "items": [
+      {
+        "sku_id": "SKU011",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU045",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU055",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU079",
+        "qty": 1
+      }
+    ],
+    "order_value": 250.0,
+    "status": "DELIVERED"
+  },
+  {
+    "order_id": "ONDC00332",
+    "timestamp": "2026-09-16T11:58:58",
+    "buyer_app": "Ola",
+    "items": [
+      {
+        "sku_id": "SKU066",
+        "qty": 1
+      }
+    ],
+    "order_value": 199.0,
+    "status": "DELIVERED"
+  },
+  {
+    "order_id": "ONDC00334",
+    "timestamp": "2026-09-16T16:43:10",
+    "buyer_app": "Magicpin",
+    "items": [
+      {
+        "sku_id": "SKU043",
+        "qty": 2
+      },
+      {
+        "sku_id": "SKU052",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU093",
+        "qty": 1
+      }
+    ],
+    "order_value": 189.0,
+    "status": "DELIVERED"
+  },
+  {
+    "order_id": "ONDC00335",
+    "timestamp": "2026-09-16T19:33:42",
+    "buyer_app": "Magicpin",
+    "items": [
+      {
+        "sku_id": "SKU003",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU008",
+        "qty": 1
+      },
+      {
+        "sku_id": "SKU016",
+        "qty": 1
+      }
+    ],
+    "order_value": 57.0,
+    "status": "DELIVERED"
+  }
+]

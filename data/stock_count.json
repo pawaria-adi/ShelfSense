@@ -1,0 +1,409 @@
+{
+  "count_date": "2026-09-17",
+  "counts": [
+    {
+      "sku_id": "SKU001",
+      "on_hand": 56
+    },
+    {
+      "sku_id": "SKU002",
+      "on_hand": 8
+    },
+    {
+      "sku_id": "SKU003",
+      "on_hand": 32
+    },
+    {
+      "sku_id": "SKU004",
+      "on_hand": 26
+    },
+    {
+      "sku_id": "SKU005",
+      "on_hand": 0
+    },
+    {
+      "sku_id": "SKU006",
+      "on_hand": 0
+    },
+    {
+      "sku_id": "SKU007",
+      "on_hand": 2
+    },
+    {
+      "sku_id": "SKU008",
+      "on_hand": 8
+    },
+    {
+      "sku_id": "SKU009",
+      "on_hand": 0
+    },
+    {
+      "sku_id": "SKU010",
+      "on_hand": 0
+    },
+    {
+      "sku_id": "SKU011",
+      "on_hand": 16
+    },
+    {
+      "sku_id": "SKU012",
+      "on_hand": 10
+    },
+    {
+      "sku_id": "SKU013",
+      "on_hand": 0
+    },
+    {
+      "sku_id": "SKU014",
+      "on_hand": 10
+    },
+    {
+      "sku_id": "SKU015",
+      "on_hand": 2
+    },
+    {
+      "sku_id": "SKU016",
+      "on_hand": 2
+    },
+    {
+      "sku_id": "SKU017",
+      "on_hand": 2
+    },
+    {
+      "sku_id": "SKU018",
+      "on_hand": 5
+    },
+    {
+      "sku_id": "SKU019",
+      "on_hand": 1
+    },
+    {
+      "sku_id": "SKU020",
+      "on_hand": 2
+    },
+    {
+      "sku_id": "SKU021",
+      "on_hand": 0
+    },
+    {
+      "sku_id": "SKU022",
+      "on_hand": 3
+    },
+    {
+      "sku_id": "SKU023",
+      "on_hand": 1
+    },
+    {
+      "sku_id": "SKU024",
+      "on_hand": 11
+    },
+    {
+      "sku_id": "SKU025",
+      "on_hand": 1
+    },
+    {
+      "sku_id": "SKU026",
+      "on_hand": 12
+    },
+    {
+      "sku_id": "SKU027",
+      "on_hand": 39
+    },
+    {
+      "sku_id": "SKU028",
+      "on_hand": 5
+    },
+    {
+      "sku_id": "SKU029",
+      "on_hand": 0
+    },
+    {
+      "sku_id": "SKU030",
+      "on_hand": 14
+    },
+    {
+      "sku_id": "SKU031",
+      "on_hand": 3
+    },
+    {
+      "sku_id": "SKU032",
+      "on_hand": 8
+    },
+    {
+      "sku_id": "SKU033",
+      "on_hand": 2
+    },
+    {
+      "sku_id": "SKU034",
+      "on_hand": 13
+    },
+    {
+      "sku_id": "SKU035",
+      "on_hand": 12
+    },
+    {
+      "sku_id": "SKU036",
+      "on_hand": 5
+    },
+    {
+      "sku_id": "SKU037",
+      "on_hand": 0
+    },
+    {
+      "sku_id": "SKU038",
+      "on_hand": 4
+    },
+    {
+      "sku_id": "SKU039",
+      "on_hand": 3
+    },
+    {
+      "sku_id": "SKU040",
+      "on_hand": 4
+    },
+    {
+      "sku_id": "SKU041",
+      "on_hand": 0
+    },
+    {
+      "sku_id": "SKU042",
+      "on_hand": 17
+    },
+    {
+      "sku_id": "SKU043",
+      "on_hand": 10
+    },
+    {
+      "sku_id": "SKU044",
+      "on_hand": 16
+    },
+    {
+      "sku_id": "SKU045",
+      "on_hand": 22
+    },
+    {
+      "sku_id": "SKU046",
+      "on_hand": 39
+    },
+    {
+      "sku_id": "SKU047",
+      "on_hand": 44
+    },
+    {
+      "sku_id": "SKU048",
+      "on_hand": 0
+    },
+    {
+      "sku_id": "SKU049",
+      "on_hand": 1
+    },
+    {
+      "sku_id": "SKU050",
+      "on_hand": 5
+    },
+    {
+      "sku_id": "SKU051",
+      "on_hand": 0
+    },
+    {
+      "sku_id": "SKU052",
+      "on_hand": 4
+    },
+    {
+      "sku_id": "SKU053",
+      "on_hand": 4
+    },
+    {
+      "sku_id": "SKU054",
+      "on_hand": 10
+    },
+    {
+      "sku_id": "SKU055",
+      "on_hand": 4
+    },
+    {
+      "sku_id": "SKU056",
+      "on_hand": 8
+    },
+    {
+      "sku_id": "SKU057",
+      "on_hand": 3
+    },
+    {
+      "sku_id": "SKU058",
+      "on_hand": 5
+    },
+    {
+      "sku_id": "SKU059",
+      "on_hand": 30
+    },
+    {
+      "sku_id": "SKU060",
+      "on_hand": 12
+    },
+    {
+      "sku_id": "SKU061",
+      "on_hand": 3
+    },
+    {
+      "sku_id": "SKU062",
+      "on_hand": 2
+    },
+    {
+      "sku_id": "SKU063",
+      "on_hand": 0
+    },
+    {
+      "sku_id": "SKU064",
+      "on_hand": 9
+    },
+    {
+      "sku_id": "SKU065",
+      "on_hand": 8
+    },
+    {
+      "sku_id": "SKU066",
+      "on_hand": 2
+    },
+    {
+      "sku_id": "SKU067",
+      "on_hand": 1
+    },
+    {
+      "sku_id": "SKU068",
+      "on_hand": 1
+    },
+    {
+      "sku_id": "SKU069",
+      "on_hand": 3
+    },
+    {
+      "sku_id": "SKU070",
+      "on_hand": 4
+    },
+    {
+      "sku_id": "SKU071",
+      "on_hand": 1
+    },
+    {
+      "sku_id": "SKU072",
+      "on_hand": 0
+    },
+    {
+      "sku_id": "SKU073",
+      "on_hand": 3
+    },
+    {
+      "sku_id": "SKU074",
+      "on_hand": 10
+    },
+    {
+      "sku_id": "SKU075",
+      "on_hand": 0
+    },
+    {
+      "sku_id": "SKU076",
+      "on_hand": 48
+    },
+    {
+      "sku_id": "SKU077",
+      "on_hand": 13
+    },
+    {
+      "sku_id": "SKU078",
+      "on_hand": 5
+    },
+    {
+      "sku_id": "SKU079",
+      "on_hand": 2
+    },
+    {
+      "sku_id": "SKU080",
+      "on_hand": 0
+    },
+    {
+      "sku_id": "SKU081",
+      "on_hand": 8
+    },
+    {
+      "sku_id": "SKU082",
+      "on_hand": 3
+    },
+    {
+      "sku_id": "SKU083",
+      "on_hand": 2
+    },
+    {
+      "sku_id": "SKU084",
+      "on_hand": 4
+    },
+    {
+      "sku_id": "SKU085",
+      "on_hand": 4
+    },
+    {
+      "sku_id": "SKU086",
+      "on_hand": 10
+    },
+    {
+      "sku_id": "SKU087",
+      "on_hand": 28
+    },
+    {
+      "sku_id": "SKU088",
+      "on_hand": 24
+    },
+    {
+      "sku_id": "SKU089",
+      "on_hand": 8
+    },
+    {
+      "sku_id": "SKU090",
+      "on_hand": 11
+    },
+    {
+      "sku_id": "SKU091",
+      "on_hand": 18
+    },
+    {
+      "sku_id": "SKU092",
+      "on_hand": 11
+    },
+    {
+      "sku_id": "SKU093",
+      "on_hand": 22
+    },
+    {
+      "sku_id": "SKU094",
+      "on_hand": 5
+    },
+    {
+      "sku_id": "SKU095",
+      "on_hand": 6
+    },
+    {
+      "sku_id": "SKU096",
+      "on_hand": 5
+    },
+    {
+      "sku_id": "SKU097",
+      "on_hand": 5
+    },
+    {
+      "sku_id": "SKU098",
+      "on_hand": 1
+    },
+    {
+      "sku_id": "SKU099",
+      "on_hand": 13
+    },
+    {
+      "sku_id": "SKU100",
+      "on_hand": 0
+    },
+    {
+      "sku_id": "SKU101",
+      "on_hand": 6
+    }
+  ]
+}

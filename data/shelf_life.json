@@ -1,0 +1,18 @@
+{
+  "_about": "Typical days from delivery to expiry. Used when a bill does not print an expiry date. product_days overrides category_days. Edit to match what your suppliers actually deliver.",
+  "category_days": {
+    "Biscuits": 180, "Snacks": 120, "Noodles": 270, "Dairy": 180, "Oil": 270,
+    "Staples": 365, "Beverages": 180, "Personal": 1095, "Home Care": 1095,
+    "Confection": 270, "Spices": 365, "Spreads": 365
+  },
+  "product_days": {
+    "SKU014": 2, "SKU015": 2, "SKU016": 2,
+    "SKU020": 5,
+    "SKU017": 180, "SKU018": 180, "SKU019": 180, "SKU021": 270,
+    "SKU027": 730, "SKU028": 365, "SKU029": 90, "SKU030": 90, "SKU031": 540, "SKU032": 540, "SKU033": 730,
+    "SKU034": 365, "SKU035": 365, "SKU036": 365, "SKU037": 540, "SKU038": 540, "SKU039": 365, "SKU040": 365,
+    "SKU045": 180, "SKU046": 180, "SKU047": 180, "SKU048": 180, "SKU049": 270, "SKU050": 270,
+    "SKU089": 365, "SKU090": 365, "SKU091": 365, "SKU092": 365,
+    "SKU098": 540, "SKU099": 365, "SKU100": 365, "SKU101": 365
+  }
+}

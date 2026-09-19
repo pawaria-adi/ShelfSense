@@ -1,0 +1,56 @@
+{
+  "date": "2026-09-17",
+  "items_to_order": 53,
+  "sales_source": "estimate",
+  "spend_today": 51752.88,
+  "simulation": {
+    "ShelfSense": {
+      "spend": 137117.2,
+      "orders": 181.9,
+      "demand": 2916.1,
+      "sold": 2817.8,
+      "lost_margin": 1650.4,
+      "stockout_sku_days": 44.0,
+      "waste": 937.7,
+      "avg_stock_value": 61693.1,
+      "fill_rate_pct": 96.6,
+      "stock_days_of_sales": 7.5
+    },
+    "+ billing station": {
+      "spend": 140950.4,
+      "orders": 177.1,
+      "demand": 2918.6,
+      "sold": 2848.7,
+      "lost_margin": 752.3,
+      "stockout_sku_days": 27.5,
+      "waste": 415.7,
+      "avg_stock_value": 60880.4,
+      "fill_rate_pct": 97.6,
+      "stock_days_of_sales": 7.4
+    },
+    "Perfect knowledge": {
+      "spend": 138578.4,
+      "orders": 172.1,
+      "demand": 2919.6,
+      "sold": 2848.1,
+      "lost_margin": 852.2,
+      "stockout_sku_days": 29.3,
+      "waste": 395.9,
+      "avg_stock_value": 59082.2,
+      "fill_rate_pct": 97.6,
+      "stock_days_of_sales": 7.1
+    },
+    "Gut feel": {
+      "spend": 139348.9,
+      "orders": 145.7,
+      "demand": 2916.2,
+      "sold": 2547.6,
+      "lost_margin": 2616.2,
+      "stockout_sku_days": 112.1,
+      "waste": 2214.9,
+      "avg_stock_value": 63041.3,
+      "fill_rate_pct": 87.4,
+      "stock_days_of_sales": 7.6
+    }
+  }
+}

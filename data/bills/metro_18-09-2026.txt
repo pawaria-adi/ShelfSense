@@ -1,0 +1,15 @@
+METRO WHOLESALERS
+Plot 7, Industrial Area
+GSTIN: DEMO-GSTIN-MW02
+TAX INVOICE
+Invoice No: MW-26-09-0913    Date: 18-09-2026
+Bill To: Demo Kirana Store, Sector 4 Market
+------------------------------------------------------------------------------
+ #  ITEM                                 HSN  GST%   QTY      RATE      AMOUNT
+------------------------------------------------------------------------------
+ 1  MAGGI MASALA NDL 70G                1902    18    96     10.50     1008.00
+ 2  CLINIC PLUS SHMP SACHET 6ML         3305    18   120      2.25      270.00
+------------------------------------------------------------------------------
+                                                 TOTAL (incl. GST)     1278.00
+Items: 2
+Goods once sold will not be taken back. E&OE.

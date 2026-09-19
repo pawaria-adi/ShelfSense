@@ -1,0 +1,2396 @@
+{
+ "count_date": "2026-09-18",
+ "based_on_count": "2026-09-17",
+ "sales_source_days": {
+  "billing_station": [],
+  "estimate": [
+   "2026-09-17"
+  ]
+ },
+ "deliveries_applied": [
+  "Gupta Traders INV/GT/4471",
+  "Metro Wholesalers MW-26-09-0913",
+  "Sharma Distributors SD/2026/1188"
+ ],
+ "counts": [
+  {
+   "sku_id": "SKU001",
+   "on_hand": 74
+  },
+  {
+   "sku_id": "SKU002",
+   "on_hand": 52
+  },
+  {
+   "sku_id": "SKU003",
+   "on_hand": 29
+  },
+  {
+   "sku_id": "SKU004",
+   "on_hand": 23
+  },
+  {
+   "sku_id": "SKU005",
+   "on_hand": 24
+  },
+  {
+   "sku_id": "SKU006",
+   "on_hand": 24
+  },
+  {
+   "sku_id": "SKU007",
+   "on_hand": 0
+  },
+  {
+   "sku_id": "SKU008",
+   "on_hand": 29
+  },
+  {
+   "sku_id": "SKU009",
+   "on_hand": 48
+  },
+  {
+   "sku_id": "SKU010",
+   "on_hand": 96
+  },
+  {
+   "sku_id": "SKU011",
+   "on_hand": 14
+  },
+  {
+   "sku_id": "SKU012",
+   "on_hand": 8
+  },
+  {
+   "sku_id": "SKU013",
+   "on_hand": 24
+  },
+  {
+   "sku_id": "SKU014",
+   "on_hand": 12
+  },
+  {
+   "sku_id": "SKU015",
+   "on_hand": 12
+  },
+  {
+   "sku_id": "SKU016",
+   "on_hand": 12
+  },
+  {
+   "sku_id": "SKU017",
+   "on_hand": 24
+  },
+  {
+   "sku_id": "SKU018",
+   "on_hand": 4
+  },
+  {
+   "sku_id": "SKU019",
+   "on_hand": 12
+  },
+  {
+   "sku_id": "SKU020",
+   "on_hand": 12
+  },
+  {
+   "sku_id": "SKU021",
+   "on_hand": 6
+  },
+  {
+   "sku_id": "SKU022",
+   "on_hand": 25
+  },
+  {
+   "sku_id": "SKU023",
+   "on_hand": 12
+  },
+  {
+   "sku_id": "SKU024",
+   "on_hand": 10
+  },
+  {
+   "sku_id": "SKU025",
+   "on_hand": 12
+  },
+  {
+   "sku_id": "SKU026",
+   "on_hand": 12
+  },
+  {
+   "sku_id": "SKU027",
+   "on_hand": 36
+  },
+  {
+   "sku_id": "SKU028",
+   "on_hand": 4
+  },
+  {
+   "sku_id": "SKU029",
+   "on_hand": 12
+  },
+  {
+   "sku_id": "SKU030",
+   "on_hand": 12
+  },
+  {
+   "sku_id": "SKU031",
+   "on_hand": 14
+  },
+  {
+   "sku_id": "SKU032",
+   "on_hand": 7
+  },
+  {
+   "sku_id": "SKU033",
+   "on_hand": 48
+  },
+  {
+   "sku_id": "SKU034",
+   "on_hand": 11
+  },
+  {
+   "sku_id": "SKU035",
+   "on_hand": 10
+  },
+  {
+   "sku_id": "SKU036",
+   "on_hand": 4
+  },
+  {
+   "sku_id": "SKU037",
+   "on_hand": 12
+  },
+  {
+   "sku_id": "SKU038",
+   "on_hand": 3
+  },
+  {
+   "sku_id": "SKU039",
+   "on_hand": 2
+  },
+  {
+   "sku_id": "SKU040",
+   "on_hand": 4
+  },
+  {
+   "sku_id": "SKU041",
+   "on_hand": 48
+  },
+  {
+   "sku_id": "SKU042",
+   "on_hand": 13
+  },
+  {
+   "sku_id": "SKU043",
+   "on_hand": 55
+  },
+  {
+   "sku_id": "SKU044",
+   "on_hand": 14
+  },
+  {
+   "sku_id": "SKU045",
+   "on_hand": 19
+  },
+  {
+   "sku_id": "SKU046",
+   "on_hand": 37
+  },
+  {
+   "sku_id": "SKU047",
+   "on_hand": 39
+  },
+  {
+   "sku_id": "SKU048",
+   "on_hand": 48
+  },
+  {
+   "sku_id": "SKU049",
+   "on_hand": 12
+  },
+  {
+   "sku_id": "SKU050",
+   "on_hand": 4
+  },
+  {
+   "sku_id": "SKU051",
+   "on_hand": 24
+  },
+  {
+   "sku_id": "SKU052",
+   "on_hand": 3
+  },
+  {
+   "sku_id": "SKU053",
+   "on_hand": 3
+  },
+  {
+   "sku_id": "SKU054",
+   "on_hand": 9
+  },
+  {
+   "sku_id": "SKU055",
+   "on_hand": 15
+  },
+  {
+   "sku_id": "SKU056",
+   "on_hand": 53
+  },
+  {
+   "sku_id": "SKU057",
+   "on_hand": 48
+  },
+  {
+   "sku_id": "SKU058",
+   "on_hand": 27
+  },
+  {
+   "sku_id": "SKU059",
+   "on_hand": 28
+  },
+  {
+   "sku_id": "SKU060",
+   "on_hand": 11
+  },
+  {
+   "sku_id": "SKU061",
+   "on_hand": 14
+  },
+  {
+   "sku_id": "SKU062",
+   "on_hand": 7
+  },
+  {
+   "sku_id": "SKU063",
+   "on_hand": 0
+  },
+  {
+   "sku_id": "SKU064",
+   "on_hand": 121
+  },
+  {
+   "sku_id": "SKU065",
+   "on_hand": 51
+  },
+  {
+   "sku_id": "SKU066",
+   "on_hand": 2
+  },
+  {
+   "sku_id": "SKU067",
+   "on_hand": 6
+  },
+  {
+   "sku_id": "SKU068",
+   "on_hand": 12
+  },
+  {
+   "sku_id": "SKU069",
+   "on_hand": 2
+  },
+  {
+   "sku_id": "SKU070",
+   "on_hand": 26
+  },
+  {
+   "sku_id": "SKU071",
+   "on_hand": 24
+  },
+  {
+   "sku_id": "SKU072",
+   "on_hand": 48
+  },
+  {
+   "sku_id": "SKU073",
+   "on_hand": 25
+  },
+  {
+   "sku_id": "SKU074",
+   "on_hand": 9
+  },
+  {
+   "sku_id": "SKU075",
+   "on_hand": 12
+  },
+  {
+   "sku_id": "SKU076",
+   "on_hand": 43
+  },
+  {
+   "sku_id": "SKU077",
+   "on_hand": 12
+  },
+  {
+   "sku_id": "SKU078",
+   "on_hand": 4
+  },
+  {
+   "sku_id": "SKU079",
+   "on_hand": 13
+  },
+  {
+   "sku_id": "SKU080",
+   "on_hand": 6
+  },
+  {
+   "sku_id": "SKU081",
+   "on_hand": 7
+  },
+  {
+   "sku_id": "SKU082",
+   "on_hand": 2
+  },
+  {
+   "sku_id": "SKU083",
+   "on_hand": 13
+  },
+  {
+   "sku_id": "SKU084",
+   "on_hand": 49
+  },
+  {
+   "sku_id": "SKU085",
+   "on_hand": 49
+  },
+  {
+   "sku_id": "SKU086",
+   "on_hand": 31
+  },
+  {
+   "sku_id": "SKU087",
+   "on_hand": 26
+  },
+  {
+   "sku_id": "SKU088",
+   "on_hand": 21
+  },
+  {
+   "sku_id": "SKU089",
+   "on_hand": 30
+  },
+  {
+   "sku_id": "SKU090",
+   "on_hand": 9
+  },
+  {
+   "sku_id": "SKU091",
+   "on_hand": 15
+  },
+  {
+   "sku_id": "SKU092",
+   "on_hand": 9
+  },
+  {
+   "sku_id": "SKU093",
+   "on_hand": 18
+  },
+  {
+   "sku_id": "SKU094",
+   "on_hand": 4
+  },
+  {
+   "sku_id": "SKU095",
+   "on_hand": 5
+  },
+  {
+   "sku_id": "SKU096",
+   "on_hand": 28
+  },
+  {
+   "sku_id": "SKU097",
+   "on_hand": 4
+  },
+  {
+   "sku_id": "SKU098",
+   "on_hand": 6
+  },
+  {
+   "sku_id": "SKU099",
+   "on_hand": 12
+  },
+  {
+   "sku_id": "SKU100",
+   "on_hand": 12
+  },
+  {
+   "sku_id": "SKU101",
+   "on_hand": 5
+  }
+ ],
+ "lots": {
+  "SKU001": [
+   {
+    "qty": 50.5,
+    "exp": "2027-02-16",
+    "est": true
+   },
+   {
+    "qty": 24.0,
+    "exp": "2027-03-17",
+    "est": true
+   }
+  ],
+  "SKU002": [
+   {
+    "qty": 3.8,
+    "exp": "2026-11-10",
+    "est": true
+   },
+   {
+    "qty": 48.0,
+    "exp": "2027-03-17",
+    "est": true
+   }
+  ],
+  "SKU003": [
+   {
+    "qty": 29.0,
+    "exp": "2026-11-18",
+    "est": true
+   }
+  ],
+  "SKU004": [
+   {
+    "qty": 23.5,
+    "exp": "2027-01-18",
+    "est": true
+   }
+  ],
+  "SKU005": [
+   {
+    "qty": 24.0,
+    "exp": "2027-03-17",
+    "est": true
+   }
+  ],
+  "SKU006": [
+   {
+    "qty": 24.0,
+    "exp": "2027-01-16",
+    "est": true
+   }
+  ],
+  "SKU008": [
+   {
+    "qty": 5.4,
+    "exp": "2026-10-27",
+    "est": true
+   },
+   {
+    "qty": 24.0,
+    "exp": "2027-01-16",
+    "est": true
+   }
+  ],
+  "SKU009": [
+   {
+    "qty": 48.0,
+    "exp": "2027-01-16",
+    "est": true
+   }
+  ],
+  "SKU010": [
+   {
+    "qty": 96.0,
+    "exp": "2027-06-15",
+    "est": true
+   }
+  ],
+  "SKU011": [
+   {
+    "qty": 14.3,
+    "exp": "2027-04-04",
+    "est": true
+   }
+  ],
+  "SKU012": [
+   {
+    "qty": 7.9,
+    "exp": "2027-03-15",
+    "est": true
+   }
+  ],
+  "SKU013": [
+   {
+    "qty": 24.0,
+    "exp": "2027-06-15",
+    "est": true
+   }
+  ],
+  "SKU014": [
+   {
+    "qty": 12.0,
+    "exp": "2026-09-20",
+    "est": true
+   }
+  ],
+  "SKU015": [
+   {
+    "qty": 12.0,
+    "exp": "2026-09-20",
+    "est": true
+   }
+  ],
+  "SKU016": [
+   {
+    "qty": 12.0,
+    "exp": "2026-09-20",
+    "est": true
+   }
+  ],
+  "SKU017": [
+   {
+    "qty": 24.0,
+    "exp": "2027-03-17",
+    "est": true
+   }
+  ],
+  "SKU018": [
+   {
+    "qty": 4.4,
+    "exp": "2027-01-06",
+    "est": true
+   }
+  ],
+  "SKU019": [
+   {
+    "qty": 0.3,
+    "exp": "2027-02-14",
+    "est": true
+   },
+   {
+    "qty": 12.0,
+    "exp": "2027-03-17",
+    "est": true
+   }
+  ],
+  "SKU020": [
+   {
+    "qty": 12.0,
+    "exp": "2026-09-23",
+    "est": true
+   }
+  ],
+  "SKU021": [
+   {
+    "qty": 6.0,
+    "exp": "2027-06-15",
+    "est": true
+   }
+  ],
+  "SKU022": [
+   {
+    "qty": 1.2,
+    "exp": "2027-03-25",
+    "est": true
+   },
+   {
+    "qty": 24.0,
+    "exp": "2027-06-15",
+    "est": true
+   }
+  ],
+  "SKU023": [
+   {
+    "qty": 12.0,
+    "exp": "2027-06-15",
+    "est": true
+   }
+  ],
+  "SKU024": [
+   {
+    "qty": 9.9,
+    "exp": "2027-01-03",
+    "est": true
+   }
+  ],
+  "SKU025": [
+   {
+    "qty": 12.0,
+    "exp": "2027-06-15",
+    "est": true
+   }
+  ],
+  "SKU026": [
+   {
+    "qty": 11.5,
+    "exp": "2027-05-10",
+    "est": true
+   }
+  ],
+  "SKU027": [
+   {
+    "qty": 35.5,
+    "exp": "2027-06-07",
+    "est": true
+   }
+  ],
+  "SKU028": [
+   {
+    "qty": 4.1,
+    "exp": "2027-05-23",
+    "est": true
+   }
+  ],
+  "SKU029": [
+   {
+    "qty": 12.0,
+    "exp": "2026-12-17",
+    "est": true
+   }
+  ],
+  "SKU030": [
+   {
+    "qty": 11.8,
+    "exp": "2026-12-02",
+    "est": true
+   }
+  ],
+  "SKU031": [
+   {
+    "qty": 1.7,
+    "exp": "2027-03-18",
+    "est": true
+   },
+   {
+    "qty": 12.0,
+    "exp": "2028-03-11",
+    "est": true
+   }
+  ],
+  "SKU032": [
+   {
+    "qty": 3.3,
+    "exp": "2026-09-25",
+    "est": false
+   },
+   {
+    "qty": 4,
+    "exp": "2027-11-23",
+    "est": true
+   }
+  ],
+  "SKU033": [
+   {
+    "qty": 48.0,
+    "exp": "2028-09-17",
+    "est": true
+   }
+  ],
+  "SKU034": [
+   {
+    "qty": 11.5,
+    "exp": "2027-03-13",
+    "est": true
+   }
+  ],
+  "SKU035": [
+   {
+    "qty": 10.1,
+    "exp": "2027-02-18",
+    "est": true
+   }
+  ],
+  "SKU036": [
+   {
+    "qty": 4.2,
+    "exp": "2027-01-19",
+    "est": true
+   }
+  ],
+  "SKU037": [
+   {
+    "qty": 12.0,
+    "exp": "2028-03-11",
+    "est": true
+   }
+  ],
+  "SKU038": [
+   {
+    "qty": 3.5,
+    "exp": "2027-06-07",
+    "est": true
+   }
+  ],
+  "SKU039": [
+   {
+    "qty": 2.4,
+    "exp": "2027-05-24",
+    "est": true
+   }
+  ],
+  "SKU040": [
+   {
+    "qty": 3.6,
+    "exp": "2027-01-08",
+    "est": true
+   }
+  ],
+  "SKU041": [
+   {
+    "qty": 48.0,
+    "exp": "2027-03-17",
+    "est": true
+   }
+  ],
+  "SKU042": [
+   {
+    "qty": 13.4,
+    "exp": "2026-11-26",
+    "est": true
+   }
+  ],
+  "SKU043": [
+   {
+    "qty": 7.1,
+    "exp": "2027-01-13",
+    "est": true
+   },
+   {
+    "qty": 48.0,
+    "exp": "2027-03-17",
+    "est": true
+   }
+  ],
+  "SKU044": [
+   {
+    "qty": 13.7,
+    "exp": "2027-01-06",
+    "est": true
+   }
+  ],
+  "SKU045": [
+   {
+    "qty": 18.9,
+    "exp": "2027-02-24",
+    "est": true
+   }
+  ],
+  "SKU046": [
+   {
+    "qty": 16.6,
+    "exp": "2026-09-20",
+    "est": false
+   },
+   {
+    "qty": 20,
+    "exp": "2027-02-08",
+    "est": true
+   }
+  ],
+  "SKU047": [
+   {
+    "qty": 38.9,
+    "exp": "2026-11-29",
+    "est": true
+   }
+  ],
+  "SKU048": [
+   {
+    "qty": 48.0,
+    "exp": "2027-03-17",
+    "est": true
+   }
+  ],
+  "SKU049": [
+   {
+    "qty": 0.2,
+    "exp": "2027-04-27",
+    "est": true
+   },
+   {
+    "qty": 12.0,
+    "exp": "2027-06-15",
+    "est": true
+   }
+  ],
+  "SKU050": [
+   {
+    "qty": 4.4,
+    "exp": "2026-12-16",
+    "est": true
+   }
+  ],
+  "SKU051": [
+   {
+    "qty": 24.0,
+    "exp": "2029-09-17",
+    "est": true
+   }
+  ],
+  "SKU052": [
+   {
+    "qty": 3.3,
+    "exp": "2029-01-23",
+    "est": true
+   }
+  ],
+  "SKU053": [
+   {
+    "qty": 3.3,
+    "exp": "2027-11-14",
+    "est": true
+   }
+  ],
+  "SKU054": [
+   {
+    "qty": 9.0,
+    "exp": "2027-12-17",
+    "est": true
+   }
+  ],
+  "SKU055": [
+   {
+    "qty": 2.6,
+    "exp": "2028-11-28",
+    "est": true
+   },
+   {
+    "qty": 12.0,
+    "exp": "2029-09-17",
+    "est": true
+   }
+  ],
+  "SKU056": [
+   {
+    "qty": 4.6,
+    "exp": "2027-12-23",
+    "est": true
+   },
+   {
+    "qty": 48.0,
+    "exp": "2029-09-17",
+    "est": true
+   }
+  ],
+  "SKU057": [
+   {
+    "qty": 48.0,
+    "exp": "2029-09-17",
+    "est": true
+   }
+  ],
+  "SKU058": [
+   {
+    "qty": 2.8,
+    "exp": "2028-10-03",
+    "est": true
+   },
+   {
+    "qty": 24.0,
+    "exp": "2029-09-17",
+    "est": true
+   }
+  ],
+  "SKU059": [
+   {
+    "qty": 13.1,
+    "exp": "2026-09-25",
+    "est": false
+   },
+   {
+    "qty": 15,
+    "exp": "2029-02-09",
+    "est": true
+   }
+  ],
+  "SKU060": [
+   {
+    "qty": 11.0,
+    "exp": "2027-10-14",
+    "est": true
+   }
+  ],
+  "SKU061": [
+   {
+    "qty": 1.7,
+    "exp": "2028-08-05",
+    "est": true
+   },
+   {
+    "qty": 12.0,
+    "exp": "2029-09-17",
+    "est": true
+   }
+  ],
+  "SKU062": [
+   {
+    "qty": 1.5,
+    "exp": "2028-03-28",
+    "est": true
+   },
+   {
+    "qty": 6.0,
+    "exp": "2029-09-17",
+    "est": true
+   }
+  ],
+  "SKU064": [
+   {
+    "qty": 1.5,
+    "exp": "2027-10-07",
+    "est": true
+   },
+   {
+    "qty": 120.0,
+    "exp": "2029-09-17",
+    "est": true
+   }
+  ],
+  "SKU065": [
+   {
+    "qty": 2.9,
+    "exp": "2028-03-17",
+    "est": true
+   },
+   {
+    "qty": 48.0,
+    "exp": "2029-09-17",
+    "est": true
+   }
+  ],
+  "SKU066": [
+   {
+    "qty": 1.6,
+    "exp": "2028-10-03",
+    "est": true
+   }
+  ],
+  "SKU067": [
+   {
+    "qty": 0.5,
+    "exp": "2028-03-21",
+    "est": true
+   },
+   {
+    "qty": 6.0,
+    "exp": "2029-09-17",
+    "est": true
+   }
+  ],
+  "SKU068": [
+   {
+    "qty": 0.3,
+    "exp": "2028-01-28",
+    "est": true
+   },
+   {
+    "qty": 12.0,
+    "exp": "2029-09-17",
+    "est": true
+   }
+  ],
+  "SKU069": [
+   {
+    "qty": 2.4,
+    "exp": "2027-10-29",
+    "est": true
+   }
+  ],
+  "SKU070": [
+   {
+    "qty": 2.5,
+    "exp": "2029-03-08",
+    "est": true
+   },
+   {
+    "qty": 24.0,
+    "exp": "2029-09-17",
+    "est": true
+   }
+  ],
+  "SKU071": [
+   {
+    "qty": 24.0,
+    "exp": "2029-09-17",
+    "est": true
+   }
+  ],
+  "SKU072": [
+   {
+    "qty": 48.0,
+    "exp": "2029-09-17",
+    "est": true
+   }
+  ],
+  "SKU073": [
+   {
+    "qty": 0.9,
+    "exp": "2028-09-05",
+    "est": true
+   },
+   {
+    "qty": 24.0,
+    "exp": "2029-09-17",
+    "est": true
+   }
+  ],
+  "SKU074": [
+   {
+    "qty": 8.8,
+    "exp": "2028-08-17",
+    "est": true
+   }
+  ],
+  "SKU075": [
+   {
+    "qty": 12.0,
+    "exp": "2029-09-17",
+    "est": true
+   }
+  ],
+  "SKU076": [
+   {
+    "qty": 43.1,
+    "exp": "2028-10-22",
+    "est": true
+   }
+  ],
+  "SKU077": [
+   {
+    "qty": 11.9,
+    "exp": "2028-03-14",
+    "est": true
+   }
+  ],
+  "SKU078": [
+   {
+    "qty": 4.1,
+    "exp": "2029-04-28",
+    "est": true
+   }
+  ],
+  "SKU079": [
+   {
+    "qty": 1.1,
+    "exp": "2029-03-08",
+    "est": true
+   },
+   {
+    "qty": 12.0,
+    "exp": "2029-09-17",
+    "est": true
+   }
+  ],
+  "SKU080": [
+   {
+    "qty": 6.0,
+    "exp": "2029-09-17",
+    "est": true
+   }
+  ],
+  "SKU081": [
+   {
+    "qty": 6.8,
+    "exp": "2027-11-07",
+    "est": true
+   }
+  ],
+  "SKU082": [
+   {
+    "qty": 2.2,
+    "exp": "2028-12-31",
+    "est": true
+   }
+  ],
+  "SKU083": [
+   {
+    "qty": 1.2,
+    "exp": "2029-04-28",
+    "est": true
+   },
+   {
+    "qty": 12.0,
+    "exp": "2029-09-17",
+    "est": true
+   }
+  ],
+  "SKU084": [
+   {
+    "qty": 1.1,
+    "exp": "2027-01-10",
+    "est": true
+   },
+   {
+    "qty": 48.0,
+    "exp": "2027-06-15",
+    "est": true
+   }
+  ],
+  "SKU085": [
+   {
+    "qty": 0.6,
+    "exp": "2027-02-03",
+    "est": true
+   },
+   {
+    "qty": 48.0,
+    "exp": "2027-06-15",
+    "est": true
+   }
+  ],
+  "SKU086": [
+   {
+    "qty": 6.9,
+    "exp": "2027-03-03",
+    "est": true
+   },
+   {
+    "qty": 24.0,
+    "exp": "2027-06-15",
+    "est": true
+   }
+  ],
+  "SKU087": [
+   {
+    "qty": 25.6,
+    "exp": "2027-01-09",
+    "est": true
+   }
+  ],
+  "SKU088": [
+   {
+    "qty": 20.8,
+    "exp": "2026-12-12",
+    "est": true
+   }
+  ],
+  "SKU089": [
+   {
+    "qty": 5.7,
+    "exp": "2027-07-31",
+    "est": true
+   },
+   {
+    "qty": 24.0,
+    "exp": "2027-09-18",
+    "est": true
+   }
+  ],
+  "SKU090": [
+   {
+    "qty": 9.0,
+    "exp": "2027-01-12",
+    "est": true
+   }
+  ],
+  "SKU091": [
+   {
+    "qty": 15.1,
+    "exp": "2027-08-02",
+    "est": true
+   }
+  ],
+  "SKU092": [
+   {
+    "qty": 9.1,
+    "exp": "2027-05-13",
+    "est": true
+   }
+  ],
+  "SKU093": [
+   {
+    "qty": 18.2,
+    "exp": "2027-04-01",
+    "est": true
+   }
+  ],
+  "SKU094": [
+   {
+    "qty": 4.1,
+    "exp": "2027-03-23",
+    "est": true
+   }
+  ],
+  "SKU095": [
+   {
+    "qty": 5.1,
+    "exp": "2027-01-27",
+    "est": true
+   }
+  ],
+  "SKU096": [
+   {
+    "qty": 3.9,
+    "exp": "2027-01-31",
+    "est": true
+   },
+   {
+    "qty": 24.0,
+    "exp": "2027-09-18",
+    "est": true
+   }
+  ],
+  "SKU097": [
+   {
+    "qty": 4.0,
+    "exp": "2027-06-02",
+    "est": true
+   }
+  ],
+  "SKU098": [
+   {
+    "qty": 0.5,
+    "exp": "2027-08-21",
+    "est": true
+   },
+   {
+    "qty": 6.0,
+    "exp": "2028-03-11",
+    "est": true
+   }
+  ],
+  "SKU099": [
+   {
+    "qty": 5.1,
+    "exp": "2026-09-22",
+    "est": false
+   },
+   {
+    "qty": 7,
+    "exp": "2027-07-06",
+    "est": true
+   }
+  ],
+  "SKU100": [
+   {
+    "qty": 12.0,
+    "exp": "2027-09-18",
+    "est": true
+   }
+  ],
+  "SKU101": [
+   {
+    "qty": 2.5,
+    "exp": "2026-09-25",
+    "est": false
+   },
+   {
+    "qty": 3,
+    "exp": "2027-07-06",
+    "est": true
+   }
+  ]
+ },
+ "expired_removed": [
+  {
+   "sku_id": "SKU076",
+   "qty": 1,
+   "exp": "2026-09-15"
+  }
+ ],
+ "detail": [
+  {
+   "sku_id": "SKU001",
+   "name": "Parle Parle-G Biscuits 70g",
+   "counted": 56.0,
+   "sold_since": 5.5,
+   "received": 24.0,
+   "removed": 0.0,
+   "on_hand": 74,
+   "recount": false,
+   "next_expiry": "2027-02-16"
+  },
+  {
+   "sku_id": "SKU002",
+   "name": "Britannia Good Day Cashew 75g",
+   "counted": 8.0,
+   "sold_since": 4.2,
+   "received": 48.0,
+   "removed": 0.0,
+   "on_hand": 52,
+   "recount": false,
+   "next_expiry": "2026-11-10"
+  },
+  {
+   "sku_id": "SKU003",
+   "name": "Britannia Bourbon 60g",
+   "counted": 32.0,
+   "sold_since": 3.0,
+   "received": 0.0,
+   "removed": 0.0,
+   "on_hand": 29,
+   "recount": false,
+   "next_expiry": "2026-11-18"
+  },
+  {
+   "sku_id": "SKU004",
+   "name": "Sunfeast Marie Light 75g",
+   "counted": 26.0,
+   "sold_since": 2.5,
+   "received": 0.0,
+   "removed": 0.0,
+   "on_hand": 23,
+   "recount": false,
+   "next_expiry": "2027-01-18"
+  },
+  {
+   "sku_id": "SKU005",
+   "name": "Parle Krackjack 70g",
+   "counted": 0.0,
+   "sold_since": 0.0,
+   "received": 24.0,
+   "removed": 0.0,
+   "on_hand": 24,
+   "recount": false,
+   "next_expiry": "2027-03-17"
+  },
+  {
+   "sku_id": "SKU006",
+   "name": "Lay's Classic Salted 52g",
+   "counted": 0.0,
+   "sold_since": 0.0,
+   "received": 24.0,
+   "removed": 0.0,
+   "on_hand": 24,
+   "recount": false,
+   "next_expiry": "2027-01-16"
+  },
+  {
+   "sku_id": "SKU007",
+   "name": "Kurkure Masala Munch 90g",
+   "counted": 2.0,
+   "sold_since": 2.0,
+   "received": 0.0,
+   "removed": 0.0,
+   "on_hand": 0,
+   "recount": false,
+   "next_expiry": null
+  },
+  {
+   "sku_id": "SKU008",
+   "name": "Bingo Mad Angles 66g",
+   "counted": 8.0,
+   "sold_since": 2.6,
+   "received": 24.0,
+   "removed": 0.0,
+   "on_hand": 29,
+   "recount": false,
+   "next_expiry": "2026-10-27"
+  },
+  {
+   "sku_id": "SKU009",
+   "name": "Haldiram Aloo Bhujia 42g",
+   "counted": 0.0,
+   "sold_since": 0.0,
+   "received": 48.0,
+   "removed": 0.0,
+   "on_hand": 48,
+   "recount": false,
+   "next_expiry": "2027-01-16"
+  },
+  {
+   "sku_id": "SKU010",
+   "name": "Maggi Masala Noodles 70g",
+   "counted": 0.0,
+   "sold_since": 0.0,
+   "received": 96.0,
+   "removed": 0.0,
+   "on_hand": 96,
+   "recount": false,
+   "next_expiry": "2027-06-15"
+  },
+  {
+   "sku_id": "SKU011",
+   "name": "Maggi Masala Noodles 4-pack 280g",
+   "counted": 16.0,
+   "sold_since": 1.7,
+   "received": 0.0,
+   "removed": 0.0,
+   "on_hand": 14,
+   "recount": false,
+   "next_expiry": "2027-04-04"
+  },
+  {
+   "sku_id": "SKU012",
+   "name": "Yippee Magic Masala 70g",
+   "counted": 10.0,
+   "sold_since": 2.1,
+   "received": 0.0,
+   "removed": 0.0,
+   "on_hand": 8,
+   "recount": false,
+   "next_expiry": "2027-03-15"
+  },
+  {
+   "sku_id": "SKU013",
+   "name": "Top Ramen Curry Noodles 70g",
+   "counted": 0.0,
+   "sold_since": 0.0,
+   "received": 24.0,
+   "removed": 0.0,
+   "on_hand": 24,
+   "recount": false,
+   "next_expiry": "2027-06-15"
+  },
+  {
+   "sku_id": "SKU014",
+   "name": "Amul Taaza Milk 500ml",
+   "counted": 10.0,
+   "sold_since": 10.0,
+   "received": 12.0,
+   "removed": 0.0,
+   "on_hand": 12,
+   "recount": false,
+   "next_expiry": "2026-09-20"
+  },
+  {
+   "sku_id": "SKU015",
+   "name": "Amul Gold Milk 500ml",
+   "counted": 2.0,
+   "sold_since": 2.0,
+   "received": 12.0,
+   "removed": 0.0,
+   "on_hand": 12,
+   "recount": false,
+   "next_expiry": "2026-09-20"
+  },
+  {
+   "sku_id": "SKU016",
+   "name": "Mother Dairy Toned Milk 500ml",
+   "counted": 2.0,
+   "sold_since": 2.0,
+   "received": 12.0,
+   "removed": 0.0,
+   "on_hand": 12,
+   "recount": false,
+   "next_expiry": "2026-09-20"
+  },
+  {
+   "sku_id": "SKU017",
+   "name": "Amul Butter 100g",
+   "counted": 2.0,
+   "sold_since": 2.0,
+   "received": 24.0,
+   "removed": 0.0,
+   "on_hand": 24,
+   "recount": false,
+   "next_expiry": "2027-03-17"
+  },
+  {
+   "sku_id": "SKU018",
+   "name": "Amul Butter 500g",
+   "counted": 5.0,
+   "sold_since": 0.6,
+   "received": 0.0,
+   "removed": 0.0,
+   "on_hand": 4,
+   "recount": false,
+   "next_expiry": "2027-01-06"
+  },
+  {
+   "sku_id": "SKU019",
+   "name": "Amul Cheese Slices 200g",
+   "counted": 1.0,
+   "sold_since": 0.7,
+   "received": 12.0,
+   "removed": 0.0,
+   "on_hand": 12,
+   "recount": false,
+   "next_expiry": "2027-02-14"
+  },
+  {
+   "sku_id": "SKU020",
+   "name": "Amul Masti Dahi 400g",
+   "counted": 2.0,
+   "sold_since": 2.0,
+   "received": 12.0,
+   "removed": 0.0,
+   "on_hand": 12,
+   "recount": false,
+   "next_expiry": "2026-09-23"
+  },
+  {
+   "sku_id": "SKU021",
+   "name": "Nestle Milkmaid 400g",
+   "counted": 0.0,
+   "sold_since": 0.0,
+   "received": 6.0,
+   "removed": 0.0,
+   "on_hand": 6,
+   "recount": false,
+   "next_expiry": "2027-06-15"
+  },
+  {
+   "sku_id": "SKU022",
+   "name": "Fortune Sunflower Oil 1L",
+   "counted": 3.0,
+   "sold_since": 1.8,
+   "received": 24.0,
+   "removed": 0.0,
+   "on_hand": 25,
+   "recount": false,
+   "next_expiry": "2027-03-25"
+  },
+  {
+   "sku_id": "SKU023",
+   "name": "Fortune Soyabean Oil 1L",
+   "counted": 1.0,
+   "sold_since": 1.0,
+   "received": 12.0,
+   "removed": 0.0,
+   "on_hand": 12,
+   "recount": false,
+   "next_expiry": "2027-06-15"
+  },
+  {
+   "sku_id": "SKU024",
+   "name": "Saffola Gold Oil 1L",
+   "counted": 11.0,
+   "sold_since": 1.1,
+   "received": 0.0,
+   "removed": 0.0,
+   "on_hand": 10,
+   "recount": false,
+   "next_expiry": "2027-01-03"
+  },
+  {
+   "sku_id": "SKU025",
+   "name": "Dhara Mustard Oil 1L",
+   "counted": 1.0,
+   "sold_since": 1.0,
+   "received": 12.0,
+   "removed": 0.0,
+   "on_hand": 12,
+   "recount": false,
+   "next_expiry": "2027-06-15"
+  },
+  {
+   "sku_id": "SKU026",
+   "name": "Fortune Sunflower Oil 5L",
+   "counted": 12.0,
+   "sold_since": 0.5,
+   "received": 0.0,
+   "removed": 0.0,
+   "on_hand": 12,
+   "recount": false,
+   "next_expiry": "2027-05-10"
+  },
+  {
+   "sku_id": "SKU027",
+   "name": "Tata Salt 1kg",
+   "counted": 39.0,
+   "sold_since": 3.5,
+   "received": 0.0,
+   "removed": 0.0,
+   "on_hand": 36,
+   "recount": false,
+   "next_expiry": "2027-06-07"
+  },
+  {
+   "sku_id": "SKU028",
+   "name": "Tata Sampann Toor Dal 1kg",
+   "counted": 5.0,
+   "sold_since": 0.9,
+   "received": 0.0,
+   "removed": 0.0,
+   "on_hand": 4,
+   "recount": false,
+   "next_expiry": "2027-05-23"
+  },
+  {
+   "sku_id": "SKU029",
+   "name": "Aashirvaad Atta 5kg",
+   "counted": 0.0,
+   "sold_since": 0.0,
+   "received": 12.0,
+   "removed": 0.0,
+   "on_hand": 12,
+   "recount": false,
+   "next_expiry": "2026-12-17"
+  },
+  {
+   "sku_id": "SKU030",
+   "name": "Aashirvaad Atta 1kg",
+   "counted": 14.0,
+   "sold_since": 2.2,
+   "received": 0.0,
+   "removed": 0.0,
+   "on_hand": 12,
+   "recount": false,
+   "next_expiry": "2026-12-02"
+  },
+  {
+   "sku_id": "SKU031",
+   "name": "India Gate Basmati Rice 1kg",
+   "counted": 3.0,
+   "sold_since": 1.3,
+   "received": 12.0,
+   "removed": 0.0,
+   "on_hand": 14,
+   "recount": false,
+   "next_expiry": "2027-03-18"
+  },
+  {
+   "sku_id": "SKU032",
+   "name": "Daawat Rozana Rice 5kg",
+   "counted": 8.0,
+   "sold_since": 0.7,
+   "received": 0.0,
+   "removed": 0.0,
+   "on_hand": 7,
+   "recount": false,
+   "next_expiry": "2026-09-25"
+  },
+  {
+   "sku_id": "SKU033",
+   "name": "Madhur Sugar 1kg",
+   "counted": 2.0,
+   "sold_since": 2.0,
+   "received": 48.0,
+   "removed": 0.0,
+   "on_hand": 48,
+   "recount": false,
+   "next_expiry": "2028-09-17"
+  },
+  {
+   "sku_id": "SKU034",
+   "name": "Tata Tea Gold 250g",
+   "counted": 13.0,
+   "sold_since": 1.5,
+   "received": 0.0,
+   "removed": 0.0,
+   "on_hand": 11,
+   "recount": false,
+   "next_expiry": "2027-03-13"
+  },
+  {
+   "sku_id": "SKU035",
+   "name": "Red Label Tea 250g",
+   "counted": 12.0,
+   "sold_since": 1.9,
+   "received": 0.0,
+   "removed": 0.0,
+   "on_hand": 10,
+   "recount": false,
+   "next_expiry": "2027-02-18"
+  },
+  {
+   "sku_id": "SKU036",
+   "name": "Taj Mahal Tea 250g",
+   "counted": 5.0,
+   "sold_since": 0.8,
+   "received": 0.0,
+   "removed": 0.0,
+   "on_hand": 4,
+   "recount": false,
+   "next_expiry": "2027-01-19"
+  },
+  {
+   "sku_id": "SKU037",
+   "name": "Nescafe Classic Coffee 50g",
+   "counted": 0.0,
+   "sold_since": 0.0,
+   "received": 12.0,
+   "removed": 0.0,
+   "on_hand": 12,
+   "recount": false,
+   "next_expiry": "2028-03-11"
+  },
+  {
+   "sku_id": "SKU038",
+   "name": "Bru Instant Coffee 50g",
+   "counted": 4.0,
+   "sold_since": 0.5,
+   "received": 0.0,
+   "removed": 0.0,
+   "on_hand": 3,
+   "recount": false,
+   "next_expiry": "2027-06-07"
+  },
+  {
+   "sku_id": "SKU039",
+   "name": "Bournvita Health Drink 500g",
+   "counted": 3.0,
+   "sold_since": 0.6,
+   "received": 0.0,
+   "removed": 0.0,
+   "on_hand": 2,
+   "recount": false,
+   "next_expiry": "2027-05-24"
+  },
+  {
+   "sku_id": "SKU040",
+   "name": "Horlicks Classic Malt 500g",
+   "counted": 4.0,
+   "sold_since": 0.4,
+   "received": 0.0,
+   "removed": 0.0,
+   "on_hand": 4,
+   "recount": false,
+   "next_expiry": "2027-01-08"
+  },
+  {
+   "sku_id": "SKU041",
+   "name": "Coca-Cola Soft Drink 750ml",
+   "counted": 0.0,
+   "sold_since": 0.0,
+   "received": 48.0,
+   "removed": 0.0,
+   "on_hand": 48,
+   "recount": false,
+   "next_expiry": "2027-03-17"
+  },
+  {
+   "sku_id": "SKU042",
+   "name": "Thums Up Soft Drink 750ml",
+   "counted": 17.0,
+   "sold_since": 3.6,
+   "received": 0.0,
+   "removed": 0.0,
+   "on_hand": 13,
+   "recount": false,
+   "next_expiry": "2026-11-26"
+  },
+  {
+   "sku_id": "SKU043",
+   "name": "Sprite Soft Drink 750ml",
+   "counted": 10.0,
+   "sold_since": 2.9,
+   "received": 48.0,
+   "removed": 0.0,
+   "on_hand": 55,
+   "recount": false,
+   "next_expiry": "2027-01-13"
+  },
+  {
+   "sku_id": "SKU044",
+   "name": "Pepsi Soft Drink 750ml",
+   "counted": 16.0,
+   "sold_since": 2.3,
+   "received": 0.0,
+   "removed": 0.0,
+   "on_hand": 14,
+   "recount": false,
+   "next_expiry": "2027-01-06"
+  },
+  {
+   "sku_id": "SKU045",
+   "name": "Maaza Mango Drink 600ml",
+   "counted": 22.0,
+   "sold_since": 3.1,
+   "received": 0.0,
+   "removed": 0.0,
+   "on_hand": 19,
+   "recount": false,
+   "next_expiry": "2027-02-24"
+  },
+  {
+   "sku_id": "SKU046",
+   "name": "Frooti Mango Drink 600ml",
+   "counted": 39.0,
+   "sold_since": 2.4,
+   "received": 0.0,
+   "removed": 0.0,
+   "on_hand": 37,
+   "recount": false,
+   "next_expiry": "2026-09-20"
+  },
+  {
+   "sku_id": "SKU047",
+   "name": "Bisleri Water 1L",
+   "counted": 44.0,
+   "sold_since": 5.1,
+   "received": 0.0,
+   "removed": 0.0,
+   "on_hand": 39,
+   "recount": false,
+   "next_expiry": "2026-11-29"
+  },
+  {
+   "sku_id": "SKU048",
+   "name": "Kinley Water 1L",
+   "counted": 0.0,
+   "sold_since": 0.0,
+   "received": 48.0,
+   "removed": 0.0,
+   "on_hand": 48,
+   "recount": false,
+   "next_expiry": "2027-03-17"
+  },
+  {
+   "sku_id": "SKU049",
+   "name": "Real Mixed Fruit Juice 1L",
+   "counted": 1.0,
+   "sold_since": 0.8,
+   "received": 12.0,
+   "removed": 0.0,
+   "on_hand": 12,
+   "recount": false,
+   "next_expiry": "2027-04-27"
+  },
+  {
+   "sku_id": "SKU050",
+   "name": "Tropicana Orange Juice 1L",
+   "counted": 5.0,
+   "sold_since": 0.6,
+   "received": 0.0,
+   "removed": 0.0,
+   "on_hand": 4,
+   "recount": false,
+   "next_expiry": "2026-12-16"
+  },
+  {
+   "sku_id": "SKU051",
+   "name": "Colgate Strong Teeth 100g",
+   "counted": 0.0,
+   "sold_since": 0.0,
+   "received": 24.0,
+   "removed": 0.0,
+   "on_hand": 24,
+   "recount": false,
+   "next_expiry": "2029-09-17"
+  },
+  {
+   "sku_id": "SKU052",
+   "name": "Colgate MaxFresh 150g",
+   "counted": 4.0,
+   "sold_since": 0.7,
+   "received": 0.0,
+   "removed": 0.0,
+   "on_hand": 3,
+   "recount": false,
+   "next_expiry": "2029-01-23"
+  },
+  {
+   "sku_id": "SKU053",
+   "name": "Closeup Red Hot 150g",
+   "counted": 4.0,
+   "sold_since": 0.7,
+   "received": 0.0,
+   "removed": 0.0,
+   "on_hand": 3,
+   "recount": false,
+   "next_expiry": "2027-11-14"
+  },
+  {
+   "sku_id": "SKU054",
+   "name": "Pepsodent Germicheck 100g",
+   "counted": 10.0,
+   "sold_since": 1.0,
+   "received": 0.0,
+   "removed": 0.0,
+   "on_hand": 9,
+   "recount": false,
+   "next_expiry": "2027-12-17"
+  },
+  {
+   "sku_id": "SKU055",
+   "name": "Dabur Red Paste 100g",
+   "counted": 4.0,
+   "sold_since": 1.4,
+   "received": 12.0,
+   "removed": 0.0,
+   "on_hand": 15,
+   "recount": false,
+   "next_expiry": "2028-11-28"
+  },
+  {
+   "sku_id": "SKU056",
+   "name": "Lifebuoy Soap 125g",
+   "counted": 8.0,
+   "sold_since": 3.4,
+   "received": 48.0,
+   "removed": 0.0,
+   "on_hand": 53,
+   "recount": false,
+   "next_expiry": "2027-12-23"
+  },
+  {
+   "sku_id": "SKU057",
+   "name": "Lux Soap 100g",
+   "counted": 3.0,
+   "sold_since": 3.0,
+   "received": 48.0,
+   "removed": 0.0,
+   "on_hand": 48,
+   "recount": false,
+   "next_expiry": "2029-09-17"
+  },
+  {
+   "sku_id": "SKU058",
+   "name": "Dettol Soap 125g",
+   "counted": 5.0,
+   "sold_since": 2.2,
+   "received": 24.0,
+   "removed": 0.0,
+   "on_hand": 27,
+   "recount": false,
+   "next_expiry": "2028-10-03"
+  },
+  {
+   "sku_id": "SKU059",
+   "name": "Santoor Soap 125g",
+   "counted": 30.0,
+   "sold_since": 1.9,
+   "received": 0.0,
+   "removed": 0.0,
+   "on_hand": 28,
+   "recount": false,
+   "next_expiry": "2026-09-25"
+  },
+  {
+   "sku_id": "SKU060",
+   "name": "Medimix Soap 125g",
+   "counted": 12.0,
+   "sold_since": 1.0,
+   "received": 0.0,
+   "removed": 0.0,
+   "on_hand": 11,
+   "recount": false,
+   "next_expiry": "2027-10-14"
+  },
+  {
+   "sku_id": "SKU061",
+   "name": "Clinic Plus Shampoo 175ml",
+   "counted": 3.0,
+   "sold_since": 1.3,
+   "received": 12.0,
+   "removed": 0.0,
+   "on_hand": 14,
+   "recount": false,
+   "next_expiry": "2028-08-05"
+  },
+  {
+   "sku_id": "SKU062",
+   "name": "Head&Shoulders Anti-Dandruff 180ml",
+   "counted": 2.0,
+   "sold_since": 0.5,
+   "received": 6.0,
+   "removed": 0.0,
+   "on_hand": 7,
+   "recount": false,
+   "next_expiry": "2028-03-28"
+  },
+  {
+   "sku_id": "SKU063",
+   "name": "Dove Shampoo 180ml",
+   "counted": 0.0,
+   "sold_since": 0.0,
+   "received": 0.0,
+   "removed": 0.0,
+   "on_hand": 0,
+   "recount": false,
+   "next_expiry": null
+  },
+  {
+   "sku_id": "SKU064",
+   "name": "Clinic Plus Shampoo Sachet 6ml",
+   "counted": 9.0,
+   "sold_since": 7.5,
+   "received": 120.0,
+   "removed": 0.0,
+   "on_hand": 121,
+   "recount": false,
+   "next_expiry": "2027-10-07"
+  },
+  {
+   "sku_id": "SKU065",
+   "name": "Chik Shampoo Sachet 6ml",
+   "counted": 8.0,
+   "sold_since": 5.1,
+   "received": 48.0,
+   "removed": 0.0,
+   "on_hand": 51,
+   "recount": false,
+   "next_expiry": "2028-03-17"
+  },
+  {
+   "sku_id": "SKU066",
+   "name": "Nivea Body Lotion 200ml",
+   "counted": 2.0,
+   "sold_since": 0.4,
+   "received": 0.0,
+   "removed": 0.0,
+   "on_hand": 2,
+   "recount": false,
+   "next_expiry": "2028-10-03"
+  },
+  {
+   "sku_id": "SKU067",
+   "name": "Vaseline Body Lotion 200ml",
+   "counted": 1.0,
+   "sold_since": 0.5,
+   "received": 6.0,
+   "removed": 0.0,
+   "on_hand": 6,
+   "recount": false,
+   "next_expiry": "2028-03-21"
+  },
+  {
+   "sku_id": "SKU068",
+   "name": "Fair & Lovely Face Cream 50g",
+   "counted": 1.0,
+   "sold_since": 0.7,
+   "received": 12.0,
+   "removed": 0.0,
+   "on_hand": 12,
+   "recount": false,
+   "next_expiry": "2028-01-28"
+  },
+  {
+   "sku_id": "SKU069",
+   "name": "Gillette Shaving Cream 70g",
+   "counted": 3.0,
+   "sold_since": 0.6,
+   "received": 0.0,
+   "removed": 0.0,
+   "on_hand": 2,
+   "recount": false,
+   "next_expiry": "2027-10-29"
+  },
+  {
+   "sku_id": "SKU070",
+   "name": "Surf Excel Easy Wash 1kg",
+   "counted": 4.0,
+   "sold_since": 1.5,
+   "received": 24.0,
+   "removed": 0.0,
+   "on_hand": 26,
+   "recount": false,
+   "next_expiry": "2029-03-08"
+  },
+  {
+   "sku_id": "SKU071",
+   "name": "Surf Excel Easy Wash 500g",
+   "counted": 1.0,
+   "sold_since": 1.0,
+   "received": 24.0,
+   "removed": 0.0,
+   "on_hand": 24,
+   "recount": false,
+   "next_expiry": "2029-09-17"
+  },
+  {
+   "sku_id": "SKU072",
+   "name": "Rin Detergent Bar 250g",
+   "counted": 0.0,
+   "sold_since": 0.0,
+   "received": 48.0,
+   "removed": 0.0,
+   "on_hand": 48,
+   "recount": false,
+   "next_expiry": "2029-09-17"
+  },
+  {
+   "sku_id": "SKU073",
+   "name": "Wheel Detergent Powder 1kg",
+   "counted": 3.0,
+   "sold_since": 2.1,
+   "received": 24.0,
+   "removed": 0.0,
+   "on_hand": 25,
+   "recount": false,
+   "next_expiry": "2028-09-05"
+  },
+  {
+   "sku_id": "SKU074",
+   "name": "Tide Detergent Powder 1kg",
+   "counted": 10.0,
+   "sold_since": 1.2,
+   "received": 0.0,
+   "removed": 0.0,
+   "on_hand": 9,
+   "recount": false,
+   "next_expiry": "2028-08-17"
+  },
+  {
+   "sku_id": "SKU075",
+   "name": "Ariel Detergent Powder 1kg",
+   "counted": 0.0,
+   "sold_since": 0.0,
+   "received": 12.0,
+   "removed": 0.0,
+   "on_hand": 12,
+   "recount": false,
+   "next_expiry": "2029-09-17"
+  },
+  {
+   "sku_id": "SKU076",
+   "name": "Vim Dishwash Bar 300g",
+   "counted": 48.0,
+   "sold_since": 3.9,
+   "received": 0.0,
+   "removed": 0.0,
+   "on_hand": 43,
+   "recount": false,
+   "next_expiry": "2028-10-22"
+  },
+  {
+   "sku_id": "SKU077",
+   "name": "Vim Dishwash Gel 500ml",
+   "counted": 13.0,
+   "sold_since": 1.1,
+   "received": 0.0,
+   "removed": 0.0,
+   "on_hand": 12,
+   "recount": false,
+   "next_expiry": "2028-03-14"
+  },
+  {
+   "sku_id": "SKU078",
+   "name": "Harpic Toilet Cleaner 500ml",
+   "counted": 5.0,
+   "sold_since": 0.9,
+   "received": 0.0,
+   "removed": 0.0,
+   "on_hand": 4,
+   "recount": false,
+   "next_expiry": "2029-04-28"
+  },
+  {
+   "sku_id": "SKU079",
+   "name": "Lizol Floor Cleaner 500ml",
+   "counted": 2.0,
+   "sold_since": 0.9,
+   "received": 12.0,
+   "removed": 0.0,
+   "on_hand": 13,
+   "recount": false,
+   "next_expiry": "2029-03-08"
+  },
+  {
+   "sku_id": "SKU080",
+   "name": "Colin Glass Cleaner 500ml",
+   "counted": 0.0,
+   "sold_since": 0.0,
+   "received": 6.0,
+   "removed": 0.0,
+   "on_hand": 6,
+   "recount": false,
+   "next_expiry": "2029-09-17"
+  },
+  {
+   "sku_id": "SKU081",
+   "name": "Good Knight Mosquito Refill 45ml",
+   "counted": 8.0,
+   "sold_since": 1.2,
+   "received": 0.0,
+   "removed": 0.0,
+   "on_hand": 7,
+   "recount": false,
+   "next_expiry": "2027-11-07"
+  },
+  {
+   "sku_id": "SKU082",
+   "name": "All Out Mosquito Refill 45ml",
+   "counted": 3.0,
+   "sold_since": 0.8,
+   "received": 0.0,
+   "removed": 0.0,
+   "on_hand": 2,
+   "recount": false,
+   "next_expiry": "2028-12-31"
+  },
+  {
+   "sku_id": "SKU083",
+   "name": "Dettol Antiseptic Liquid 125ml",
+   "counted": 2.0,
+   "sold_since": 0.8,
+   "received": 12.0,
+   "removed": 0.0,
+   "on_hand": 13,
+   "recount": false,
+   "next_expiry": "2029-04-28"
+  },
+  {
+   "sku_id": "SKU084",
+   "name": "Cadbury Dairy Milk 50g",
+   "counted": 4.0,
+   "sold_since": 2.9,
+   "received": 48.0,
+   "removed": 0.0,
+   "on_hand": 49,
+   "recount": false,
+   "next_expiry": "2027-01-10"
+  },
+  {
+   "sku_id": "SKU085",
+   "name": "Cadbury 5 Star 40g",
+   "counted": 4.0,
+   "sold_since": 3.4,
+   "received": 48.0,
+   "removed": 0.0,
+   "on_hand": 49,
+   "recount": false,
+   "next_expiry": "2027-02-03"
+  },
+  {
+   "sku_id": "SKU086",
+   "name": "Nestle KitKat 37g",
+   "counted": 10.0,
+   "sold_since": 3.1,
+   "received": 24.0,
+   "removed": 0.0,
+   "on_hand": 31,
+   "recount": false,
+   "next_expiry": "2027-03-03"
+  },
+  {
+   "sku_id": "SKU087",
+   "name": "Cadbury Perk 35g",
+   "counted": 28.0,
+   "sold_since": 2.4,
+   "received": 0.0,
+   "removed": 0.0,
+   "on_hand": 26,
+   "recount": false,
+   "next_expiry": "2027-01-09"
+  },
+  {
+   "sku_id": "SKU088",
+   "name": "Cadbury Gems 17g",
+   "counted": 24.0,
+   "sold_since": 3.2,
+   "received": 0.0,
+   "removed": 0.0,
+   "on_hand": 21,
+   "recount": false,
+   "next_expiry": "2026-12-12"
+  },
+  {
+   "sku_id": "SKU089",
+   "name": "Mentos Mint Roll 29g",
+   "counted": 8.0,
+   "sold_since": 2.3,
+   "received": 24.0,
+   "removed": 0.0,
+   "on_hand": 30,
+   "recount": false,
+   "next_expiry": "2027-07-31"
+  },
+  {
+   "sku_id": "SKU090",
+   "name": "Polo Mint Roll 28g",
+   "counted": 11.0,
+   "sold_since": 2.0,
+   "received": 0.0,
+   "removed": 0.0,
+   "on_hand": 9,
+   "recount": false,
+   "next_expiry": "2027-01-12"
+  },
+  {
+   "sku_id": "SKU091",
+   "name": "Center Fresh Chewing Gum 28g",
+   "counted": 18.0,
+   "sold_since": 3.0,
+   "received": 0.0,
+   "removed": 0.0,
+   "on_hand": 15,
+   "recount": false,
+   "next_expiry": "2027-08-02"
+  },
+  {
+   "sku_id": "SKU092",
+   "name": "Alpenliebe Candy Pack 50g",
+   "counted": 11.0,
+   "sold_since": 1.9,
+   "received": 0.0,
+   "removed": 0.0,
+   "on_hand": 9,
+   "recount": false,
+   "next_expiry": "2027-05-13"
+  },
+  {
+   "sku_id": "SKU093",
+   "name": "Nestle Munch 20g",
+   "counted": 22.0,
+   "sold_since": 3.8,
+   "received": 0.0,
+   "removed": 0.0,
+   "on_hand": 18,
+   "recount": false,
+   "next_expiry": "2027-04-01"
+  },
+  {
+   "sku_id": "SKU094",
+   "name": "Everest Garam Masala 100g",
+   "counted": 5.0,
+   "sold_since": 0.9,
+   "received": 0.0,
+   "removed": 0.0,
+   "on_hand": 4,
+   "recount": false,
+   "next_expiry": "2027-03-23"
+  },
+  {
+   "sku_id": "SKU095",
+   "name": "MDH Chana Masala 100g",
+   "counted": 6.0,
+   "sold_since": 0.9,
+   "received": 0.0,
+   "removed": 0.0,
+   "on_hand": 5,
+   "recount": false,
+   "next_expiry": "2027-01-27"
+  },
+  {
+   "sku_id": "SKU096",
+   "name": "Everest Turmeric Powder 200g",
+   "counted": 5.0,
+   "sold_since": 1.1,
+   "received": 24.0,
+   "removed": 0.0,
+   "on_hand": 28,
+   "recount": false,
+   "next_expiry": "2027-01-31"
+  },
+  {
+   "sku_id": "SKU097",
+   "name": "Catch Red Chilli Powder 100g",
+   "counted": 5.0,
+   "sold_since": 1.0,
+   "received": 0.0,
+   "removed": 0.0,
+   "on_hand": 4,
+   "recount": false,
+   "next_expiry": "2027-06-02"
+  },
+  {
+   "sku_id": "SKU098",
+   "name": "Kissan Mixed Fruit Jam 500g",
+   "counted": 1.0,
+   "sold_since": 0.5,
+   "received": 6.0,
+   "removed": 0.0,
+   "on_hand": 6,
+   "recount": false,
+   "next_expiry": "2027-08-21"
+  },
+  {
+   "sku_id": "SKU099",
+   "name": "Kissan Tomato Ketchup 950g",
+   "counted": 13.0,
+   "sold_since": 0.9,
+   "received": 0.0,
+   "removed": 0.0,
+   "on_hand": 12,
+   "recount": false,
+   "next_expiry": "2026-09-22"
+  },
+  {
+   "sku_id": "SKU100",
+   "name": "Maggi Hot & Sweet Sauce 500g",
+   "counted": 0.0,
+   "sold_since": 0.0,
+   "received": 12.0,
+   "removed": 0.0,
+   "on_hand": 12,
+   "recount": false,
+   "next_expiry": "2027-09-18"
+  },
+  {
+   "sku_id": "SKU101",
+   "name": "Sundrop Peanut Butter 200g",
+   "counted": 6.0,
+   "sold_since": 0.5,
+   "received": 0.0,
+   "removed": 0.0,
+   "on_hand": 5,
+   "recount": false,
+   "next_expiry": "2026-09-25"
+  }
+ ]
+}

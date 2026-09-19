@@ -1,0 +1,15 @@
+SHARMA DISTRIBUTORS
+B-3, Station Road
+GSTIN: DEMO-GSTIN-SD03
+TAX INVOICE
+Invoice No: SD/2026/1188    Date: 18-09-2026
+Bill To: Demo Kirana Store, Sector 4 Market
+------------------------------------------------------------------------------
+ #  ITEM                                 HSN  GST%   QTY      RATE      AMOUNT
+------------------------------------------------------------------------------
+ 1  AMUL MASTI DAHI 400G                0403     5    12     36.90      442.80
+ 2  AMUL TAAZA MILK 500ML               0401     0    12     22.14      265.68
+------------------------------------------------------------------------------
+                                                 TOTAL (incl. GST)      708.48
+Items: 2
+Goods once sold will not be taken back. E&OE.

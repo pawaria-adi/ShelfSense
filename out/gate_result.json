@@ -1,0 +1,8 @@
+{
+  "engine_top1": 30.68,
+  "baseline_top1": 25.68,
+  "engine_top3": 54.77,
+  "exact_basket_top1": 27.14,
+  "n_evaluated": 2819,
+  "decision": "FALLBACK"
+}
