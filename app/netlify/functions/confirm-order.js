@@ -1,4 +1,3 @@
-// Netlify wrapper around ../../api/confirm-order.js
 const {confirmOrder} = require("../../api/confirm-order.js");
 exports.handler = async event => {
   try {
